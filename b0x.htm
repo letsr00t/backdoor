@@ -1,0 +1,187 @@
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://img.freepik.com/premium-vector/retro-aesthetic-y2k-psychedelic-acid-trippy-heart-70s-80s-90s-cartoon-style-set-element-smile-emoji-creative-vector-illustration-funny-cartoon-character-pop-art-aesthetic-y2k_533377-801.jpg" type="image/x-icon">
+    <title>Hacked By Kakaroot</title>
+</head>
+<body>
+    <div class="container">
+        <div class="main">
+            <div class="holder">
+                <img src="https://i.gifer.com/K9m.gif" alt="">
+
+                <h2>This website has been <span>hacked</span></h2>
+                <h2 class="y">[ Kakaroot ]</h2>
+                <canvas id="c"></canvas>
+            </div>
+        </div>
+    </div>
+
+
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&family=Poppins:wght@400;600&family=Raleway:wght@300;400;700&display=swap');
+
+*{
+                margin: 0;
+                padding: 0;
+            }
+            
+            body {background-image: black;}
+            canvas {display:block;}
+
+
+            
+h2,img {
+    position: absolute;
+    top: 50%;  
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    font-family: 'Poppins';
+    font-weight: 400;
+    color: white;
+    font-size: 32px;
+}
+
+img {
+    filter: opacity(40%);
+}
+
+.y {
+    color: rgb(255, 59, 59);
+    top: 56%;  
+    animation: blink 3s infinite;
+    cursor: pointer;
+    font-weight: 700;
+
+}
+
+/* .y:hover {
+    color: rgb(255, 252, 59);
+    cursor: pointer;
+} */
+
+span {
+    font-weight: 700;
+}
+
+
+
+
+@keyframes blink{
+  0% {
+    color: red;
+  }
+  20% {
+    color: yellow;
+  }
+  40% {
+    color: yellow;
+  }
+  60% {
+    color: blue;
+  }
+  80% {
+    color: orange;
+  }
+  100% {
+    color: red;
+  }
+}
+@-webkit-keyframes blink{
+  0% {
+    color: red;
+  }
+  20% {
+    color: rgb(0, 255, 0);
+  }
+  40% {
+    color: yellow;
+  }
+  60% {
+    color: blue;
+  }
+  80% {
+    color: orange;
+  }
+  100% {
+    color: red;
+  }
+}
+
+
+
+@media only screen and (max-width: 991px){
+h2 {
+    font-size: 19px;
+    width: 100%;
+    text-align: center;
+}
+
+.y {
+    top: 54%;
+}
+}
+
+
+
+</style>
+<script>
+    // geting canvas by Boujjou Achraf
+    var c = document.getElementById("c");
+        var ctx = c.getContext("2d");
+
+        //making the canvas full screen
+        c.height = window.innerHeight;
+        c.width = window.innerWidth;
+
+        //chinese characters - taken from the unicode charset
+        var matrix = "???????????????????????????????????????????????????????????????????????????????????123456789@#$%^&*()*&^%+-/~{[|`]}";
+        //converting the string into an array of single characters
+        matrix = matrix.split("");
+
+        var font_size = 10;
+        var columns = c.width/font_size; //number of columns for the rain
+        //an array of drops - one per column
+        var drops = [];
+        //x below is the x coordinate
+        //1 = y co-ordinate of the drop(same for every drop initially)
+        for(var x = 0; x < columns; x++)
+            drops[x] = 1; 
+
+        //drawing the characters
+        function draw()
+        {
+            //Black BG for the canvas
+            //translucent BG to show trail
+            ctx.fillStyle = "rgba(0, 0, 0, 0.04)";
+            ctx.fillRect(0, 0, c.width, c.height);
+
+            ctx.fillStyle = "#f4427d";//yellow text
+            ctx.font = font_size + "px arial";
+            //looping over drops
+            for(var i = 0; i < drops.length; i++)
+            {
+                //a random chinese character to print
+                var text = matrix[Math.floor(Math.random()*matrix.length)];
+                //x = i*font_size, y = value of drops[i]*font_size
+                ctx.fillText(text, i*font_size, drops[i]*font_size);
+
+                //sending the drop back to the top randomly after it has crossed the screen
+                //adding a randomness to the reset to make the drops scattered on the Y axis
+                if(drops[i]*font_size > c.height && Math.random() > 0.975)
+                    drops[i] = 0;
+
+                //incrementing Y coordinate
+                drops[i]++;
+            }
+        }
+
+        setInterval(draw, 35);
+
+</script>
+</body>
+</html>
