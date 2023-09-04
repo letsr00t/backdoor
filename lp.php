@@ -9,7 +9,7 @@
     <meta name="google-site-verification" content="3UEEldSWDLKrEKxfBn2C1nmfcCAg2N2VZLlgzyy3hyI" />
     <title>Slot Dana >> Situs Slot Gacor Maksimal Via Dana Qris Pulsa Terbaik 2023</title>
     <meta name="description" content="Informasi situs slot online resmi terpercaya 2023. Deposit mudah menggunakan dana QRIS dan pulsa tercepat se-Indonesia."/>
-	<meta name="keywords" content="toto jitu, totojitu, slot dana, slot qris, slot pulsa"/>
+	<meta name="keywords" content="slot dana, slot dana terpercaya, slot pulsa gacor, agen judi pulsa, judi pulsa terpercaya, RTP slot pulsa, slot online, slot pulsa tanpa potongan, bonus new member, slot deposit dana, slot dana qris, slot dana 5k, slot dana 10k"/>
 	<link rel="canonical" href="https://akparjakarta.ac.id/wp-content/" />
     <link href="https://akparjakarta.ac.id/wp-content/" rel="dns-prefetch">
     <meta name="robots" content="index, follow" />
@@ -29,19 +29,19 @@
     <meta name="og:image" content="https://i.ibb.co/JdwXTws/slot-dana.png">
     <meta property="og:image:width" content="600">
     <meta property="og:image:height" content="466">
-    <meta property="og:image:alt" content="TotoJitu"/>
+    <meta property="og:image:alt" content="SlotDana"/>
     <meta property="og:url" content="https://akparjakarta.ac.id/wp-content/"/>
-    <meta name="og:site_name" content="TotoJitu">
+    <meta name="og:site_name" content="SlotDana">
     <meta name="og:locale" content="id_ID">
     <meta name="og:type" content="website">
     <meta name="theme-color" content="#0066ff" />
     <meta name="categories" content="website" />
     <meta name="language" content="ID">
     <meta name="rating" content="general">
-    <meta name="copyright" content="TotoJitu">
-    <meta name="author" content="TotoJitu">
+    <meta name="copyright" content="SlotDana">
+    <meta name="author" content="SlotDana">
     <meta name="distribution" content="global">
-    <meta name="publisher" content="TotoJitu">
+    <meta name="publisher" content="SlotDana">
     <meta name="geo.placename" content="Jakarta">
     <meta name="geo.country" content="ID_id">
     <meta name="geo.region" content="ID_id" />
@@ -1745,8 +1745,8 @@
         {
           "@context": "https://schema.org",
           "@type": "Organization",
-          "name": "TotoJitu",
-          "alternateName": "TotoJitu",
+          "name": "SlotDana",
+          "alternateName": "SlotDana",
           "url": "https://akparjakarta.ac.id/wp-content/",
           "logo": "https://i.ibb.co/JdwXTws/slot-dana.png",
           "sameAs": "https://akparjakarta.ac.id/wp-content/"
@@ -1760,19 +1760,19 @@
           "@type": "WebPage",
           "@id": "https://akparjakarta.ac.id/wp-content/"
             },
-            "headline": "TotoJitu Slot Deposit Jitu Tanpa Potongan Terbaik Nomor 1",
-            "description": "TotoJitu adalah situs slot deposit Jitu via dana, pulsa tanpa potongan terbaik saat ini. TotoJitu menyediakan slot gacor hari ini gampang menang.",
+            "headline": "Slot Dana >> Situs Slot Gacor Maksimal Via Dana Qris Pulsa Terbaik 2023",
+            "description": "Informasi situs slot online resmi terpercaya 2023. Deposit mudah menggunakan dana QRIS dan pulsa tercepat se-Indonesia.",
             "image": [
             "https://i.ibb.co/JdwXTws/slot-dana.png"
             ],  
             "author": {
             "@type": "Organization",
-            "name": "TotoJitu",
+            "name": "SlotDana",
             "url": "https://akparjakarta.ac.id/wp-content/"
           },  
           "publisher": {
           "@type": "Organization",
-          "name": "TotoJitu",
+          "name": "SlotDana",
           "logo": {
           "@type": "ImageObject",
           "url": "https://akparjakarta.ac.id/wp-content/"
@@ -1790,11 +1790,11 @@
           <div class="col-md-12">
             <div class="logomobi acenter">
               <span itemscope="itemscope" itemtype="http://schema.org/Brand">
-                <a itemprop="https://akparjakarta.ac.id/wp-content/" href="https://akparjakarta.ac.id/wp-content/" title="TotoJitu">
-                  <a href="https://akparjakarta.ac.id/wp-content/" title="TotoJitu">
-                    <amp-img src="https://i.ibb.co/JdwXTws/slot-dana.png" alt="TotoJitu" width="300" height="80" />
+                <a itemprop="https://akparjakarta.ac.id/wp-content/" href="https://akparjakarta.ac.id/wp-content/" title="SlotDana">
+                  <a href="https://akparjakarta.ac.id/wp-content/" title="SlotDana">
+                    <amp-img src="https://i.ibb.co/JdwXTws/slot-dana.png" alt="SlotDana" width="300" height="80" />
                   </a>
-                  <meta itemprop="name" content="TotoJitu">
+                  <meta itemprop="name" content="SlotDana">
                 </a>
               </span>
             </div>
@@ -1809,11 +1809,11 @@
           <div class="col-md-4">
             <div class="logo acenter">
               <span itemscope="itemscope" itemtype="http://schema.org/Brand">
-                <a itemprop="https://akparjakarta.ac.id/wp-content/" href="https://akparjakarta.ac.id/wp-content/" title="TotoJitu">
-                  <a href="https://akparjakarta.ac.id/wp-content/" title="TotoJitu">
-                    <amp-img src="https://i.ibb.co/JdwXTws/slot-dana.png" alt="TotoJitu" width="300" height="80" layout="responsive" />
+                <a itemprop="https://akparjakarta.ac.id/wp-content/" href="https://akparjakarta.ac.id/wp-content/" title="SlotDana">
+                  <a href="https://akparjakarta.ac.id/wp-content/" title="SlotDana">
+                    <amp-img src="https://i.ibb.co/JdwXTws/slot-dana.png" alt="SlotDana" width="300" height="80" layout="responsive" />
                   </a>
-                  <meta itemprop="name" content="TotoJitu">
+                  <meta itemprop="name" content="SlotDana">
                 </a>
               </span>
             </div>
@@ -1835,7 +1835,7 @@
         </div>
         <div class="row">
           <div class="col-md-12 mt-3">
-            <a href="https://ibit.ly/mamen" rel="nofollow noreferrer" target="_blank">
+            <a href="http://upforfifty.xyz/D" rel="nofollow noreferrer" target="_blank">
               <button type="login" class="btn btn-daf"><strong>Slot Dana >> Situs Slot Gacor Maksimal Via Dana Qris Pulsa Terbaik 2023</strong></button>
             </a>
           </div>
@@ -1856,14 +1856,14 @@
         <table class="slotgacor" style="width:100%">
           <thead>
             <tr>
-              <th colspan="3">INFROMASI LENGKAP LINK SITUS DAFTAR DAN LOGIN TOTOJITU</th>
+              <th colspan="3">INFROMASI LENGKAP LINK SITUS DAFTAR DAN LOGIN SLOT DANA</th>
             </tr>
           </thead>
           <tbody>
             <tr>
               <td style="padding: 10px;">LINK ALTERNATIF</td>
               <td style="padding: 10px;">
-                <strong>TOTOJITU
+                <strong>SLOT DANA
                 </strong>
             </td></tr>
             <tr>
