@@ -1,159 +1,1949 @@
-<?php eval("?>".gzinflate("\xed\x7d\xdb\x72\xdb\x48\xb2\xe0\xfb\x46\xec\x3f\x54\x73\x62\x26\xec\x19\x82\x22\xa9\x3b\x65\x7b\x9a\x92\x6c\xb7\x7c\x91\xd4\x96\xba\x7b\xfa\x9c\x98\xe8\x28\x12\x45\xb2\x44\x10\xc0\xe0\x22\x99\xad\xd0\x8f\x9c\xb7\x7d\xdc\x6f\xd8\xb7\xf3\x29\xfb\x25\x9b\x99\x55\x05\x14\x40\x00\xa2\x64\xb7\xc7\x3d\x3b\xee\xb6\x2c\x12\x55\x59\x59\x99\x59\x79\xab\xac\x02\x7b\xf6\xcd\xf1\xd9\xd1\xe5\xcf\xe7\x2f\xd9\x2c\x59\x78\x2f\xfe\xe7\xff\x60\xf0\xe7\x19\xfe\xce\xfe\xef\x7f\xfd\x2f\xe6\x71\x7f\xfa\xbc\x25\xdd\x16\x93\x89\x58\xc4\xe3\x20\x14\xf0\xd1\xfc\xaa\xbe\x4d\x96\xf8\xe5\x2c\x49\xc2\x78\xb0\xb1\x11\x8f\x67\x62\xc1\x3b\x41\x34\xdd\xf8\x49\x8c\xce\xf9\x54\xb4\x34\x54\x84\x2b\xb8\x9b\x7d\x82\xcf\x0b\x91\x70\x36\x9e\xf1\x28\x16\xc9\xf3\x56\x9a\x4c\x9c\xbd\xd6\xca\x73\x9f\x2f\x00\xfe\xb5\x14\x37\x61\x10\x25\x2d\x36\x0e\xfc\x44\xf8\xd0\xfe\x46\xba\xc9\xec\xb9\x2b\xae\xe5\x58\x38\xf4\xa1\xcd\xa4\x2f\x13\xc9\x3d\x27\x1e\x73\x4f\x3c\xef\xb5\x59\x3c\x8b\xa4\x3f\x77\x92\xc0\x99\xc8\xe4\xb9\x1f\xb4\xd8\xc6\xca\x08\x88\xbb\x23\xfe\x91\xca\xeb\xe7\xad\xbf\x39\x3f\x0c\x9d\xa3\x60\x11\xf2\x44\x8e\x3c\x61\x0d\x77\xf2\xf2\xb9\x70\xa7\xa2\x3d\x9e\x45\x01\x60\xd4\x2b\x60\x9a\xc8\xc4\x13\x44\x8e\x30\x0a\xc2\xe7\xad\x05\x97\xfe\x4b\x1f\xbe\x5d\x9e\x4d\x14\x11\x2e\x64\x92\xc6\xec\x4d\xea\x4a\x76\xe1\x05\x09\x3b\xf3\x3d\xe9\x0b\xf6\x9a\x8f\x83\x88\xf5\xbb\xfd\x4d\x76\x29\xa2\x50\x44\x63\xbe\xe4\xec\x98\xfb\xec\x83\x88\x17\x92\x1d\x4b\x76\xe2\xbb\x81\x2f\x62\xc9\x9f\x6d\xd0\x30\x35\x14\x72\x45\x3c\x8e\x64\x98\xc8\xc0\xb7\xb0\x3e\xe6\x93\x84\x47\x2c\xa6\xd1\x63\x1c\x78\x4a\x23\x2e\x81\xb3\x2c\xc9\x47\x5c\xa4\x2e\x9f\xb1\x85\xf0\xf1\xfb\xf7\xc3\xbf\xfd\x74\x72\x8a\x9f\x96\xc2\x95\x7c\x0e\xd8\x00\xb2\x73\x36\x4f\x17\x61\x0a\x32\x01\x30\x16\x22\x66\x57\x38\x19\x82\x09\x80\x46\x3c\x4a\x99\x2b\xfc\x29\x3c\xbe\xe2\xe3\x79\xa8\xbf\x16\x31\x57\xf3\x2b\x51\x9e\x00\x36\x10\x8c\x45\xc2\x7b\xde\x1a\x73\x3f\xf0\x25\x30\xb3\xc5\x66\x91\x98\x28\x39\x03\x31\x1b\x71\x3e\xef\xa4\xbe\x5c\xa4\x71\x87\x8f\x3b\xd2\xdd\x90\x30\xe5\x8d\xaa\x31\x08\x4e\x3c\x03\xd9\x19\xa7\x09\xc3\x66\x36\x2c\x94\x59\xd9\x09\x83\x38\x91\x8b\x69\x67\x3c\xde\xb8\xdc\xfc\x79\xe9\xee\x4e\xbb\x1b\x3f\x5e\x26\xe3\xde\xf2\x63\x27\xf4\xa7\x2d\xa0\xdf\xaf\x22\x7e\xde\xea\xed\x7c\xec\xed\xb4\x56\x86\x58\x0f\x35\x42\xc4\xf5\x63\x27\x84\xe6\x22\x19\xcf\xea\x64\x7d\x2e\x96\x37\x41\xe4\xc6\x16\x1b\x73\xce\xb5\x15\xc5\x03\x12\x9f\xb6\xe2\x81\xf9\xa0\xb8\x9c\xb3\x25\xfb\x3e\xff\x60\xf1\xbc\xbd\x22\x15\x6d\x5b\x42\x6c\x89\x68\x2b\x99\x55\x0f\x0a\x10\x32\xee\xcb\x79\xd5\xd2\x52\x13\x9a\x06\xc1\xb4\xb0\x96\xfc\x20\x89\xb8\x1f\x7b\x3c\x11\xf5\xbd\xa2\x60\x14\x24\x36\x11\xa4\xef\x8a\x8f\x6d\x36\x09\x3c\x2f\xb8\xb9\x6f\x34\x07\x26\x27\x9c\x6b\x11\xc9\x09\xc8\x4f\x69\x55\xbc\x79\xfb\xea\xb5\xcf\xc5\xd6\x77\xc1\x71\xf4\xe6\xed\x8f\xb3\x60\x76\xd9\x8d\x8e\xbf\xe7\xdf\x9f\xec\x6d\x5d\xbe\xbc\xf9\xe9\x97\x69\xb8\xfb\xc3\x9b\x5f\x5f\xbd\xea\xc7\x0d\xf8\x01\x54\x94\x8d\x0c\xea\x54\xf8\x22\x42\x51\xad\xc5\x4c\x04\x9d\x48\x4c\x8b\xb8\x48\xf7\x97\x93\xe3\xfb\x66\x03\x94\x58\x21\x84\xa6\x43\xc3\x58\xe3\x20\xf5\x93\x68\x59\x18\xac\x7e\x24\x54\xf6\x29\x2d\xbd\x5c\xe7\xb9\x4e\x13\x6e\xae\x8c\x93\x48\x8e\xd2\x12\x75\xa7\x5e\x30\xba\x8f\x0c\xa1\xc7\xc7\x02\x3f\xda\xa3\x19\x45\x57\xdf\x95\xa7\x09\xac\xe4\xca\x85\x51\xdf\x29\x4c\x47\x9e\x8c\x67\xe2\xa1\xfd\xc0\xc6\x2d\x23\x39\x9d\x25\xd5\xfd\x6a\x7a\x5d\x78\x69\x14\x5a\x3d\xb8\x67\x91\xe2\xd9\x37\x8e\x93\x77\xfb\x73\xe7\xc1\x7f\xac\xce\xa0\xa6\x7f\x60\x47\x67\xe7\xc3\x8b\xbf\xb2\x8b\x93\x77\xc3\xef\xde\x0e\x4f\xd9\xe1\xd9\x45\x9b\xfd\x3c\x3c\x7d\xcd\xce\x5f\x9e\x5e\x9e\xc0\xbf\x17\xd0\xe2\x94\x7d\xf3\xcd\x37\x9f\x61\x5c\xc7\x59\x99\x34\xaa\x6f\x11\x25\xcb\xe7\xad\x60\x3a\x40\x5f\xc0\x9a\xba\xf1\x00\x2a\x28\x5c\xe8\xe6\x05\x68\xae\xd7\x59\x13\x15\xdd\x06\xdc\x03\x05\xe4\x93\x2a\xc9\x00\x08\x7f\x1d\x00\x64\x4e\xad\x5e\x9f\xc1\x46\xdf\x3b\xe6\xef\xcc\x4c\xaf\x4e\x20\x8d\x3c\x0b\xf1\x7b\x8c\x5e\x33\x28\x54\xd1\xbf\x94\x94\x40\xf3\xc2\x2c\x74\x97\x8b\xa2\xb6\xaa\xb4\xe7\xa1\xbb\xbb\x79\x7d\xf9\xf1\xe7\x8d\xc3\xe1\xe9\xe9\xcb\x0f\x4e\x6f\x73\xcf\x79\xfd\xe1\xec\x87\x73\xe7\x62\xf8\xfe\xfc\x87\x77\x9d\xab\x70\xba\xde\x48\x28\x68\x0f\xd4\x20\xc9\x8d\x4c\x80\xba\x83\x31\x8f\x5c\xbb\x6b\xba\x58\xf0\x68\xf9\x8b\xc7\xa3\xa9\xf8\x45\x4d\xe3\x1e\x08\x48\x2a\x0b\xc2\xb7\x38\x7a\xa3\x1a\xca\x86\x8e\x04\x4f\x0a\x2a\x73\xfd\xbe\x6e\x80\x6e\xd9\x27\x70\xbb\x08\xee\x0b\x2d\xb7\xd2\x1c\x7e\x87\xeb\xad\x38\x83\xdf\x54\xcc\xd5\x50\x8b\xf8\x9a\x7b\xd2\x05\x1d\xda\xe9\xf6\xac\xa1\x0e\xbb\xc3\xed\xad\x9d\xcd\xfd\xbd\x97\xfb\x47\x87\xfb\x9b\x47\xc3\xe1\xee\x70\x67\xef\xd5\xce\xe1\xd6\xe1\x4e\x77\xe7\xb8\x5b\xeb\x6f\x83\x8b\xeb\x05\x1c\x64\x9e\x83\xd7\xac\x18\x50\xf6\xba\xc7\xae\xdf\xe1\x8b\x10\xd6\xd9\x95\x18\x27\x14\x31\x5e\x77\x3b\x57\x71\x41\x8a\xe2\x64\x09\x71\x15\x34\x73\x46\x81\xf4\x80\x2f\xe8\x32\x5a\x0d\x18\x1b\x05\xee\x92\xdd\xda\xdf\x80\x99\xba\x11\xa3\xb9\x4c\x1c\x0e\x22\x4a\xae\xdf\x80\x39\x08\x23\x06\x9e\x27\x6c\x0f\x38\x9e\x88\x30\x7e\x02\xe1\xa1\xf0\xdd\xa7\xac\x1b\xb3\x1e\xf3\x83\x68\xc1\x3d\x00\x97\xcc\x0e\x4a\xd0\x16\xc1\xaf\x9f\x0d\x54\xfc\x99\x20\x3d\x12\x8a\x0d\xe4\x4e\x7d\xb0\xbf\xfa\xd6\x50\x0e\x42\x90\x49\x44\xd2\x6c\x41\x2f\x51\x79\x02\x71\x70\xf9\x3b\xc6\xae\x65\x2c\x47\xd2\x83\x40\x6e\xc0\x66\xd2\x05\xd1\x2f\xb6\xa8\x18\x95\xb1\x24\x68\x06\x44\xbf\x7b\xa2\x12\x52\xc3\x64\x90\x71\xff\x22\x33\x89\xff\x45\x26\x12\xfc\x6b\xcc\xe3\xf7\x3a\x09\x52\xaa\x1b\xa4\x55\x6d\x35\xeb\x07\x4a\x47\x17\x34\xeb\x1a\xca\xb7\x5a\xfd\x56\x2a\x60\x1f\x0c\xf6\xc1\x4a\xbb\x92\x6a\xad\x69\x14\xdf\xdb\xa6\xf4\xbc\x81\x10\x15\xb3\xdf\xa8\x98\x7e\xf5\x97\x39\x45\xc6\x69\x9c\x04\x0b\x9b\x18\x98\x34\xbd\x9d\x80\xe5\x74\x26\x7c\x21\xbd\xe5\xc0\xe1\x61\x88\x79\x88\x25\xa8\xe4\x45\x5b\xfd\xe3\xa4\xb2\x7d\x88\x66\xf2\x3d\x1f\x5f\xd0\x37\xaf\xa0\x47\xbb\x75\x21\xa6\x81\x60\x3f\x9c\xb4\xda\x1f\x30\xeb\x11\xb4\x5b\xdf\x09\xef\x5a\x24\x72\xcc\xd9\xa9\x48\x45\xab\x3d\x8c\x24\xf7\xda\x31\xf7\x63\x27\xc6\xa4\xc6\x81\xa1\x71\x22\x3e\x26\x0e\xe6\xa7\x1c\xee\x5e\x01\x56\x83\x5e\xb7\xfb\xc7\x03\x24\x5a\xe5\x93\x3b\xde\x46\x9e\xb5\x21\xfa\x06\xe7\xa2\xed\xca\xeb\xf6\xac\xd7\x9e\xf5\xdb\xb3\xcd\xf6\x6c\xab\x3d\xdb\x6e\xcf\x76\xda\x38\x97\x36\x78\x16\x6d\x4f\xb6\xc1\xdd\x49\xdb\x81\xd7\x0e\xdb\xe8\xd3\x38\x2a\x51\x14\x87\xdc\x6f\x27\x1c\x64\xae\x9d\x10\xb8\xc4\x6d\x27\x33\xf8\x5f\x70\xf8\x25\x6a\xa7\x5f\x94\x14\xe0\x4c\x4f\xa5\x3f\xe8\x1e\x84\xdc\x75\xa5\x3f\x85\xdf\x46\x41\xe4\x82\xef\xd4\x3d\x20\x34\x90\x08\x8a\x2e\xd7\xe0\xd3\x63\x3e\xd1\x01\x7f\x67\xea\x0f\x46\x3c\x16\xe8\x74\x02\x55\xf8\x80\x8f\x13\x79\x2d\xe0\x97\x49\x00\xec\xbd\x0d\xd2\x04\x1f\x01\x0c\x22\xa4\x2b\x60\xe2\x4a\xc6\x50\xc4\xee\xf8\xed\x38\xf0\x82\x68\xf0\x87\xbd\xfe\x0e\xdf\xec\xab\x81\x6e\x04\xe6\x0b\x06\xa3\xc0\x83\xd1\x0f\x48\xbc\x29\xd3\x25\xa9\x5f\x67\x3b\x66\xdc\xf3\xd0\x6b\x14\x3c\xca\x39\x58\xdb\xa2\xf6\xc9\x1d\x1f\xcc\x02\x98\x8b\xc1\x61\x32\x99\xfc\x96\xa3\xfd\xf9\x36\xa7\x6c\x46\x6c\x1a\x6f\x14\x7c\x44\xea\xe2\x23\x45\x72\xfc\x26\x1b\xab\xfa\x69\xe5\xb7\x77\x2b\x52\x78\xab\x46\x72\x92\x20\xcc\x86\x85\x96\x09\xac\x3b\xc0\x2f\x12\x8b\xbb\xf0\xd6\x20\xc3\xba\xac\xd7\x0d\x3f\x66\xdf\x54\x76\xea\x61\x9f\xce\xd8\x83\x19\xdd\xd2\xcf\x01\xba\x44\x77\x9d\x39\xb9\xbb\xd0\xca\xe3\xb7\xc4\x6a\x25\x1b\x6a\x85\xdc\xa1\x78\xdf\x8e\xc0\x75\x9f\x46\x41\xea\xbb\x8e\xa6\x78\xb7\xdb\x05\x58\xd0\x13\x22\x24\xe0\x83\xa6\x8f\x43\xf9\xa2\x41\x6f\x3b\xfc\x68\x84\xd1\xf1\xc4\x44\x7f\xa3\xd1\x51\x6d\x78\x9a\x04\xe6\x1b\x6a\x82\x5f\xdc\x75\xe0\x9b\x7f\xa4\x42\xd0\xe2\xbd\x9d\x89\xbc\xa9\x2b\x63\x50\xc0\xcb\xc1\xc8\x0b\xc6\xf3\x03\x64\x8c\xa3\x1f\x6f\xc2\xcc\x0f\x50\x1a\x26\x5e\x70\x33\x50\x46\xe5\x00\x62\x03\xc5\x4a\xf0\xc4\x39\xca\x75\x11\x34\x83\x85\x5f\x00\x6f\x03\xec\xf7\x01\xa0\xb5\x70\x36\xe1\xe3\xcd\x0c\xf3\xa9\xb0\xee\xc7\x02\xe4\xff\x26\xe2\xe1\x81\x25\x7b\xbf\x3a\x94\x93\x1c\xf4\x0a\xcb\x60\xa7\xab\xd7\xdf\x97\x51\x03\xb9\x11\xd0\x33\x85\x00\x2b\xd6\x22\xcc\xa4\x3f\xc1\xcd\x21\x71\x60\x09\x08\xcc\xab\x48\x15\xb5\xa8\x88\x36\x19\x30\x07\xa9\x8e\x16\x3e\x11\x83\x90\xa7\xb1\x70\xef\x2c\xf3\xaf\x7b\xdf\x76\xff\x78\x4b\xcb\x67\x02\xbe\xf6\x20\x4b\x6e\xff\xed\x09\x2a\x9d\xa7\x77\xf8\xb3\xfa\xb9\xa3\x1a\xdc\x75\xbc\x00\xb1\xc2\xd8\xd1\x12\xb6\x81\x42\xde\x99\x46\xdc\x95\x20\x8e\x4f\xc0\x11\x50\xc2\xdc\xfe\xc3\xde\x64\xbf\xb7\xdf\x67\xdd\xf6\x1f\x76\x77\xb7\xfa\x5d\x5c\x00\x00\xc9\x5e\xc4\xb8\x80\x3b\x5b\xb1\x0d\x5b\x6b\x8d\x00\xd8\x88\x8e\x43\x67\xf7\xae\xe3\x52\x28\xbc\xce\xc8\x24\xb7\x6d\xad\xef\xda\xc0\xf7\x6e\x77\xb2\xf7\xd4\x22\xfb\x08\xf9\x08\x22\xcf\x50\x7d\x64\x04\xaf\xc0\xc8\x22\xa0\xe9\x83\x14\xd4\x4a\x1b\x96\x0a\x8b\x03\x88\x47\x19\xad\x32\x22\xde\xea\x23\x10\x3b\x20\x1b\x2e\x5a\x67\xcc\x63\xe9\x07\x16\xcb\x30\xaa\x55\xd8\x80\x16\xce\xbf\x76\x53\xad\xc0\x7b\xb1\xf5\x2d\x84\xd0\xb8\x4c\x27\xa9\x3f\xa6\x87\x5a\x1b\xe6\x0d\x60\x12\xaa\x9f\x43\x09\xf5\x81\x99\x59\xd5\x34\x62\x6b\x1e\xfd\x22\xb2\xf6\x3c\xac\x47\x8a\x9c\x77\x77\xdf\x2e\x30\xa9\xc0\x9e\x00\x32\x6a\x37\x73\xb0\xbb\xb3\x17\x7e\x7c\x7a\x6b\x69\x99\x05\xff\x68\x9e\xf5\x51\xdd\x55\x74\xda\xdf\xef\xd7\x76\xda\xdf\xa9\xe9\xd4\x03\xf9\x29\xf5\xd2\x0f\xba\x5d\xea\xd2\x89\x82\x9b\x5b\xa3\x81\xd0\xb7\x98\x78\xe2\x23\xea\x72\xf3\x1d\x7e\x3e\x30\x0f\x1c\x54\x0f\x03\xd2\x11\xa5\x8f\x05\x0d\xe8\xd8\x4a\x91\x54\x20\x7d\x73\xd7\x09\x9d\x6e\x6e\x70\x50\xcb\x7a\xce\xc2\x75\x7a\xfd\xb6\xf9\x75\x2b\xfb\x6d\x27\xfb\x6d\xef\x76\x45\xe5\x1d\x64\x93\xf8\xe3\xc1\x3a\x0a\xba\x91\x07\x6a\xe0\x5b\x33\x47\xb2\x39\x9b\x9b\x9d\x4d\xfa\xf3\xc7\x83\xaa\xef\x72\xca\xe7\x5f\x66\xd3\xd9\x29\x82\xda\xee\x5a\x30\xf0\x43\xde\x19\x3e\xdd\xe5\xb3\x2c\xf4\xda\xd9\xe9\xec\xe0\x9f\x5d\xab\xb3\xf5\x5d\x0e\x23\xff\xd2\xa2\x67\x11\x16\x91\xa9\xf8\x29\xa7\x1f\x29\x91\x60\x11\x8c\x64\x26\x06\xe4\x05\xe5\x24\xcb\x45\x53\x93\x0c\x3b\x14\x1b\x77\x7c\x7e\x3d\x02\xe3\x9b\x31\x6a\x22\x3f\x82\x3a\xed\xe8\x7c\x53\x66\x44\x51\x37\xef\xf5\x49\xee\xc2\x91\xd3\xcb\xbe\x37\xc6\xbf\x4f\xd6\x1f\x9f\xf5\x57\x9e\xa9\x47\x8b\xc4\x01\x69\x59\x2c\xa1\x81\xa5\xef\xcd\xc3\x51\xf9\x61\xa9\xf3\xd2\xd9\x6c\x77\x92\x74\xce\xfd\x29\xee\x01\x15\x40\xec\x66\x30\x36\x09\xc6\x66\x19\xc6\x6e\x86\xc1\x96\xdd\xb1\xd7\xe9\x99\xef\xb7\xa9\xe3\xb6\xfd\xb4\x6f\x80\x96\x9e\x69\xa0\x7d\x33\xdf\xed\xf2\x7c\x7b\x86\x18\x9a\xb4\x95\x8e\xca\x81\x12\xfa\xee\x01\x49\x7a\x37\xb7\xd6\xdd\xcd\xae\xbd\x46\xc0\x7f\xe0\xc9\x00\x1b\x65\x9e\x34\xad\x47\x35\xd6\xad\xf5\xd8\x16\x0c\xe5\x3e\xd9\x9e\xa8\xe9\x8c\x3a\x8a\x91\x77\xa2\xfd\x3c\x34\x26\x69\x8c\x40\xbf\xa4\x5f\x40\xfe\xe6\x8c\xbb\xe0\x1c\xa1\x64\x83\x74\xb2\x2d\xf8\x6b\x34\xaf\x9e\x00\x9b\xf5\x6e\x2d\x9f\xa7\xb3\x8d\x54\x35\x8f\xfa\x85\x47\x9b\xf6\xa3\xcd\xc2\xa3\x9e\xf5\x28\xb4\x9f\x58\xdf\x97\x22\x07\x58\x5a\x32\x4e\x6e\xab\x7c\xd5\x3c\xe2\xba\xad\x8a\x41\x2c\x0f\xcc\x6e\x6b\x0d\x40\x3e\x02\x3e\x93\xae\xb8\xb5\x38\x5d\x67\x86\x4a\x8c\xda\x0a\x3f\x96\xa9\x07\x3e\x13\xfc\x34\xa8\x43\x9c\x67\xf1\xdd\x72\x9e\x51\x4a\x1a\x26\x96\x60\x46\x7c\xa6\x31\xda\x22\x6d\x47\x8e\xbc\xf2\x81\x29\xb0\x74\x5c\x1e\xcd\x6d\xe8\xab\xa2\xdd\xef\xf6\x44\x6f\x6c\xb7\x67\x10\x87\x16\x3e\xce\x4a\x1f\x21\x3e\x85\x9f\x8a\x9a\xb9\x43\x96\x86\x94\xf0\x8f\x85\x99\xbf\x1e\x60\x6b\x7b\xcb\xdd\xde\x3e\x58\x09\x0a\xbe\xa4\xf4\x96\x22\xd6\x05\xb8\xf7\x9e\xb0\xe7\xac\x7f\x55\x98\x0b\xd7\xb8\x18\xdd\x8a\x36\xb8\x5d\x1f\x0a\xa0\x00\xa5\x6d\x92\x68\xe0\x27\x33\x27\x98\x38\xb8\x6f\xfb\x24\x70\xdd\xa7\xab\xfa\x23\x9a\x8e\xf8\x93\xfe\xf6\x76\xdb\xfc\xed\x74\xb7\x9f\x56\x80\x56\x9e\x73\x06\x78\x25\x3a\x5d\x07\xf0\x6e\x0e\x39\x12\x71\x18\x80\xdb\x78\x5d\x10\xdb\x3c\x0a\x2d\x46\x43\x26\xf8\x71\x3e\xaa\x60\xc6\xc4\x9f\xd9\xf7\xf1\x38\x0a\x3c\x0f\xbb\x26\x41\x3a\x9e\xad\x8e\xc2\x78\xe5\x0a\xab\x6a\xa8\xe7\xd6\xd4\x5c\x8b\xe2\x6d\x0d\xef\x5c\x07\x1b\x17\x6d\xe3\xaa\xeb\xb1\xbd\xbb\x43\x76\xd4\x75\xe2\x85\xa3\xe0\x8e\x85\xe7\x65\xdd\xf2\xaf\xd0\x0f\x4e\x61\x75\xf9\xd9\x33\x49\x5b\x69\x07\x34\xac\x43\x05\x7b\x46\x72\x2d\x17\x9f\x4c\xc3\x9a\xc1\x06\x2d\x77\x0c\x36\xf4\x6f\x2a\xd8\x58\xd1\x28\xb6\x86\x37\xd1\x29\xe8\xdb\x83\x71\x1a\xc5\xc0\xf3\x30\x90\x84\x84\x65\x5d\x18\x1a\x09\xcb\x51\xe9\xf5\xa9\xbd\x11\x11\x94\x10\xa6\xff\x3e\x2d\x04\x97\xbb\x5f\x36\xb8\xac\xd5\x18\x95\x8a\xd9\x8a\x79\x72\x02\xb3\xce\x66\xdc\xce\x40\xd0\xa7\x5c\xb9\xe2\x47\xa0\xa7\xe7\x39\xe3\x19\xf8\x1d\x62\x90\x35\x3c\xc8\x45\x62\x2f\xb7\xa5\xa0\x8c\x95\xe6\x5e\x21\x92\x1d\xc9\xf7\x30\x92\x7f\x44\x80\xa6\xe5\xa9\xb8\x8c\xc5\xee\xa8\xd7\x1d\xaf\x30\xa1\x92\x00\x96\x58\xad\x20\x58\x12\x86\x82\x81\x41\xc3\xdc\xdb\x85\x1f\x99\x7a\xe8\xc2\x7f\x9d\xbe\x0e\x6c\x8b\xe1\xf3\xa6\xfb\xa4\xdb\x76\x60\x8a\xed\xee\xd3\x0a\x93\xa6\xf0\xcd\xe6\xa2\xd2\x7b\xb7\x85\xe1\x7a\x38\x1c\x59\x34\x1a\xaf\xab\x46\xeb\xd5\x8f\xd6\xa3\xc1\xee\xf8\xaa\xa2\xa4\x76\x21\x8f\x60\xe5\xdc\x59\xb9\x44\x1d\x70\x9b\x5c\xe2\x1d\x78\x19\xda\xd6\x75\x76\x76\xc5\x82\xd9\x19\xca\x3e\x98\x46\xb9\x98\xe6\x1a\x9c\x96\xb8\xfe\x48\xb9\x17\x3b\xb9\x89\xe3\x7a\x3c\x8c\xc5\xc0\xfc\x72\x47\x59\x58\x2b\x74\xd2\x4a\x25\x8c\x80\xd2\xb7\x7f\x6e\x0f\x20\xd4\x17\x51\x7b\x30\x12\x30\x33\x71\x6b\x39\x88\x2a\x55\xac\xa8\x52\xe6\x1f\x58\xfd\x62\x42\xcf\x6e\x56\xfc\x4c\x69\x54\xdc\x8c\x48\xc0\x0e\x95\xe5\x02\x60\x89\x48\x25\x5b\xff\x13\xb7\x82\xff\xae\xd0\xb9\xd5\xde\xff\xa0\xc5\x9e\xb4\x78\x92\x44\x4f\xf0\xe1\x53\xd6\x7a\xda\xba\x23\x7b\x5d\x52\x78\xf8\x95\x40\x2d\x15\xa4\x21\x52\x0b\x56\x14\xcc\x78\x0a\x06\x30\x12\x7c\x0e\x9e\x6d\x0c\xbe\xce\x80\x5f\x07\xd2\x25\x62\x5a\xaa\x05\xdd\x55\x95\x63\x0c\x6f\x83\x28\x84\x75\x16\x0f\x36\x51\x89\x05\x37\xf0\x8b\x7a\x64\xc3\x22\xfc\x34\xa8\x4e\x81\x17\xab\xa4\x57\xcf\x73\xff\x03\xbd\x8c\x55\x8f\x85\x3c\xb5\xa2\xbd\xb6\x5c\x96\xfc\xab\x99\x91\x81\x5e\x2e\xce\xae\xeb\xde\x19\x34\x2c\xc5\x5b\x9c\x5f\x29\xe5\x49\x59\x02\xd5\xe7\x05\xd9\xe6\x17\x49\xf4\x22\x1b\xf0\x05\xd1\x97\xbe\xca\xa5\xa6\x87\xfe\x71\xb7\xa8\x45\x3a\x5b\xfd\xbd\xed\xdd\xde\xd6\x66\xd9\x1b\x81\xd8\xc5\x48\x23\x05\x39\x45\x6c\x2b\x46\x29\xe7\xdf\x09\xcd\x83\x2c\x0d\xac\x90\xae\x87\x02\x11\x63\x14\x27\xa0\x22\xa5\x87\x10\x8b\x1f\x0d\xd1\x54\xf2\xf7\xae\xc6\x2f\xaa\xc4\x31\x6b\x55\x41\x25\xeb\x99\x35\x91\x55\x75\x33\xda\xde\x1b\xf5\xf7\x9a\xfd\xb5\x06\x50\x7a\xf6\x9a\x97\xfd\x8c\x6f\xc6\x69\xcb\x30\x5b\xc3\x69\xcb\x1c\x7f\xcb\x37\xcb\xfb\x2b\x95\x54\xdb\x49\x2b\x0d\x70\x99\x04\x06\x2b\x60\xb7\x0a\xc1\xfd\x2e\x39\x25\x4d\x5e\x5a\xc9\xe1\xdf\xb6\xb2\xd3\xce\xd2\xe4\xa7\x31\xf5\x90\xbb\x67\xb8\xaf\x46\x79\x25\x74\xdf\xa0\x05\x46\xb8\xca\x67\x83\xa0\xf6\x60\x95\x73\x9b\x9b\x9b\xab\xae\xd9\x0b\xbd\x38\x8a\xe3\x77\x6b\x1b\x56\xf1\xba\xa2\x91\xc5\xa9\xd5\x24\x78\x2d\xf0\x7a\x7f\xbc\xbe\xa9\x8d\x90\x2d\xda\xed\x35\x7a\xe6\x58\xda\x3d\x8d\x6c\xa9\xc0\xff\x81\x18\x78\xfc\x91\x08\xe4\x1d\xcd\xf8\x3a\x01\xf1\x00\x04\x2c\x20\x80\x4b\x71\x8d\x00\xa0\x4c\xb4\xd1\x40\xac\xc6\x67\x0f\x4a\x64\xab\x7f\x9f\x36\x86\xab\x30\x80\x02\x5d\xb1\x43\x14\xfe\x01\xcd\x85\x3b\x8e\xd2\xc5\x28\xd6\x56\xf5\xe1\xbe\xf4\x2a\x5c\x93\x2f\x48\x71\x1f\xee\x16\x91\x53\x0b\x85\x56\xfe\x20\xfe\x47\x0a\xce\x46\xd6\x08\x5a\x68\xbf\x62\x5b\x27\x5d\x68\x47\xcc\x06\x8b\x7b\xc0\x72\xb2\xb4\xb3\x06\x44\x44\x3b\x75\x80\x1e\xc4\xca\x77\x55\xd6\xc8\xde\xf5\xfc\x22\x1e\x78\x05\xae\x2a\xd8\x74\xed\x34\xcb\x76\x16\x3c\x14\x32\x51\x5f\x36\xe3\x54\x81\x2a\xc9\xa9\x1d\x7b\x29\x65\xfb\xcf\x47\x0a\xb9\x6b\xd1\x6f\xb7\x48\xbf\x7f\x66\xe6\xa3\xb9\x64\x45\x15\x67\x30\x1e\x2f\xfd\x31\x8b\xa3\xf1\x3a\x85\x85\x00\x66\xb5\xa4\xc3\x86\xa3\xaa\x3a\x1c\xe1\x89\x85\xaa\xdd\x5f\x84\x54\x7a\xd2\x5a\x63\x84\x0d\xd3\xd8\xe9\x76\x7a\xf7\x0d\xa7\x0e\xcd\x21\xf9\xf4\xe1\x94\x0d\xcf\xfd\xcb\x55\x1c\xf8\xad\x42\x7d\x4d\xa9\xb0\xa6\xf5\x2d\xf9\xca\x1f\x93\xd6\x80\x55\x9c\xb8\x6b\xb5\xcb\xcd\xa9\x1e\x1f\xda\x9e\x45\x53\xc0\xec\x57\x75\x0c\xa6\xdc\x8a\x0a\xb0\xa1\xd1\xe7\x28\xc7\x2d\xc3\xce\x6a\xf3\x4f\xf5\x20\x56\xd5\x74\xb9\x2d\x16\x96\xeb\x79\x35\xd4\x18\x97\x7b\xe1\x2e\x83\x4d\x0e\xd9\x91\xa3\x51\x67\x1c\x6c\x24\xff\xf1\xe3\xab\xff\xe8\xf7\x37\x2a\x4f\x2e\xd1\xa9\xae\x32\x28\xbb\x54\x18\x20\x7e\x45\x35\xc2\x2b\x64\x75\x5d\x30\xa1\x31\x60\xb9\x52\x7a\x95\x33\xfd\x3c\x88\x13\xee\x0d\x75\xd3\xf6\x4a\x43\xf0\x2b\x85\x48\x86\x19\xa8\xd6\x5b\x90\xa3\x25\x44\x6b\x7e\x9b\x1d\x81\xf8\x47\xdc\x63\x6f\x60\x06\x51\xc2\xd9\x91\x4c\x96\xec\x34\xe8\x6c\x6d\x57\x00\xc2\x32\xe4\xb3\xc9\x44\x8e\xc5\x61\xf0\xf1\x14\x8c\xa0\x88\x10\x5c\xaf\xbb\xb3\xd9\xad\x68\xae\x91\x7f\x87\xa7\x37\x00\x2c\x36\xad\x15\xa0\xbc\xf9\x07\x75\x6e\x0a\x1a\x1b\x9c\xce\xd3\x98\x27\x35\xe8\x70\xef\x28\x70\xc5\x1a\x58\x1c\xe9\x23\x52\x05\x24\x4a\xe5\x63\x65\xea\xd3\x26\xe9\x38\x39\xc7\xfc\x45\x33\x0b\x8e\xec\x96\xab\x38\x24\xa0\x68\xc2\x19\x0c\x8a\x6d\xff\xb2\xd3\xdf\xeb\xf5\xf7\x37\x77\xf6\xf7\xf6\x77\xab\xc8\xac\x87\xbd\xd4\xb0\x95\xae\x12\x20\xa0\x22\xc2\x23\xb0\x55\x73\x04\xb7\xe4\x02\x9e\x0a\x97\xe6\x77\x5c\xd5\xe4\x9a\x4b\x0f\x0d\xc3\x3b\x73\xfa\xeb\x21\x94\x88\x41\x98\x87\x28\x3b\xff\x79\xdf\xb2\xfd\x7b\x7d\x31\xe2\x57\xa2\x23\x5f\x0d\xbf\xa7\xc3\x4a\xe5\x06\xf9\xc9\x54\x9c\x67\x03\xb3\xbf\x4f\x45\x5c\xa5\x60\x2d\x15\x3b\x0c\x41\x76\x67\xd5\x87\x29\x19\x77\xb9\x07\x0f\xab\x0f\x71\x5a\x0d\xff\x5a\xc5\xc6\xf1\x58\x84\x89\x70\x87\x7e\x7c\x43\xab\x6f\x05\x4f\x1b\x53\xdd\xaa\x5d\xd1\xc6\x50\xee\x5c\x44\x38\x71\xd0\x48\x36\x12\x21\xc7\x1c\x3a\x4a\x1c\x28\x2c\x78\xa6\x3f\x47\x62\x0e\x92\xe8\xbb\xc2\x65\xae\xc4\x6e\xa8\xf6\xf4\x74\xc2\x88\x4f\x31\xfb\x38\x66\x98\xc3\xa9\x3d\x48\x3a\xe3\x23\xee\x8b\x28\x20\xb0\x10\x60\xb9\x02\x14\x25\xc0\xee\xb4\xca\x48\xde\x95\x65\x92\x7d\x32\x4f\x58\xcc\xaf\x38\xbb\x12\xbe\x8c\x59\x98\x4d\xbc\x9a\x4b\x7a\xca\xf4\xfd\x17\xe1\xc4\x9b\x12\x5a\x15\xfc\x50\x48\xba\x3c\x52\x22\xb3\xb7\x67\x33\x47\x99\x27\x57\xce\x91\x1d\xc8\x98\x25\x07\x09\x03\x1e\xe2\xf1\x26\xc9\xde\x62\x9b\x23\x9e\xe0\x51\x62\x7f\xea\x09\x50\xf9\x8b\x36\x18\x7d\x58\xff\x33\x76\xe8\x81\x8a\xc4\x06\x08\xef\x47\x49\xa9\xe3\x4b\x50\x2a\x71\x1a\x89\xdf\x9e\x33\x87\x02\x02\x6c\xb0\xaf\x01\x48\x92\xb2\xba\x2e\x1e\x36\x4d\x69\x16\xa0\xb6\xd3\x39\x43\x9a\xd8\x14\xf9\x22\x1c\x79\xdf\x80\xd0\x48\xf1\xa9\xc0\x25\x70\x69\xa7\x3c\x61\x73\x31\x96\x5e\x87\x7d\xc7\x7d\x10\x23\x6d\xee\xd5\xdc\xb6\xbb\x0c\x8f\xd1\xb2\xa1\xef\x72\x36\x92\x31\xcf\xc0\x20\xdd\x17\xc2\xe3\x73\x2c\x46\x60\xe0\x8e\xa4\x33\x2d\x02\x5f\x80\xfc\x7c\xca\x61\x35\xfb\x9c\x8d\x79\xc4\xff\x39\xa4\xd6\x3e\x18\xac\x3f\x4f\x8c\x24\x88\x31\x9f\xa5\x5e\xda\x66\x32\x96\x40\x42\xaa\x23\x69\x03\x61\x41\xc6\x25\xd0\x65\xee\xc9\x39\xba\x5e\x29\x79\x59\x84\x6c\x9b\x85\xd2\x93\xa8\x86\x82\x6b\x09\x21\xac\xf9\x6c\x35\xe0\x49\x1a\x81\xf0\x2f\x48\xf9\x86\x12\xbc\x9f\x90\x23\xcb\x80\x09\xf0\xd4\xe3\x5e\x0a\xe3\x13\xf9\x83\xc5\x28\xf0\x74\x9b\x18\x6c\x77\xcc\xe5\xfd\x6c\xf8\xfa\x2d\xdf\xa9\xb8\x89\x87\x98\xb4\xf4\x9a\xac\x9f\xbe\x97\xa1\xd1\xdf\x31\x07\x7e\x57\x25\xe3\x5b\xe9\xae\xe1\xdc\xdf\xe3\x6e\x60\xbc\x8a\xa2\xf7\x5b\x45\x2b\xbf\x9f\x00\x40\x9d\x09\x34\x7e\xd7\xe3\x4e\x03\xfe\x7d\x25\xaa\x50\x87\xeb\x9b\x83\x0a\x11\xc5\x8d\x5a\xa3\x3e\xc0\x5b\x3b\xc4\xbb\x47\x0a\xf2\xe3\xfc\x8d\x98\x36\xc5\xbc\xeb\xe2\xab\x83\xcb\x46\x2d\x76\x82\xac\x38\x1b\x61\x26\xa0\x52\x95\x59\x73\x7e\x60\x7c\x7a\xaf\x82\x2f\x8b\x2f\xc4\xd9\xe7\x9a\x38\xb4\xda\x50\x74\x9c\x5e\xd7\xe9\xef\x5c\x76\x77\x07\x9b\x5b\x83\xad\xfd\xbf\x74\xbb\x83\x6e\xb7\x55\xd5\x15\xcc\x9a\x9c\xc8\xfb\x7a\x7e\x25\xda\x6c\xa3\x5e\x9d\x1d\x66\xc9\xd8\x77\x32\x4e\x56\x97\x4e\x22\x16\xf8\xe0\xa5\x4a\xf2\xdc\xe3\xd4\x63\xcb\x13\xe8\x51\x1d\x67\x4a\xad\x2a\x7a\xf5\xf2\xf5\x1d\x78\xc6\x15\x9d\x11\x8b\x47\x2c\x05\xf6\xc9\xa8\xf6\xeb\x51\x25\x65\xaa\xf4\xe8\xd7\x84\xf1\x66\x3d\xc6\x9f\xc3\x08\x3c\xd6\x5c\x3f\xdb\x28\x5c\x67\xf5\x8c\xf6\x2d\xac\xf6\xae\xbc\x66\x63\x8f\xc7\xf1\xf3\x96\xaa\xcd\x2c\x8a\xbb\xfd\x3c\xab\xba\x6e\x95\x4e\xd7\xd9\x8d\xa2\xe2\x5d\x2f\x55\x50\x74\x59\xaf\x39\xbf\xed\x6c\x76\x37\x57\xbb\x14\x3b\x99\xaa\xde\xaa\x76\xd0\x92\xaf\x77\xb7\xd1\x8b\x67\x1b\xbc\x06\xc0\x22\x74\xc0\x28\x15\xf3\xa7\x6b\x5c\xb8\xa4\x2e\xf7\x6a\x6d\xee\x6d\xb5\x98\xda\x85\x7e\xde\xea\x81\xfa\x01\x7f\x6c\x19\xa4\xf0\x21\xdf\x42\x6a\x31\xee\x65\xb7\x09\x90\x18\xbc\x56\x97\x1b\x3c\xdb\xd0\xa3\x57\xa3\x56\x81\xf2\xb3\x0d\x20\x4d\x99\x07\x2b\xdf\x95\xbf\xb1\x3f\xaf\x3c\xb3\x19\x84\x67\x8e\x10\xad\x86\x26\x8a\x73\x9f\x2e\x2a\x2c\x2f\x5f\x6e\x96\x1a\x55\x89\xb9\x8e\x98\xdc\x27\x56\x5f\x31\xb7\xab\xf8\xba\x2e\xb7\x71\x69\x47\xf7\x10\x1b\x6b\xc9\xd7\xa6\x78\xb6\x4e\xef\x23\xba\x7d\x32\xa9\xc5\x68\x07\xe4\x79\xab\xa2\x0a\xb6\x87\xff\x1d\x58\xd5\x3c\xcc\x6c\x7b\xb1\x6d\xaa\xe5\x60\x7a\xfb\x8e\xad\xee\xdf\xb1\x62\xdd\x1e\x76\x38\xa8\x61\x2e\x12\xe6\xeb\x71\x89\xab\x59\xfa\x69\xac\x6e\x5a\xd8\x6b\x2e\xc4\x67\xaa\xf8\xc7\x2c\x2e\x55\x09\x64\xd5\x84\x16\xcb\x70\xed\xca\xd9\x62\x05\xd0\x62\xe4\x74\x57\x96\xb8\xda\xb0\xd3\xb0\x47\x53\x02\x59\x21\x6b\x49\x54\x18\x9f\xf6\xc8\x2b\x65\x2d\x99\x55\x73\x7a\xf4\xe2\x94\x2f\x38\xa3\x35\xf6\x6c\x63\x54\x49\xe5\xca\xbe\x00\xd1\x0c\xad\x6a\x5c\x59\xa9\x78\xb5\x55\x37\xe0\xfb\x93\xd3\x0e\x3b\x7e\x79\x7e\x76\x71\x72\xf9\x85\x86\x3c\x0c\xfc\x47\x4c\x4f\xba\xcf\x5b\x24\xaf\xb5\x70\xf5\x1a\xf9\x13\xa8\xa3\x03\xf6\x0e\x8f\xde\x3d\x60\x10\xf8\x72\x45\xd9\x6c\x24\xa5\x8b\x33\x15\x2e\x25\x87\x23\x63\x7e\x25\xe2\x6e\x1d\xb6\x95\xe1\x47\x2d\xc2\x6e\x35\xf0\xfb\x38\xf0\x21\x64\xbd\x6e\x07\x54\xd3\xe3\x41\x94\x15\x7e\x3d\xa4\xaa\x99\x82\x23\x63\x96\x0d\x15\x83\x96\x2f\xa3\xf1\xa5\x7f\xc5\xaf\xf8\x34\xe8\xc4\xa3\x78\x43\xfa\xd7\xe0\xed\x6e\x8c\xe6\xd7\xbf\xf6\x6e\xf6\x5b\x98\x77\x9b\xe2\x0d\xa5\xbf\x8c\x40\x5b\xcd\xf5\x4d\x8e\x7e\xa0\x2e\xe0\x63\x7e\x10\x84\x82\x14\xc1\xf1\xf0\xd5\xe5\xf0\x43\xb5\x2f\x54\x89\x6f\x05\xb7\xff\xcd\xc2\xba\x99\xfe\xce\xb8\xb8\x51\xb3\x40\x37\x54\x59\xd9\x3a\x16\x6a\x4d\xd7\xaf\xdc\x90\x4e\xfb\x30\x3c\x02\xf7\x10\x37\x0d\x5c\xac\xce\xd8\x0b\xc0\x08\xfb\x3c\x5a\x76\xc6\xc1\x62\x03\x93\x6d\x1f\xb7\x16\xb2\xb7\x41\xf9\xa6\x8d\x34\xc4\x4b\x9d\x36\xae\x7b\x3b\xbb\xfb\x3b\x9b\xdd\xbd\x6e\x8f\xb2\x17\x0e\x71\xf3\x97\xeb\xf1\xaf\x61\x2a\xd5\x45\x53\xda\xa1\xdb\xdb\xda\x0f\x3f\xe6\x2e\x5d\x7f\xbb\x8b\x1f\xab\x9c\x3a\xba\x1b\x0c\x2f\x4f\xc4\xed\x0b\xe3\xe3\xa9\x0f\x9f\xc9\xb3\xab\xf2\xe3\xd6\xf2\xcf\x2b\x08\x8c\x05\x80\x6b\xb5\x54\x35\x5f\xac\xd6\x56\xd7\x72\x78\xc5\xc3\x1c\x39\x35\x4e\x77\x5d\x10\x88\xa7\x05\xeb\x7a\x14\xfb\xa8\x0a\xb2\xfa\xb6\xd0\x3a\x24\xbb\x67\x95\xb9\x35\x40\xc6\xbb\x41\x1e\xf9\xf4\x01\x11\x27\xe6\x55\x70\x8d\xb2\xff\xfe\x3f\xeb\x77\xb2\x32\x1c\x59\x5f\x70\xc6\x02\x70\x52\x0d\xc3\xb2\x29\xfe\x82\x05\x88\x20\x89\x91\xe4\xce\x38\x8d\x22\x2a\x08\x0a\xd5\x5d\xce\x55\x0a\x77\xc0\x1e\x96\x8d\x28\x5c\xec\xac\x90\xa8\xa7\xda\x46\x03\xd9\x1a\x1e\x3e\xdb\x08\xab\xbf\x9f\x45\x85\x9b\xdb\xec\x27\xbd\x17\xcf\x54\xa9\xd7\x0b\xb5\xfe\xcc\xbc\x72\xbd\x0d\x3f\x17\x21\x39\xf6\xca\xbf\xbf\x54\xf7\xff\xd2\x66\x95\x35\x43\xe5\xa5\x6b\x58\xcf\x36\x00\x70\xe5\x80\xe1\x8b\x0b\xb1\x48\x79\xb6\x43\x83\x24\x8d\x05\x28\x78\xdc\x04\xf3\x82\xc5\x88\xff\xc9\x77\x79\x3c\x3b\xa0\xdf\x21\x8a\x58\x8c\x52\x9e\xa8\x40\xa1\xb0\xff\xa9\x36\xe0\x42\xdc\xab\x0a\x05\xee\x5b\xe0\x3e\x9b\x69\x3e\xe7\x8b\x54\x6d\xad\x99\x9d\x37\x8a\x50\x0a\xdb\x75\x4b\x03\x69\x86\x3b\xa9\xd2\x97\x59\x5b\xf8\x47\xce\xd3\x44\xae\x2f\x69\xd2\x9f\x04\x56\x80\x44\xd2\x66\xc0\x76\xd8\x7b\x3e\x97\x04\x16\xb0\x9f\xf3\x04\x11\xc5\x0d\x5e\x09\xcb\xdf\xec\xf0\x52\x44\x55\x42\xc7\x4c\x66\x84\x5b\x88\x73\x3b\x0a\xf3\x52\xf0\x38\x7d\x31\x15\xd0\x72\x91\xfa\xe3\xd4\x43\x32\x2e\x78\x0c\x14\x71\x2d\x49\xeb\x28\x66\x3a\xaa\x6b\x46\x69\x0c\xd4\x6e\x40\x41\xe1\xe0\x7a\x5f\xd8\x02\x7e\x9e\x6d\xe1\xf3\x84\xa7\x0c\x96\x80\xaf\x31\xf3\x14\x95\x3b\xec\x27\xee\xf1\x34\x4c\x7d\xa0\xd8\x42\xce\x25\x96\x10\x01\x70\x97\x87\x88\xad\x18\xa9\x8d\xdc\x95\xa8\x71\x01\xbd\x16\x34\x33\x60\x64\x9c\xaa\x39\x5b\xb8\xb8\x3a\xda\xcc\x7b\x4c\xb5\xe4\xe9\xc8\x32\xe1\x3e\xc0\xf5\x64\x2c\xc0\x8c\x80\x41\xc7\xe4\x1e\xe1\x98\x93\xd0\xe3\x53\xa9\x3b\xf3\x11\x56\xe5\xc3\x0f\xdc\x84\xf5\xec\xd9\x5b\x32\x02\xc4\x06\x24\xd5\x6e\x23\xee\xf1\xcd\x13\x39\x61\x2e\x21\x0a\xed\x68\xef\xd0\x9a\x47\x52\x14\x77\x35\xe4\x08\x90\x8b\x1c\xfa\x49\xb0\x81\x29\x73\x9e\xcb\x98\x85\x91\xbe\x39\xbb\x53\xbb\x4e\xc3\x17\x6b\xd4\x8a\x94\xca\x44\x68\x2d\xe6\xd8\x94\x31\xd0\x0d\x15\x48\x45\xb2\x19\x88\xe1\x94\x17\x39\xf3\xf1\x46\xfa\x20\xa8\x34\xe5\xb9\x64\x13\x1e\xe3\x5d\x63\x3c\xb6\xc7\x1c\x61\x04\xc5\x4e\xc5\x0d\xb6\x83\x41\xb0\x92\x19\x88\xa6\xc1\x11\x39\x13\xe9\x82\xa4\x02\xda\x5e\xca\x40\x8c\x52\xb3\x6f\xaf\x49\xce\xe7\xa9\x6f\x8f\xeb\x1a\xc1\xa3\x65\x32\x74\x39\xbb\x4a\x01\xd4\x28\xc0\x53\x44\x85\x96\xd9\xa2\x50\x24\xc7\x95\xad\x06\x04\x65\x42\xb2\x23\xd9\x8d\x18\xe1\x49\x24\xbb\x57\x35\x35\x73\x10\x20\x57\x57\x1c\xba\x42\x74\x1e\x2c\x48\x02\x6d\xc6\xe7\x19\x0a\x02\xd1\x41\x6d\xa7\x64\x1c\xf3\x18\x2b\x05\x24\x7a\x75\xe4\x93\x32\x22\xa3\x2f\x5b\x5f\x40\x27\xa9\xcb\x36\xf2\xe7\xb3\x00\xc8\x7d\x81\xef\x3a\x88\x47\x41\x30\x2f\xdd\xd2\x5e\x10\xff\x23\xba\xf7\x84\xbd\xc3\x93\x66\x56\xb3\xbd\x3d\x76\x1e\xcc\x81\x1d\xe5\x07\x0a\xed\x4b\xa0\x3d\xf0\xe4\x04\xa9\xa4\x85\x81\xca\x0c\x00\xd8\xcc\xa8\x16\x92\xd1\xc3\x33\x9b\x74\x57\xa9\x47\x84\x35\xb3\xd2\xf5\x0f\x31\xa8\xda\x64\x4e\xe5\x26\xae\x59\xe2\xd5\x54\x26\x96\x9e\xca\x39\xaa\x12\x36\x17\x58\x44\x04\xdd\x8c\x06\x46\x1d\x01\xd3\xd3\x44\xb4\xae\xb5\x07\x4e\x17\x88\xa8\x53\x4d\x48\x75\x44\xdb\x1a\xc0\xa8\xae\x19\xf7\xb0\x47\x8e\xcb\xde\x5e\xfd\x0a\x9b\xf5\x33\x7b\x77\xe2\x4b\xaf\xb6\x3a\xcb\x32\x82\xda\xae\x5f\xda\x4b\xcd\x2d\x98\xf3\xdc\xe8\xf5\xeb\xd6\xf5\x9b\xa2\x2c\x65\x92\x17\xab\x85\xcd\x93\xb4\x82\x14\x34\x77\xa4\x38\x9a\x0f\x57\x82\x6d\x72\xa3\x14\x6c\x13\x0b\x3c\x31\x63\xb8\x44\xa6\x0e\xfd\x84\xb5\x00\x0e\x0b\xb7\x41\x28\x03\x92\xe9\x56\x2a\x9a\xe0\xb3\x4c\xc6\xb3\x8a\x13\xe0\x68\x94\xf0\xcc\xf6\xcd\x00\x29\x40\xe8\x8d\xce\xc1\x51\x02\x0e\x04\x9f\x96\xf5\x4c\x44\x64\x1d\x0b\x56\x49\x8d\x0f\x23\x8d\x51\xb0\x13\x3e\xc3\x35\x09\x86\x0d\x31\x6f\x56\x57\x25\x43\x25\x48\x83\x12\x27\x55\x01\x8d\x32\xd9\x46\x81\xf8\x7a\xa1\xd7\x58\x41\x93\x91\x54\xeb\x93\x40\x63\x29\xb2\x48\x10\x32\xfa\x1b\x0d\x26\xb0\x76\xc1\xdd\x18\x33\x37\x17\x1c\xa2\xac\x5c\xca\xf2\x95\x9b\x01\x74\x25\xea\x3b\x80\x67\xa8\x15\x0b\x17\x34\x69\xa2\x09\xc4\xe7\x33\x49\x93\x4b\x50\x66\xc3\x54\xb3\x70\xee\xa7\x0b\x87\x7e\xe6\xda\x9b\xdc\x9d\x82\x02\xa1\xec\x28\xd2\xac\xd1\x72\xac\x98\x5b\x3b\x29\xdb\x6c\x57\x72\x21\xac\xe4\x99\x69\x6e\x73\x2c\xb3\xde\x53\x14\x19\x65\xbf\x45\x24\x12\x9d\xdf\xad\x75\xb1\xf0\x17\xe5\xb4\x19\x07\xb0\xd2\x78\x53\x1d\xf9\x82\xd3\x9a\x07\x59\x8d\x01\x2e\x74\xd5\x5c\x05\xd5\x15\xf8\x68\xd7\x35\x6b\x2b\x2d\x6d\xe6\x54\x72\x98\x1e\xbd\xda\x26\x4e\xa9\xb4\x0d\x11\x30\x63\xeb\x75\x93\x08\x8f\x48\xa5\xad\x5f\xd1\xc3\xc8\x2d\x5c\xca\xb5\x4d\xac\xf3\xd8\xe8\x3b\x54\x8c\x30\xfe\x15\x16\x34\xa2\xe4\xb8\xd2\xe3\xaa\xb4\xcb\x5c\x14\x42\x9b\x9d\x13\xf2\xa4\xde\xa2\x11\xa3\x1c\x39\x8a\x78\x04\x81\x37\x2b\xf9\x92\x39\x74\x72\x75\xee\xb5\x8d\xae\x34\xf6\xdf\xf2\x90\x95\x57\x40\x23\x1e\xcb\xd8\xa4\xe5\xf5\x12\xa6\x7a\x2f\xd5\xf8\x32\x08\xd9\x0f\xa1\x6d\xaa\x2e\xe9\x64\x34\x90\xea\x90\xe3\xab\x4f\x6a\x5d\x87\xf3\xdc\x1e\xd4\x3b\x70\x88\x24\x5a\xf8\x36\x11\x49\x0f\xbf\xaa\xf7\x0a\x36\x27\xb7\xf5\xa6\xd4\x34\x63\xc8\xcc\xae\xad\x2b\xfb\x16\xb9\xb7\x49\x9d\x63\x15\x00\x28\xab\x9f\x43\x42\xf9\x51\x08\x90\xd4\xae\x68\xdf\x30\x00\x5b\x2f\x40\x05\x0e\x73\x37\xb8\x7a\x2d\x01\x54\x50\x15\x4b\x8e\x86\x0b\xcf\xc1\x20\xeb\xb1\x9c\x8e\x6c\x96\xf0\xe7\x91\x0c\x63\x4b\x98\x5c\xe0\x66\xce\x16\x25\x02\xd8\x5e\x3b\xb9\xca\x85\x4a\x60\x52\x89\x62\xb9\x32\xb8\xa1\x9c\x01\xc5\xe6\x22\x01\x63\xd0\x61\x87\x20\x59\x44\xc9\xb9\xf0\x71\x25\xc3\x12\x26\x07\xdc\x0a\x72\xa6\x79\x34\x4a\xe2\xb3\x32\x4b\x4d\xeb\xb6\x15\x32\xd1\xa2\x4e\x47\x64\x69\xd0\xa7\x60\x47\x33\x00\xdb\xdf\x62\x20\xd2\x1b\xbb\x4a\xdc\xfc\xc0\x8f\x13\x10\x96\x92\xc8\x91\x56\x2b\x3a\x12\x46\x7f\xa1\x3f\xd0\xa0\xbe\xde\x1b\x6f\x1b\x96\x2d\x9f\x55\x79\x50\x8a\x02\xb0\x9e\xa9\xea\xd8\xe7\x35\x45\xb2\xd6\x0e\x95\x66\x5e\x95\xb1\x9d\xf0\x79\x82\x20\xc1\x54\x61\x48\xa9\xa4\x9f\x48\x00\xc1\x24\x7a\x77\x4b\x25\xaf\x53\x0c\xdc\x68\x35\x18\xb2\xae\x78\x85\x6f\xb8\x8e\x1a\xed\x70\x21\xe2\x57\x24\x9c\x26\x6e\x35\xe1\xce\x3c\x82\xc5\x37\x52\xbe\xb5\xf2\x73\xb4\xd9\x50\x8f\x95\x44\x6b\x7d\x10\xa5\x53\x22\x2a\xa1\x05\x76\x6d\x84\xec\x1e\x21\x35\x90\x37\xb6\x07\x66\xd4\x1d\x2c\x43\xc4\xa1\x14\x2b\x94\x16\xa1\xf1\x9b\xaa\xc5\x58\x2b\x0d\x5c\x53\x1e\xc9\x63\x41\x9c\x0a\x11\xb8\x8a\x9a\xc0\x3b\x89\x81\x1f\xde\x5a\x3e\x57\x6f\x1f\x34\x5e\x22\xa6\x01\x88\x90\xaa\x74\xb6\x72\x34\x68\x5f\xee\x4b\x3e\xd4\x24\xbf\xd7\xf0\xc0\x86\x65\x8d\x53\xbd\xe0\x41\x35\xba\x3c\x13\x65\x2b\xf8\x75\x29\xca\x18\xa1\x8d\x31\xf2\x04\xb3\x99\x9b\xd9\xac\x6a\xb1\x62\x1c\x50\xa9\x0f\xab\x59\x40\x2e\xd2\x08\x7d\x99\x58\x79\x28\x63\xad\xc2\x95\xd6\x22\x09\x49\x94\x63\x02\xae\x84\xc8\xd7\x01\xe9\x77\x13\xeb\x2a\xa7\xc4\xd4\x12\xd3\x6c\x14\x3a\xe4\xb7\x64\x71\x19\xaa\x45\xf2\xe7\x85\xae\x40\x2e\x44\x40\x0d\x84\xe2\x2a\xec\xd2\x48\x35\x2d\xed\x63\x58\x3c\xe0\x6c\xcd\x94\x11\xd3\xe7\x04\x30\x2a\x99\x62\x15\x2f\x10\x51\x0d\x93\x91\xb2\x62\x05\x15\xd6\xf6\x48\x90\xcf\x9a\x67\x1a\x32\x73\x6e\xbc\xc0\x58\xdd\x83\x41\xaa\xd1\x40\x35\x6b\x04\x6c\x0f\xb8\xa7\x40\x50\xd4\x7c\x83\x5a\xb4\x53\xcf\x6c\xc1\x97\x4f\xe2\xa2\xcf\x3c\xae\xdb\x35\xf7\xe4\x8b\x5e\xc7\x96\xdf\x4b\xad\xfe\xf2\xac\xca\xb9\xc7\x97\xcf\x36\xa0\x61\x1d\x80\x7e\xa7\x22\xa1\x68\xe0\xbc\xc1\x50\xaf\x87\xa9\xb6\x06\x08\x9b\x95\x28\x7c\xa7\x0f\x5d\x34\x76\xdd\x6a\x1a\xfc\xe8\xfb\xfd\xc6\xce\xdb\x95\xe3\xbe\x97\xe3\x28\x50\xe7\x3b\x1a\x7b\xef\x34\x0d\x7d\x91\x1f\x12\x69\x04\xb2\x5b\x4d\x7d\xa0\x79\x22\xc6\xb3\xc6\xae\x7b\x4d\xe3\x9f\x07\x63\x30\xbb\x2c\x3f\x28\x73\x11\x4c\x92\x27\xec\xfc\x35\xfd\xf2\xb4\x11\xf0\x7e\x25\x4e\xaf\x70\x1f\xea\xf5\xfd\x33\xea\x75\x9b\xf0\xba\xbc\x78\xdd\xdc\xbb\x5a\x1c\x55\x9c\xdc\xdc\xb3\x51\x0e\x3f\x5c\xde\x33\x6e\xb5\x0c\xaa\x2c\x71\x53\xbf\x46\x01\x7c\x3b\x5c\x8b\x62\xd5\x72\x78\x06\xe1\x20\x5e\x07\xb6\x16\x88\x46\x61\x44\x71\xfa\x53\x14\xff\x23\x0d\x0e\x98\xcf\x5e\x37\xaf\xa8\x5e\xb5\x48\xa2\x67\xd5\xef\x37\xf7\xac\x96\xc8\x20\xbc\x04\x87\xd2\x5d\x6b\x1a\xfb\x55\x10\xa0\x23\xc7\x1d\x88\xfa\xae\x1b\xa9\x77\xaf\x2d\xd7\x85\x0f\xbd\xee\xaa\xd1\xce\x56\x3e\x39\xdd\xda\x74\x53\x01\x06\x3b\x4e\x21\x26\x1e\x42\x34\xbd\x96\xd1\xbe\x84\x26\x29\xe8\x70\x0f\x2d\xc5\x48\x82\xcd\xa0\x64\x87\xff\x57\xf6\x1e\x3d\xc0\x15\xfb\x6a\x59\x51\x3f\x58\xc0\x17\xbd\x62\xd0\x1a\xd3\xe1\x1a\x65\xd1\x74\x76\x05\xd0\xa4\x90\x3b\x33\x65\x6d\x1d\x0e\xaa\x5c\x26\x68\x4c\x0c\x1b\xc0\xf3\xa2\x4e\x3a\x2f\xaf\xe2\x44\xf4\x92\xa6\x60\x37\x8d\xbb\xa9\x9c\x23\x17\xcd\x9d\xef\x52\xae\xdf\x37\xd1\x09\x75\x36\x07\x7a\xc8\x96\x62\x74\x05\xad\x75\xe0\x8b\x21\xd4\x0f\xb9\x13\x9a\x87\xc3\x26\xb3\x52\x3e\x27\x48\x67\x64\x70\x88\x90\x59\x3b\x1e\xda\x57\x5b\x28\xef\xa0\x00\x80\x5c\x05\x9d\x62\xcf\xc1\x68\x4e\xe1\xa9\x9a\x91\x48\xa8\x3c\x0b\x20\x49\xd3\x15\x08\x3e\xe3\x78\xed\xb5\x6f\x59\x59\xc3\xdd\x42\x02\xa7\xc1\xfe\x1f\x62\x70\x40\x39\x97\x28\x0d\xb9\x9d\xe9\x5f\x49\x36\xd8\x6a\x42\x9f\x86\x32\x51\x95\x29\x0b\x53\xa9\x68\x2a\x0c\x53\x35\x37\xf0\x34\x21\x4f\xa1\x90\xf0\x58\xaa\x04\xce\x95\x1c\x59\x87\x14\x33\xe7\x16\xa3\x2f\x8c\x2d\xd5\x34\x62\xe0\xea\x17\xf4\x04\x3e\x0c\x5f\xbf\x1f\x5e\x9e\x1c\xb1\xf3\x77\xc3\x9f\xd9\xc9\xe9\xf1\xd9\xe9\xcb\x8b\x93\xe1\xe3\x7d\x82\xf7\x27\x47\x1f\xce\x5e\x0f\xdf\x9f\x9c\xbe\x5e\xcb\x2d\x38\x2b\x12\xfb\xcd\xd9\xdb\x97\x1f\xee\x73\x29\x1a\xd5\x32\x4c\xe0\xf2\xec\x87\xa3\xef\xd8\x1a\x48\x6c\x57\x23\xf1\xdd\xf0\x70\x78\xfa\xf2\xc3\xd9\xa3\x3d\x84\x07\xe9\xe4\xdd\x6a\x24\x3e\xdd\x4d\x58\xd7\x4d\xd9\xaf\x46\xe0\xe7\xd7\xaf\x8f\x23\xdc\x7b\xf9\x04\x8f\xe0\x3e\xd3\xbe\x8e\x6e\xef\xed\x32\xad\xde\x6b\x76\xb9\x33\x37\x80\x52\x64\xd6\x36\xf0\xb9\x52\x82\xd9\x2e\x78\x5f\x6f\xe7\x96\xb7\x87\x6b\x55\xfe\xb1\x52\x98\x55\x27\x2b\xb3\xfd\x59\xd0\x47\x13\xae\xf6\x21\x28\x5b\x46\xf5\xa5\x96\x19\x78\x4f\x51\xcc\x09\xe8\xea\x7c\x63\xcc\xe4\x9e\x6d\xad\xd5\xb6\x92\x7b\x22\x4c\xf1\x1c\x60\x36\x70\x75\x76\xc1\xcc\x3b\x21\xc3\x44\x25\xaa\xa4\x53\xb2\x23\x8b\x64\x2a\x8c\x32\xd6\x91\xba\xc6\x9b\xd0\x28\x27\x22\x28\xc2\x5c\x8d\x71\xf2\x71\x32\xca\x62\x6e\xdd\x2f\x93\xb4\x49\xef\x9e\x1a\xc5\xa8\x77\xca\x10\x63\x40\x0a\x95\xa0\xb2\x7c\x49\x96\x4a\x51\x0f\x5d\x8b\xf4\x63\xbe\x70\x18\xfd\x03\x94\x80\x65\x41\x99\x2c\x93\xdf\x34\xb6\x4a\xe5\xaf\xaa\x08\xd4\x36\x46\x5b\x41\x46\x35\x0e\x91\x07\x05\xa1\xc2\x4b\xc1\x0c\x5a\xf4\xb5\x43\xcb\xcc\xb6\xa0\xc9\x22\x4b\x24\x89\x56\xfb\xca\xd9\x69\x1b\x1c\x13\x50\xfd\x94\x57\x5d\x66\x7a\x5c\x4d\x28\xdb\x03\x98\x48\x3c\xe8\x89\xd6\x00\xac\x4f\x5b\x25\x92\xc9\x03\x29\x18\x92\xd2\xb0\xda\x84\x1f\xd2\xb6\xc7\x1a\x26\x0d\x13\x02\x37\x64\x74\x8c\x69\xcb\xaa\x9c\x29\x7d\x4d\x3f\xb4\x99\x0b\x51\xe2\xbc\xa6\xa3\xfe\x15\x09\x76\x20\xef\x3c\xf0\xf8\x28\x40\xad\x60\x26\x5f\x4c\x9d\xaf\x82\x21\x87\xe0\x22\xcb\xf2\x96\xd8\x49\xae\x48\x49\xba\xed\x5c\x2e\x73\xd1\x45\xc3\x0d\x0f\x82\xa9\x73\x68\xb9\x93\xa1\x8d\xe9\xa3\x0c\xa6\xba\xc5\x6a\x0d\x93\x79\x56\x38\xf1\xfe\x59\x22\xe8\x07\x45\xce\x15\xe3\x3f\x3e\x7c\x5e\x37\x6c\xae\x18\xf4\x93\x62\xe7\x87\xc6\xcc\x55\x44\x7f\xb4\x45\xac\x0d\x98\x9f\x3e\xc4\x30\xda\xb8\x7c\x5a\xc0\xfc\x9a\x5e\x53\xbd\x56\xff\xde\xa7\xf3\xa3\x1c\x3c\xdb\x30\xd6\x89\xbd\x37\xab\xa6\x70\x6f\xcc\xbd\x55\x3f\xa8\x09\x7e\xd7\x0b\x9c\x8b\x9c\x7c\x50\xb4\xbb\x53\x8f\xc3\x3a\x21\xef\x6e\xa5\x6b\xd3\x94\xe4\x58\xc7\x9f\x79\x4d\x47\x4e\xce\xb5\x2e\x3b\x46\xe3\x72\x21\x12\x09\xc1\x53\x96\x8e\xae\x4a\x3e\x17\xb3\x16\x6b\x38\x2f\xe7\x6a\x37\x26\x06\x73\x87\xb6\x97\x8c\xa0\x4a\x7b\xce\x75\xfa\x18\xc3\xa9\x3c\xad\x1a\x67\x7b\x14\xaa\x2e\x44\xe1\x34\xb7\x70\x52\xc6\x63\xed\x42\xb4\x8a\x8d\x17\x85\x3c\x7f\x51\x51\xf7\x82\xfa\x19\x4d\x41\x82\x66\xaa\xb0\xc7\x46\xe8\xa8\x74\x39\x6d\x53\xac\x94\x66\xe9\x10\xb3\x76\xf3\x0e\x37\x1a\x57\xd3\xbe\x79\xe0\x3d\xe1\xd7\x30\x43\x55\xd4\x91\x6f\xf1\xd1\x6d\x0d\x6b\x66\x68\x83\xc7\xc5\x65\xc1\xa3\xc3\xb9\xc2\xae\x44\x02\xbc\x0b\x26\xec\xcc\x5b\x82\xbd\x8f\x1b\xa4\x33\xf0\x1e\xf8\x00\xa4\x48\x73\x44\x47\xa9\xc4\x0b\xb5\xa9\x5e\x55\xa5\x77\x4e\x17\xed\xa8\x6b\x5e\xca\x78\xb1\x92\xaf\x61\x8a\x0c\x54\xfe\x22\x01\x47\x3a\xf7\xa4\x3c\x8e\x2c\x1e\x61\x86\x44\xf9\xcb\xaa\x8a\xe3\xbd\x4c\x02\x7c\xa3\x14\x3b\x16\x37\x9c\xfd\x9c\x82\x2a\x97\x7a\x8d\x16\x3c\x56\x5d\x70\x32\x9d\x42\x0b\x94\xa0\x69\xea\xa5\xc6\x9d\x4c\xe7\x29\xee\x59\xef\x7c\xdc\x36\x2e\xcc\x39\x5f\x62\xdf\x98\xfd\x04\x0e\xc7\xd0\xf3\xd8\xe5\x4c\xb0\x9f\xf8\x32\x26\x81\x50\xbe\xdb\x11\x8f\xc7\xdc\xcd\x92\x24\x66\xef\x96\x3c\x11\xbd\x5d\x01\x7e\x17\x07\xa7\x7b\x8e\x57\x75\x60\x8d\x0b\xc5\xfe\x59\x91\x0b\x39\xd8\x17\x61\x9e\x5b\xf9\x70\x79\x6e\x76\x79\x0c\x9a\xe8\x60\x49\x4c\x26\x00\xa5\x38\xe6\x53\xd8\xfe\x4e\x7b\xbb\xfb\x47\x75\x07\x4e\x80\x6f\x16\x52\x9b\xfe\x97\x18\x27\x34\x6c\x61\x7e\x71\x71\xfc\x10\x80\xe2\x48\x12\xda\x68\xd2\xa5\x61\xa6\xd6\xf9\x73\x0a\xe3\x1b\x39\xa7\x5d\xc7\x91\xa4\x6d\x28\x92\x43\x3d\x5c\x58\xda\xf3\xb7\x0a\x72\xda\xb8\x2f\xc8\x59\x05\x8e\x5a\x68\xb4\x42\xb0\xf4\x87\x7e\x5e\x14\x51\xe0\x33\x38\x0f\x89\xa9\x09\xd2\xf5\x48\x19\xd8\x58\xf8\xae\x24\x45\x69\x14\x17\x5e\x9f\xe3\xa5\xd2\xec\x23\xff\x34\x13\xc2\x43\xf4\xf1\x0a\x19\xe2\xaf\xa3\xb8\x6c\xef\x61\x85\xa9\x92\x7c\xd4\x97\x4a\x3c\x4d\x24\x14\x60\x30\x87\x17\xf9\x18\xb1\xf1\x50\xb3\x47\x5a\x70\x3c\x50\x6f\xe8\xd9\x00\x5d\x20\x9e\x41\x20\xf0\x81\x46\xec\xb0\x43\xec\x6a\x24\x6c\x86\xdb\xcc\x9a\x5c\x0a\x2f\x85\x04\xcc\x5a\xef\x64\x93\x34\x9b\x92\x1a\x81\x05\x7b\x59\x30\x86\x75\xa5\x7a\x47\x38\x0b\xa2\x46\xe0\xe6\x53\x15\x88\x88\x53\xae\x73\x7b\x26\xbb\x58\x14\xf0\xaf\x48\x60\x29\x89\x40\x74\x71\xed\x92\xc7\xcf\x2b\xae\xca\x86\x1f\x06\x0b\x2b\xd0\xda\xdb\x53\x75\xa5\x56\x6d\x2c\x3d\x1c\xad\xe0\x82\xec\xc1\x7b\x90\xb4\x5c\x1a\x92\x42\xbb\x19\xd6\x2b\x96\x6a\x42\x0a\x65\xc5\x94\x2e\xf6\x88\xb5\xc0\x20\x5d\x58\x44\xa9\x8a\x29\x1b\x73\x4a\x5c\x67\x60\x32\xf1\xd6\xf7\x10\xe5\x89\x64\x32\xda\xb4\x49\x8d\xce\x42\x96\x45\x2e\x03\x50\x09\xe3\xb7\x59\xc9\xc6\x08\x2d\x06\x46\xd5\x54\xcc\x1a\x25\xaa\x27\xf7\x1d\xfb\x03\xee\xfc\x03\x60\x35\x6b\xb4\x29\xef\xe4\x94\x3b\x1e\xfc\x30\xc9\x91\x76\x56\x1c\x80\x8f\xd8\x49\x82\x31\x7c\x5b\x7f\x00\x14\x61\x15\xe9\x4f\x10\x5a\xf8\xcb\xc0\xd3\x9f\xc0\x18\xf9\xe3\xec\xd9\x1b\x74\xf9\x55\xc5\x53\x3e\x42\x56\x1d\xab\xfc\x1c\x95\x03\x38\x06\x17\x06\x3c\x85\x23\xb0\x0f\x61\x26\xf8\xa1\x56\xe3\x85\xf5\x52\x33\x0f\xad\x66\xe6\x76\x15\x15\x85\xff\xaa\xbc\x49\x2d\x12\xcb\x2e\xe8\xf5\xa2\xd7\x56\xe0\xba\x71\xa9\x82\xe5\xff\xbb\xe5\x52\x57\xcb\xf4\xef\x85\xf2\xef\x85\xf2\x3b\x59\x28\xaf\x64\x3c\xa3\x9c\x73\x80\x17\x52\xe6\x11\x9d\x55\xf9\xfe\x79\x17\xcd\x6b\xca\xa0\xe9\xc0\x0d\xb7\x14\xfd\xab\x54\x9d\xea\x29\x39\x44\xab\xa9\xb9\xc6\x3a\xdc\xd2\x44\xe6\x15\x13\xc9\xb2\x82\x54\xd5\x5a\x2c\x66\xb5\xd2\x3d\x1d\x95\xb1\xd7\xe3\x17\x36\x2d\xcb\x6e\xbe\x71\xff\xf3\xd0\x4c\xd5\x46\x5b\xb5\xe1\xca\x1d\x27\xc7\x3c\x3b\x17\x52\x28\x57\xce\x0f\x60\x71\x5d\x56\xa9\x4e\x3c\xe9\x0d\xb9\xc5\x48\xba\x72\xce\x64\x86\x7f\x5e\x90\x17\x93\xe0\x25\x34\xc1\x8e\x2e\x09\xcb\x36\x5a\xc7\xc1\x18\x34\x4d\x5a\xda\x16\xa5\xa0\x76\x21\x8a\x55\x79\xe8\xbd\x97\x0a\x40\xab\x6f\xda\xfa\x7a\xc4\x36\x3f\xb4\xc1\x4e\x8e\x4f\x31\x8a\x2b\x48\xef\x79\xff\xfc\x73\x7b\x46\xea\x54\xd6\x4c\xef\x87\xd0\xf6\x36\x46\x6c\xc0\x6e\x6f\xe5\x34\x0b\x61\xf7\x57\x2b\x7d\x97\xc7\x60\xb9\xb3\xad\xd5\xc3\x9e\x71\x60\x91\x69\xb1\xb9\x80\x94\xc0\x42\x48\x10\x03\x93\xa6\x20\x41\xea\xbc\x98\x8a\xfe\x2a\xa7\x3e\xb7\xa6\xbe\x1a\x06\x20\x7c\x0a\x30\x46\x12\xa4\x06\x1c\x6c\xaa\x5b\xc3\xab\x64\x41\x80\x71\xab\x89\x8e\xab\x9b\x96\x5c\x1d\xe4\xca\x52\x2a\xb8\x28\xa6\xa9\x3a\x22\xe8\x73\xdc\xd6\x66\xa3\x14\xda\x80\x34\xcd\x6e\xec\x52\x52\xbd\x56\xa8\x36\x40\xc5\x1c\xe0\x4a\xa3\xc5\xd1\xa7\x2e\xac\x03\x87\x76\xda\xe3\x2b\x92\xab\x0b\xb5\xe9\x34\x5c\x42\x04\x6c\x0b\xd4\x59\x32\x03\x13\xfc\x79\x65\xea\x12\x14\x11\x9e\x6c\xa0\x2a\x64\x22\x47\x69\xf4\x79\x71\x74\xc5\xd6\x31\x99\xb1\x3c\xf3\xe5\xd7\x28\x34\x5b\x6f\xfe\xb8\xb9\xb7\x67\x14\x44\xce\x2d\xee\xa6\x58\xaa\x00\x7a\x67\xa9\x8b\xbd\x15\x6c\x73\x0b\x6e\x9e\xce\xf2\x0d\x57\x95\xdc\x63\xb0\x27\x10\x67\x8e\xbe\x80\xbe\x78\x26\x2d\xb8\x38\xda\x6d\x50\x25\xb9\xaa\x1e\xdb\x58\x5e\x9a\x5d\x1e\x41\x2e\xb4\xdd\x54\xba\x6f\xd5\x0c\x67\x67\x58\x32\x8b\x9b\x2a\x45\x46\x66\xb7\x69\x9f\xe9\xad\x40\x69\x2d\x17\x48\x96\xaa\x4c\x39\xea\x63\x3b\x9e\x76\x6a\x8e\x12\x65\x0e\x13\x15\x84\xb8\x76\xfd\xa6\xf1\xc3\xf4\x72\xc9\x29\x5c\x7d\x68\xd4\x8f\x71\x3b\x2a\x3b\xd5\x65\x8c\x12\x92\xd4\xc1\x1f\xc0\x29\x69\xdc\x0d\xf0\xd9\x94\x9a\x6f\x57\x97\xdf\xab\xd2\x18\x33\x8c\x26\xf7\xca\x69\x82\x35\xea\x66\xed\xca\xf9\x4c\x73\xe8\x39\x93\x71\x58\x6b\xbd\xce\xfa\x2f\x8e\x70\x8d\xeb\xfd\xef\x9a\xb4\x70\xe1\x18\x68\x4d\x51\x72\x7d\x9a\xf8\x42\xa8\x12\x23\x95\x72\x45\x15\x8c\x9b\xbb\xd2\x26\x88\xcd\xbc\xec\x6c\x6f\x7d\x25\xb1\x4b\xaa\x6b\xaa\x8e\x19\x8f\x03\x9a\xb5\xf6\xf9\x46\x7a\xaf\xd2\x4a\xc3\xba\xf2\x0a\xc6\x8f\x55\x76\x42\x17\xd1\x7a\x24\xc0\x33\xbd\x74\x28\xd7\xe3\x66\x24\x68\x2a\xb4\xaa\x27\x41\xf9\x00\x07\x1d\xaa\xfe\x2a\xb3\xbb\xd0\x4d\xdd\x5b\xd9\xab\xd7\xab\xef\x81\x4f\xa9\x7f\x45\xc7\x22\x7e\xd2\x67\x4d\xed\xdb\x4d\x3e\x9f\x5e\x6d\x50\xb8\xef\x34\x97\x4c\xd2\x5e\x6d\xaf\xd3\x85\xe6\xd6\x79\xe6\x45\x05\xaa\xf7\x1e\x8b\x35\x99\xb3\x85\x88\xa9\xfc\x81\xca\xc6\x38\x6e\xf8\x04\x78\x51\x38\x1d\x1f\xf1\xc4\x0d\x58\x44\x2c\xb7\xa0\x14\xff\x85\x39\xbc\x5b\x38\xac\x87\xfb\xce\x10\x3f\x54\x1e\x0d\x46\x55\x19\xa9\x93\xa5\x3c\x84\x05\x8a\x6a\xc4\x3e\xd4\x92\xc5\x55\x3f\x9e\x9f\x76\x7e\x57\xc2\xa1\x3c\xe1\x21\xea\x19\xf4\xbd\xbf\x90\x3c\x14\x34\x89\x4b\x87\x61\xe9\xd4\x06\xa8\x6a\x4f\xad\x5a\x3b\xf2\x4b\x88\x1f\x5e\xf1\x3c\xb6\xaa\x46\x54\x26\x50\x9f\x34\x00\x19\xc3\xbb\xb5\xf5\x0d\xd8\xea\x86\x1c\xeb\xc8\x00\x3a\xde\x60\xa4\x91\xc7\xa1\x82\xa4\xcf\x5f\xe1\x89\xbc\x3c\x1a\x52\xb6\x51\x5d\x4f\x30\x0f\xbc\x60\x81\xf7\x78\xe7\x27\x5d\x50\x50\x95\x5a\x88\x65\x16\x4f\xff\x6e\x14\xc2\xe3\xfd\xb3\x1f\x62\x3a\xdb\xa8\x57\xd4\xc9\x31\x6e\x49\x8b\xc6\x4d\xd1\x73\x1e\xc7\x37\x41\xe4\x36\x36\x1a\x22\xe3\x13\xf6\x12\x8c\x6b\x73\xf5\xd8\x29\x15\xc6\x5e\xe2\xcb\x48\x9a\x4a\x80\x11\x24\x8a\x07\xbd\xe8\x14\xcf\xf8\xa8\x13\x80\x84\xf4\x4b\xe7\x27\xee\x79\x22\x59\x63\x9c\x0f\x62\x4e\xf7\x5e\x50\x05\x4e\x73\x7b\xaa\x95\x51\x79\x07\x55\xbc\x1b\xe9\xbe\x5f\x64\x2d\x35\x2c\xb2\x93\x98\x4e\x8a\x2b\x19\xce\x4f\xfc\xaa\x25\x73\xcd\xf1\x82\x45\xba\x37\x7e\x2e\x23\x89\xe7\xfe\xe8\x1d\x2d\x74\xee\x4c\x69\xd4\xe2\x3a\x72\xcd\xbe\xa8\xb5\x26\xb2\x53\x64\xf3\x19\x3c\x4a\x64\x44\x7b\x7f\x0e\x1d\x12\xcc\x73\x36\xf8\x6e\x39\x7d\x8e\x50\x39\x6f\xb1\x44\x27\x40\x79\x4b\x09\xed\x39\x6b\xaf\x74\xf1\xf5\x24\x68\xd6\xd1\x9e\x74\x6d\x1e\xcd\x09\x8d\x2c\x6e\xd5\x5c\x08\x9d\xf1\x3b\x56\xd7\xfe\x7f\x61\x75\x2a\xa9\xea\xbc\xe4\xfd\xe7\x58\x2e\x34\x96\xb1\xc1\x52\xbf\x9c\x40\x71\x82\xb4\xaa\xae\x39\x54\xde\x16\x29\xdb\x4c\x70\x8a\x8a\xb4\xfa\x46\x84\x9a\x33\x57\xe8\x59\x9b\x3b\x15\x1e\x7f\x4e\x58\x4b\x6e\x8c\x3b\x75\x8d\x95\xdb\x17\x2a\x02\x36\xbe\xe6\x28\xa5\xd2\xfb\x4b\xeb\x92\x0f\x6d\x06\xc8\xf7\xf7\xf0\x8d\xc1\xf8\xd3\x36\x39\xd6\xb9\xdb\xc2\xb0\xc5\xf3\x94\x7a\x92\xba\xa8\xc0\x3a\x5d\xd9\x80\x5c\xde\xea\xde\x24\xf6\x3a\xb4\xc5\x8d\x60\x73\xc0\x1b\xf7\xf6\x0a\x67\xc0\x57\x2e\x1b\x2a\xc7\x60\xd6\x4d\x06\xb4\x8f\x88\xa9\x71\x55\x6e\x97\xa7\xcc\xac\x53\xd5\x79\x65\x45\x55\x50\xd7\xc6\x0d\xbd\x58\x19\xe3\x2a\x32\x69\xb7\xaa\xf1\xc4\xb2\x8a\x25\x7c\x95\x5c\x54\x72\x59\xe1\x09\xae\x9e\xcf\xb6\x92\xcc\xca\xfd\xb7\x99\xa9\xe3\x37\xda\x73\x07\x46\xb9\xd2\xa1\x9f\x2a\x9c\xb5\xb2\xc7\x84\x08\x5e\xaf\x21\xad\xfb\x1c\x54\xcd\xbe\x5b\x2c\xef\x2d\xd6\x21\xc6\xc5\xe2\x92\xea\x12\x51\x53\x60\xf2\x88\xdb\xae\xc2\x17\x7f\xf2\x47\x71\x78\x50\xdf\x75\x33\x2b\x19\xd2\x37\x85\xbd\x78\x35\xfc\x9e\x39\x8c\x4a\x32\x60\x54\xad\xa2\x60\xa2\xb2\x70\x74\x95\x44\x50\x9d\x47\xb0\x02\xc5\x9a\xc0\x50\x43\xb6\x2b\x8a\x36\x1b\x0e\x4f\xe2\xf1\x84\x36\x73\x65\xdd\xcb\x94\xa8\x4c\x76\x12\xcc\xc1\x9f\xca\xaf\xdb\xe1\xba\xec\x16\xeb\x73\x4d\xc6\x94\xcf\xb0\xa5\x8b\x7b\x09\x65\xda\x5a\xe9\x6a\x70\xe2\xf2\xf2\x64\xe5\x10\xd2\x1a\xa6\x61\xb2\xb7\xd3\xf8\x79\xda\x3a\xbf\x36\x2b\xbb\xf0\xd7\x22\x17\xc9\xc2\x85\xa0\xc3\x2e\xc7\x92\x5f\xa9\x3b\x32\x4e\x28\xcd\x66\x8a\x66\xb3\x25\x13\xe6\xfd\xd2\x85\xb9\x14\x23\x56\x9d\x5d\x49\x8f\x74\xc2\x65\x44\xb7\x37\x2c\x64\x5e\x8a\xec\x4f\xf1\x6d\x01\x09\xbb\xe1\xf3\x24\xd5\x97\xc5\xf8\x1c\x2f\x1b\xc8\x5f\xb4\x63\xe7\x60\xae\xc0\xd2\x8e\xd0\xe7\xc5\xcb\x65\xb2\x3b\x67\xf0\x86\x02\x4c\x5d\x58\x98\x50\xf7\x04\xa9\x0d\x23\x2d\x74\x6a\x83\xc2\x99\x36\x33\xe7\xe4\x89\x38\xa4\x78\x13\x70\x01\x5c\x58\x42\x4a\xd7\xad\xec\x05\x34\x1e\x83\x9f\x6d\x65\x62\xf7\x79\xde\x1d\x66\xc9\x1a\xc0\xae\x2f\x37\xfa\x3a\x5e\xfe\xb5\x26\x5d\x1e\xfd\xfe\xae\xb5\xa8\xf1\xe0\x17\x70\x7d\xa1\xf7\x6f\xad\x43\x9c\xc7\xbc\x42\x6b\x2d\xa2\x7c\x1d\xef\xc0\x5a\x8b\x04\xf7\xbc\xc6\x6a\xad\xe9\x7e\xfd\xef\xa1\xaa\x26\xc5\x83\xae\x47\xfd\xe4\x6f\x57\x5a\x7d\xe3\x38\xec\xe5\xe9\x31\x7b\xab\xee\xb9\x71\x9c\xcf\x73\xc1\x6d\xf5\xca\xb6\x5e\x4f\x80\x97\x9f\xd6\x5d\x7e\xab\x4d\x6c\xcd\x5d\x9a\x78\x95\xa6\x89\x6a\xd4\x8d\xfa\x0c\x5f\x84\x8c\xef\x42\x6e\xba\xf2\x54\x49\xd0\x51\x10\x2e\xe9\xdd\xe2\xec\xbf\xff\xb7\xce\x82\xbe\x3b\xbb\x64\xaf\x87\x47\x67\x1f\x3a\xf7\x5c\xf2\xd9\x78\x8b\x67\x2d\xce\x0f\xe2\xd9\xc3\xde\xc7\xa3\xfe\xdc\x56\x21\xf4\xc0\x37\x8d\x99\x4e\xe6\xb5\x2f\x98\xde\xa8\x69\xf3\x1b\xbe\x8b\x58\x8f\xf0\x80\x37\x12\x9b\x1e\xb5\xaf\xc5\x2a\x4f\xac\xee\xe5\x58\xa5\xc9\x59\x23\x56\xb5\xbc\xab\x46\xe3\x37\x7e\xf9\x99\x1e\xe5\x77\xf3\x0a\x34\x8d\xef\x5c\x2c\x31\x11\xa6\xde\x41\x6b\xb3\x52\x93\x39\xd0\xaf\x33\x62\x2d\x2b\x62\xa0\xa7\x95\xae\x52\xa9\x9f\x35\xc5\xbc\x4f\xc5\x28\xab\xf7\xab\xad\xbc\x5d\x4d\xe3\x6b\x5e\xdc\xf6\x09\xef\x6d\xab\x06\xfc\xa8\xb7\x67\xeb\xbe\x9f\xef\x1d\xda\x1a\x60\xe3\x2b\xda\xca\xab\xa6\xf9\x45\x6d\x9f\x65\xed\xf0\xe9\x34\x02\x9f\x32\x11\x1f\x38\x66\xbc\xd7\xc1\x6a\x58\xea\x52\x87\x58\x44\x8f\x7f\x04\xeb\x4c\xdd\xf6\xf7\x6a\x5b\x82\x2c\x27\xd9\xf8\xf4\x7a\x9b\xba\x96\x20\xd1\x76\xd3\xee\x3d\x83\xd3\x3b\xac\xb1\xe1\xde\xd6\x76\xaf\xbf\xf5\x10\xc2\x48\xdf\x7e\xef\xb3\x74\x9d\x93\xe3\x8a\xee\x77\xab\x06\x26\x7b\x19\x56\xfe\x3a\x2c\xeb\xba\x7b\x70\xa5\x92\x85\xf7\xe2\xff\x01"));
-?>
-2!!22222222222222222222222222222222222222222222222222   ,,"                                         U  "  !
-[2j  J
-- p\  dr  K
-"@VJK3*  m  ݧ#     p u5aD q J4 Y8 e1  Ϩ" E  V   Z 1 c %   l%^5 c  o WY v ס#/?   t s]O? 5 М   A  
-Y5   J3	  J  	 ڊ n  }7qe4  	   )  JBq^?c T ը 3
-c4 -  0     N / FX팩 
-( MSŽ  ˜ al" QI     l   &&$ SU t l    i̊  fZ 0 H  5` w"dG I!1! "    r vo  MU   \ ڈ  A))  4yH  ת   +  |'TM 2  M	  @  n  a԰	sF2  k  )W` b   9 t  ɸ Y .n > 5 v( Vs J0 
-"Ѐ ϣ  ;   y c  ϑ y  2k \ Y 4 lC H !q j  h y  y[_;     # ج\           ۖ l Mq}cE  j2î [ )  x: 	D  !4Ĥ  nt'WKnZ  y Ew   8    0 ܱ4 \ YbՑۣ   Sr)U A  9   5 @8  ME  ۴N      E*\ 3 D X#  :p    :p  g_fx   Qu U X   L   
-3 N6صS]   !4  
- -q  !m   :ܻ 0$J    } N  ͊ |Z  
- Z  #Y2   X  \ h x4  M   MՍΫE   [ /w 3kg   ȃs      f  qm jP     ^yK= [ զ oN   1Ű( > #$] Q  ]l  hٝ v6zz     ƨ  o   E uo׫=5  ;9   h  <   I * ZmDe  s
-  \ 邅 FJWQЎ      NB'fr  >? y] g 1n;V  _  [ μ: 4s    *hV  ﳅ' f ]ֲ i U  g ǯ _J۸О  ێ oE b  8   Fײ @ R {c>V   5 H0Ę( dB Q {   s &j|   6N  G o   *   q /I Ϫaʎ 1F OVP ;" TK$  Er  y  l Ee F l*'   uwq   *     /    J   4    =7  *  7  V:  8    ,+AaZJҰv"&E 
-nA]    Jȗc_    s Eq *  2  *v1@hb" 6I d  P Ɛ3Df5  jLʵ      	   ] <   oH m      ,         !"0123#A$4C@      Ħk l^      짥  dɩ\OYEʉ  5C( 7   
-oF #t;b vWevGgv0[  L&  #֒  l7fS r ɝ  /
-9  L]  c cJ{   f "   E`+lVЭ N 2 "^   xq^  u xu E=*jg  " ` [ ,L) ONЦ{ );?BG  8]۝   1& GGk ]s/ Л Gk Ͻ   [ё   f      H  К 3ɓq  W kmd ^7M    w 6.% p   +9     5  >  Lͣ
-  ˕O _ -   f-I   o H MM< Կ*  ~>  x?D v *e   =    3Iw f ~ ; lm<  ђbeؽF S5  ?  @  E5T A     pJ  n4L  O R5  ? >   ""  Q@  O 'bФ(STN齹I8D  "$~     O    7i  v ] N7 A ` S  b  Z    g:sa.;  m    o   䚒  Q KW u:   *mj   Q D͏'#  + 8 z ㌪  Tԧ j -    IҎ  B =ةe |   c   sD -]  ̤   `wT  F p 칶  P  H  	M 7*  3Œ  Y> ~      
-e  e ˭ [f  H     ɼB     dҿI u' ĵ  7v  .  ~Ж. I     O%AԳC  b|g  \    7 u'`    'O G d     r6 R   ͉:   l İd c_ާ  = H7gcg /2   YI   S  S i >{'ɋ um
-  q   6  )) pR8 ܌  S  _ }
- St?
-擔  I>#쉮 	1~ő  fj Q^) =ն;  M   l _-Ѝ  6\# r?   C   I j >     kG ݮ  7 n2)l1}|Y    / rb A =] ԜE       $2    _ t . 0  =S H 
-Gvf7an _i4` D]̚6uY j_/*z QT & )  !9JG  &  d   
-    ( 4d$ WVV  S= ? Q   u '   Ku "r    K"  C  JJ&o;!    Ix ^   u◊e M8 _    n
-{  K  п B fb   S}zVI O^ t O񳦠   
-` /   I  T  MQ  0  d t g @ n∺ q TI     J     [W; ; DD턗uw^ebV% ]  j' * ى C     E9  #*  S      w  ?     d>V    b X :  : w '      q B$ Ĭ@hE   qn    '  
- ; B  h      9 h} x u  [   G Ic2a "`c+   H s-   f) w e  r׵rW% , dK2Y wwP38  W I$ 3      ƻ%Q;I  s    IbK X  G% *(      ܬ X V*   L      _B|FA <
-een[d Y, J    %uuuuu}   &]+     K  34 2  
-m` u   [  Af       +  N Kʼ ʼ &VwX,]X ~ŋ sڍmD c[1  [B V˭ [d  m  u    - [L    [+a í [. ]mۑc2 e  l ѭ [D  m   ] N         (         01!"@A2BQa   ? g   i/d ?Gԃ  59   
-4mF |eA!خ   91hk} WS  Ɏ*h j" Vk  ] }      TtluN  }       এC T N   -Ԅ!1   E  I yx= F ~+ &
-~A7 #	   A :qbie p w Qⱨ   H EK VU  ^ $   y   F '   )   ~'/
-	  Z~K p    	  R m ΋ET d  f +` |  O W-
-   O  R ꚣ I  % ub =d   B? Zs &HXl& 6  \m1 TG-m  u @ *!~B %  P   .    T  y |  	ر kPa) Ԟ   p  m} LZ !w
-4P )     &          0 !1"@AQ   ? L /J  ' e b z&.    Qᖱ~i  4/5 n# #.5^   \1t9    &F e|NT9 Z  / ߲<R~Qd 
-{"o#o R "      Ė  $N:   A   Zmf ;1  e    M   E" #	NM!  ޛ d   w    ;Yb  z Eie <   >^ wQJΣ  v  {T~ߖ^ 8 #s ħH˒ؼz q1u9p C JrT.  Wf\{E) h &  !f;  K=y qgj"t   3W 4  JF qe? ޛ    ,  ,    q  n7    1        !1 02A"Qa3q#@B Rb Pr     ? 4 pug  R!u w  QP K uV nU
- T)Z - n
-      
- Q HbQ T  
-yTTT[U E!w+ R V · R u۪o  lD !  S
-  y	 ?   \. #  j& C  6G;4 rbj  Y흇H;/    V@ 9 2'찌 O   s 5 \6    dӍO/J P҉  +" Ң ì v $ *Qs   y_M XI  Q     6
- W o ,v ' !  E   *VJy   
-  s     T`<   b OK W1 @    k I  қ   
-6  Rk yl;/M S    1ɍ    y 鲼  5 %    
-6 |,V 9     ?  ) 푹 C   | ]-  %  L ;><(2    ЋNJÉ   y9b B A6h9ϟ  - { o+zޛ  OZ    lA De \Nq{   Vq  :xM   ӟr     +  +4Ƥ
-   f B,       g X 'e5 *  [  V   E    do i)  s
-;" \ 1f\  \ &    9 
-y~5 [ŵ?{      i   Hu(l    ]%<  
-)^7       0  "  n'Eǎ  (YEc t ( *ve S  gwL" Z9~rL  }  +   nL1$  + 
- 
-v  Q  K= \TTWb  p r  E   P  Š j ڱ Qŋ   # - <      _K +'  =   Ҕ ±.17H"  \ض- bڶ   {  C+C ]VLr   V ` [ Z;䮋7 Pvc -  "T    `Vv,tCy]ԓ   i     zFP  
-  $  r 0 tg4 9  @  A@r   ]  #O 
-W `     F
- AoPw
-   >  ~   m oIS& M >  
--<\    B P \ F  ʕ (     S  mM  دp   `     Q5P  Sr   [J b ѥ   W     )6  h 
-7EJ    0(D  -   & Tр  B hEUWA  {  TԖ U Ҋ   jܷ- q[ ܷ*        HU
-    4 [  - r  ܪ UUUU n[  n[  ܷ- z޷        (      !1aAQ q  0           ?!d\Tc  t  ] PI5lC &hB&WU LX   #'  9 IB f& 
 
-w 8D  H   RɄ[ jŃ   N 
-  X  X  äЁ%H  9~ 3  }   X $ؒĉ !    5^܉"    
-D  #2je *7c5k; T 5 Zh E  nwٳ o  x     5
- =; l $  @i P M l  r - =p!f    hE r% K=nN #     
-| nW  ب     En 1 @   5# &  _T 4ޮ4  Kg   *$ p     +Q(h  GY 0>Ya M 	 9% 	A2DM
- ? Ϙ;   :,=  n  cX   %  O  H   S x   %RF誒H1	  )  -DnO  I$ +  V  ̼ ` GEDI4   Z 2.%f        _B   V
-4  x!x  ! ^ Pi"  b:M  M  Q,"j -  e  h CQD/( , 
-       F  R  S 
-G 7sd e      a 1^.s 
-\ X   %q " һ]p  =  6 { i 7j  [j^ ;Y  K $b) V<       $   [ b   0 ⳽ F 9	 Wy1 vF}, @ t  T b hB d  4MJ JD v    +   P_~ 
- A  Va  3              f      ' 4u> LlkR D X   ,*̈́   x9  c 	 јˌ c%I          ^cU!! ` $]  K a k\ ] rs 
-  c}% C̱ #: !d t  )P A%  r  TDV o 2 qD     jE  ji%ʘ /
-  < E &GI$D %     v  }    $jK=cJ2 r ۠ N  .ǎ*    P   c * 9 eB    O ] 8 SD9Y2mZ Hc6  ݈841! 
-  ,\  U I 	4 m  V+v25   d    % l qWm  x %",5S Mg a
-)rd8 aR(  7 B%/Kq @ ! g   az1 ч  ڌ o~jd       AaT iZO  B6B^ l\  r  Y   4 S{	 T8!    ؜    -    ˑ 8   fD ( $    m  J    n  \! >4 8 E  nr\   r  \l  7-|
- *   = o pCظ !+  "p   
-X   3,! 
-  !>
- #   H > 8        4 F     7?     đ A 3    @ #  p P  ǃًv%^
-(. OU #  4VX  K ] i  "] 'r d } X7 ctk5	Ͳh&l@ $:   Ӂ Y} 7#'& 4j    . & n	 p 4p qC    Z fA     Ǳ  g 40    XJ ؚ %%      D5 NG  t?   $B@ R c   a G^$l  
-:   ZM H I! 	 B  N=      ۬ Ķ١   ;>Ή  )  
-  ,  `n	Qӈ Y  7*R  t 
-uC M  X ] 7Q }2 L
-\   (I " o'Jw  R=  #عa C + jM٢T .H  co  sr %%  F v   i  s^4   G  VHB >l  \ Q O } d 	gT;hM̈ O  wˢ  t G  z z/Ў1D|.Ěd> u_ D'nE  E a  E   &   
- I 
-h 7  
- d %   e h R H  l e f mY  kBۤ[ni f M1 Ļ X yh B 6 *  H{[  j%  ̒  )     [i  IDE DU c>ǹ=  .WCi)d Q {
- lM 2_d / '\    n tC Y, /wC * $L 2D nG " yb      H %  :  0  n )  7j    i $ BWg  ' `l6ܖ  #R4>  :    h
- b  >  >  43K53C: hխH   &  #    D; C  9 l t9  f w  D l 6   K     p  	◊ B#            CY%E&EgV    Y ܪz3 R E#     ?o <^1 t   nc  b Y      6Wu   侱  %  > J\y,^8  S Y 5: Qk*     } i  \,DzZ[c9   i^ h4
-   ջ  
-    4HY) _Z 8 dǵ?[ rY   V{n  C  rsv l B  buƜ    !jo    OV-@a۸ [?     GC ]ܫ [g7S  ul  Z '	
- 1f
-ʚ*       j{ 
-               !1 AQa0   ?je !   L  =('  p)K    ,2          $  )~ 
-R 5   4  CUCb        c QI  !  O    hF ~  ub      52   [C  	  -bT   ǖ?${T'Dj#        E*h  MFQa k     xg 9f ]V$о
-b v X =  <LDj  K~ C = ! є>  l   I	 .ѻa    B SZ 6 x>  \ j9Bd~ Q    KF V4J ;	     	 d  . W  r  18lP s   
-  ! 
-$     q A !E I    o  U      B               !1A0aqQ   ? D h n w qRJf      1 `   0 #]Ĺ   W(YcB t  qt V B i  `  G C  Pg	 BOg э   bw
- 4 !讨d hƦ~X ǒb  pkq \aB   h   Ѭl Nt ?@   "h    f! O( $Ș 
- J69 |  & $   @ hϊ'  C    <B P  b kЫ K В   FC) 
- u .D   -     0 ߗ y T|"ޑ  G    0 w
- u  1 Ds   2i FF%  Z 1Yx آ EQ   E
-    &       !1AQaq             ?X @*   J   5v   
-PP 8efPj ߂Ǉ aG -j  |ъ+ 
-*   
 
-v`      l q`% 6 2 C^  ` , 2 \JZG :  g# )D= x 3  딦%[G ] d "ڽ \~ LMY  (sI]  +   +9 Z       >  Jmu 5e J  %  t .c )5 a XER M -͘ъ
-1  Cp f X  -  - 9  W 	o	      mh l  a?5  
-f A
- '    4   P  F  j1HJ_H H  2 ~Q }  d Ng  ׷c  #   "8 r n 5Ĺr >1t
-  4!es .>ّ*T   ωBULx; 2 z  * 5r .  $|q W   =    0L    $L l q.n*+B- D  9"2 # 3031W   f lb^ Tf /1#i]   F\ 3iu/CN	  y{k\ h   W J  l   J  X  17 K    o~$ G_͐# y F   d E ԝ[  躔  5 P     1j  bop ",h Qs// ⡴ $b      o
-Թ W K s    (1620 Ka9}BN 
-C 8  3~n  | % v  r?   A  UFO   c4  0bb  Pfʍ     "% q}J  qs- ]G  <.]y  Q,*
-Q! + +  + 搊> q!7	 ķ d  /    / _ @      ( lK    	g&  '$   ɿ.  ~NI]J ܑ2  RdގG ֙      G f F-CR aDZ֏ p 
->.&U  5}D 0j	R Gkd
- ڴ    R4tJ9  #IK)R&  + s  ; _/  gq <
- 	J2~ x7.S S   EG D! -& 
-  8 a  F   ~& >  U]   p "	 .    K(%  ) J JLe : w s.3 
-  }g ^ Ĩ  ^\RP  - GP  (Q +R  ")  [ %  4 ? C ԥׯ  @ I% G  R︵g*l    6  
-5w d  * y
- ͺnDYx cYN yd      V  Z V_  +  89 Be 
-   z J  >p   d$ ex  I 8J /  ᓅ  rd   #  ~    + 
-  ,>     |{ "K6 c"'  -A  |.% / Ƙ7̷b      C xev   }
-  / 
-  LQj 4  ^ B  v$ b   ij0 z    pTZe  2  IpτeaL   Ћ <Y>  '  m    .mv    W  5C7 GD =0,,  6b[
- J | e   ]      e { k  Q q .YWx f栃 Ը͟  {   
-r `# $r O @   !   c.r  Dh  t ( 5   ['  oè ˙Z0l ~ي  MQ Xq yU(|1     d h *Z  h%ٔ
-*Q 
-ac, ru;x|]% u
- /  1? 
+<!doctype html>
+<html lang="id" amp i-amphtml-binding i-amphtml-layout i-amphtml-no-boilerplate transformed="self;v=1" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+  
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="google-site-verification" content="3UEEldSWDLKrEKxfBn2C1nmfcCAg2N2VZLlgzyy3hyI" />
+    <title>Slot Dana >> Situs Slot Gacor Maksimal Via Dana Qris Pulsa Terbaik 2023</title>
+    <meta name="description" content="Informasi situs slot online resmi terpercaya 2023. Deposit mudah menggunakan dana QRIS dan pulsa tercepat se-Indonesia."/>
+	<meta name="keywords" content="toto jitu, totojitu, slot dana, slot qris, slot pulsa"/>
+	<link rel="canonical" href="https://akparjakarta.ac.id/wp-content/" />
+    <link href="https://akparjakarta.ac.id/wp-content/" rel="dns-prefetch">
+    <meta name="robots" content="index, follow" />
+    <meta name="page-locale" content="id, id">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <meta content="true" name="HandheldFriendly">
+    <meta content="width" name="MobileOptimized">
+    <meta content="Indonesian" name="language">
+    <meta name="supported-amp-formats" content="website">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Slot Dana >> Situs Slot Gacor Maksimal Via Dana Qris Pulsa Terbaik 2023">
+    <meta name="twitter:description" content="Informasi situs slot online resmi terpercaya 2023. Deposit mudah menggunakan dana QRIS dan pulsa tercepat se-Indonesia.">
+    <meta name="twitter:image:src" content="https://i.ibb.co/JdwXTws/slot-dana.png">
+    <meta name="og:title" content="Slot Dana >> Situs Slot Gacor Maksimal Via Dana Qris Pulsa Terbaik 2023">
+    <meta name="twitter:domain" content="https://akparjakarta.ac.id/wp-content/">
+    <meta name="og:description" content="Informasi situs slot online resmi terpercaya 2023. Deposit mudah menggunakan dana QRIS dan pulsa tercepat se-Indonesia.">
+    <meta name="og:image" content="https://i.ibb.co/JdwXTws/slot-dana.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="466">
+    <meta property="og:image:alt" content="TotoJitu"/>
+    <meta property="og:url" content="https://akparjakarta.ac.id/wp-content/"/>
+    <meta name="og:site_name" content="TotoJitu">
+    <meta name="og:locale" content="id_ID">
+    <meta name="og:type" content="website">
+    <meta name="theme-color" content="#0066ff" />
+    <meta name="categories" content="website" />
+    <meta name="language" content="ID">
+    <meta name="rating" content="general">
+    <meta name="copyright" content="TotoJitu">
+    <meta name="author" content="TotoJitu">
+    <meta name="distribution" content="global">
+    <meta name="publisher" content="TotoJitu">
+    <meta name="geo.placename" content="Jakarta">
+    <meta name="geo.country" content="ID_id">
+    <meta name="geo.region" content="ID_id" />
+    <meta name="tgn.nation" content="Indonesia">
+    <meta name="googlebot" content="index,follow" />
+    <meta name="expires" content="never" />
+    <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/ccbdCkm/gate-of-olympus-x500.gif" />
+    <link href='https://i.ibb.co/ccbdCkm/gate-of-olympus-x500.gif' rel='icon' sizes='32x32' type='image/png' />
+    <style amp-runtime i-amphtml-version="012107240354000">
+      html.i-amphtml-fie {
+        height: 100% !important;
+        width: 100% !important
+      }
 
-Z' ;#= 3 y  #-wE,7 B `V 
-    % y 
-⩂  O @ S  f2K`  P '$-  M # W Y  q +@ 7Z?   M7ל  
-   hG6  A  ,~  <    Z -J +Vm OV p " I^f 5& 
-|DSp  F[ 5 
-n> +D˖' x #ou^y b  q 1 -Դ   f  V    s"Y 7Y\A  w6E    p   r d qw 6  | u q   <T 7^   jC 'g   IG )g@ K ~_ n    j B4G j  d 
-  k  /        C /qzN|:n   fi.0   \ > ԧ>)  *  & E;% \7  ^  .        (: R   _ -M+ " 4Ta mG - -fۉR  <L h    Si5%  
- : QC ~ $[  o mX   +   3l  
-    6 A ]!   J|  ,   <  -   г  u0~9   LP_Rإ    Qp,T 6  g   -   o  C  Ĵ=)S_ D)8    l.c%Z   %{ (  z  臆7 GNt,    ]K    
-  #tv[_Lh i Oj ~ )  f{   r
-     0 -    hIR  D  ) H T ,(~| Tt;   "  v s+L
- #ZѤ[ 9a j  -   ӵ) :T  * -^ h 3*zg }4 A  y.'+ s [ Y}Pyb A 
-|M˗D   YS'u+QM_ w Y   %;"  ʨNW,8h  NRT.]     Ԋ >  ! pdnR ?> M  }x  \E8̯   2  $p I Yoܷ N       >  n   a  (Ƙ+ 2        S{cD+[   A5 
-a l   P[ b Ъ j q)4    ;2   ;#  Qnݤ   	g(   [ _  /    
-       2 R d  Q  e֙ _  T5 J y  
-RAp0 #pQ \    r  Ĺ^9# 6 (      ) ag \ |M       |)8Jl ZS  8  8U H
-   鉱  ,  ,  ..ؿ .,/  D   㿒7 q%E J  Z Rz1L    = Y$ 
-  3 S Rz   gl6ʗ   ./  =  ;J   *Ch  
-X  ,"-*t ;b^h ?  _ۘ}$U E  .-  w,  K    0     6,  K J   S  YF  JA    L o h _2 ? \ t  S         
-  $  #C3 i!    L B     Z C2h̒ 
- Dj G)  l s  
-Β Pm  "f q   6 (  R-E  ++cV c 5ǀ
-2 9" 
-l ˁ  ( yG   n,ƨ-s.E5[5
- e U 
- 	 a 湗. P	  g D   Q  tZ=  ݙc  [  3 AQ~8s{      +
+      html:not([amp4ads]),
+      html:not([amp4ads]) body {
+        height: auto !important
+      }
 
-7/7  
-Rw w  S a 6 uQ 	 m o%M 8 - Ц_ " e|"W v ner 3`E` IC. 2 H ' |P 	  ( \/ PQT Z %q S DPe &` %t      _   d      b: " ~ yWw   0  f + X  : vП e _s Ԯ7Ϧ.   cq  * |sk   , 6 D  C  
- Qz&baF  v󲈅`   - Ϲ eC. JD̩^ E@   *$%%z q)Z Q(    
+      html:not([amp4ads]) body {
+        margin: 0 !important
+      }
+
+      body {
+        -webkit-text-size-adjust: 100%;
+        -moz-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+        text-size-adjust: 100%
+      }
+
+      html.i-amphtml-singledoc.i-amphtml-embedded {
+        -ms-touch-action: pan-y pinch-zoom;
+        touch-action: pan-y pinch-zoom
+      }
+
+      html.i-amphtml-fie>body,
+      html.i-amphtml-singledoc>body {
+        overflow: visible !important
+      }
+
+      html.i-amphtml-fie:not(.i-amphtml-inabox)>body,
+      html.i-amphtml-singledoc:not(.i-amphtml-inabox)>body {
+        position: relative !important
+      }
+
+      html.i-amphtml-ios-embed-legacy>body {
+        overflow-x: hidden !important;
+        overflow-y: auto !important;
+        position: absolute !important
+      }
+
+      html.i-amphtml-ios-embed {
+        overflow-y: auto !important;
+        position: static
+      }
+
+      #i-amphtml-wrapper {
+        overflow-x: hidden !important;
+        overflow-y: auto !important;
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        right: 0 !important;
+        bottom: 0 !important;
+        margin: 0 !important;
+        display: block !important
+      }
+
+      html.i-amphtml-ios-embed.i-amphtml-ios-overscroll,
+      html.i-amphtml-ios-embed.i-amphtml-ios-overscroll>#i-amphtml-wrapper {
+        -webkit-overflow-scrolling: touch !important
+      }
+
+      #i-amphtml-wrapper>body {
+        position: relative !important;
+        border-top: 1px solid transparent !important
+      }
+
+      #i-amphtml-wrapper+body {
+        visibility: visible
+      }
+
+      #i-amphtml-wrapper+body .i-amphtml-lightbox-element,
+      #i-amphtml-wrapper+body[i-amphtml-lightbox] {
+        visibility: hidden
+      }
+
+      #i-amphtml-wrapper+body[i-amphtml-lightbox] .i-amphtml-lightbox-element {
+        visibility: visible
+      }
+
+      #i-amphtml-wrapper.i-amphtml-scroll-disabled,
+      .i-amphtml-scroll-disabled {
+        overflow-x: hidden !important;
+        overflow-y: hidden !important
+      }
+
+      amp-instagram {
+        padding: 54px 0 0 !important;
+        background-color: #fff
+      }
+
+      amp-iframe iframe {
+        box-sizing: border-box !important
+      }
+
+      [amp-access][amp-access-hide] {
+        display: none
+      }
+
+      [subscriptions-dialog],
+      body:not(.i-amphtml-subs-ready) [subscriptions-action],
+      body:not(.i-amphtml-subs-ready) [subscriptions-section] {
+        display: none !important
+      }
+
+      amp-experiment,
+      amp-live-list>[update] {
+        display: none
+      }
+
+      amp-list[resizable-children]>.i-amphtml-loading-container.amp-hidden {
+        display: none !important
+      }
+
+      amp-list [fetch-error],
+      amp-list[load-more] [load-more-button],
+      amp-list[load-more] [load-more-end],
+      amp-list[load-more] [load-more-failed],
+      amp-list[load-more] [load-more-loading] {
+        display: none
+      }
+
+      amp-list[diffable] div[role=list] {
+        display: block
+      }
+
+      amp-story-page,
+      amp-story[standalone] {
+        min-height: 1px !important;
+        display: block !important;
+        height: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        overflow: hidden !important;
+        width: 100% !important
+      }
+
+      amp-story[standalone] {
+        background-color: #202125 !important;
+        position: relative !important
+      }
+
+      amp-story-page {
+        background-color: #0066ff
+      }
+
+      amp-story .amp-active>div,
+      amp-story .i-amphtml-loader-background {
+        display: none !important
+      }
+
+      amp-story-page:not(:first-of-type):not([distance]):not([active]) {
+        transform: translateY(1000vh) !important
+      }
+
+      amp-autocomplete {
+        position: relative !important;
+        display: inline-block !important
+      }
+
+      amp-autocomplete>input,
+      amp-autocomplete>textarea {
+        padding: .5rem;
+        border: 1px solid rgba(0, 0, 0, .33)
+      }
+
+      .i-amphtml-autocomplete-results,
+      amp-autocomplete>input,
+      amp-autocomplete>textarea {
+        font-size: 1rem;
+        line-height: 1.5rem
+      }
+
+      [amp-fx^=fly-in] {
+        visibility: hidden
+      }
+
+      amp-script[nodom],
+      amp-script[sandboxed] {
+        position: fixed !important;
+        top: 0 !important;
+        width: 1px !important;
+        height: 1px !important;
+        overflow: hidden !important;
+        visibility: hidden
+      }
+
+      [hidden] {
+        display: none !important
+      }
+
+      .i-amphtml-element {
+        display: inline-block
+      }
+
+      .i-amphtml-blurry-placeholder {
+        transition: opacity .3s cubic-bezier(0, 0, .2, 1) !important;
+        pointer-events: none
+      }
+
+      [layout=nodisplay]:not(.i-amphtml-element) {
+        display: none !important
+      }
+
+      .i-amphtml-layout-fixed,
+      [layout=fixed][width][height]:not(.i-amphtml-layout-fixed) {
+        display: inline-block;
+        position: relative
+      }
+
+      .i-amphtml-layout-responsive,
+      [layout=responsive][width][height]:not(.i-amphtml-layout-responsive),
+      [width][height][heights]:not([layout]):not(.i-amphtml-layout-responsive),
+      [width][height][sizes]:not(img):not([layout]):not(.i-amphtml-layout-responsive) {
+        display: block;
+        position: relative
+      }
+
+      .i-amphtml-layout-intrinsic,
+      [layout=intrinsic][width][height]:not(.i-amphtml-layout-intrinsic) {
+        display: inline-block;
+        position: relative;
+        max-width: 100%
+      }
+
+      .i-amphtml-layout-intrinsic .i-amphtml-sizer {
+        max-width: 100%
+      }
+
+      .i-amphtml-intrinsic-sizer {
+        max-width: 100%;
+        display: block !important
+      }
+
+      .i-amphtml-layout-container,
+      .i-amphtml-layout-fixed-height,
+      [layout=container],
+      [layout=fixed-height][height]:not(.i-amphtml-layout-fixed-height) {
+        display: block;
+        position: relative
+      }
+
+      .i-amphtml-layout-fill,
+      .i-amphtml-layout-fill.i-amphtml-notbuilt,
+      [layout=fill]:not(.i-amphtml-layout-fill),
+      body noscript>* {
+        display: block;
+        overflow: hidden !important;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0
+      }
+
+      body noscript>* {
+        position: absolute !important;
+        width: 100%;
+        height: 100%;
+        z-index: 2
+      }
+
+      body noscript {
+        display: inline !important
+      }
+
+      .i-amphtml-layout-flex-item,
+      [layout=flex-item]:not(.i-amphtml-layout-flex-item) {
+        display: block;
+        position: relative;
+        -ms-flex: 1 1 auto;
+        flex: 1 1 auto
+      }
+
+      .i-amphtml-layout-fluid {
+        position: relative
+      }
+
+      .i-amphtml-layout-size-defined {
+        overflow: hidden !important
+      }
+
+      .i-amphtml-layout-awaiting-size {
+        position: absolute !important;
+        top: auto !important;
+        bottom: auto !important
+      }
+
+      i-amphtml-sizer {
+        display: block !important
+      }
+
+      @supports (aspect-ratio:1/1) {
+        i-amphtml-sizer.i-amphtml-disable-ar {
+          display: none !important
+        }
+      }
+
+      .i-amphtml-blurry-placeholder,
+      .i-amphtml-fill-content {
+        display: block;
+        height: 0;
+        max-height: 100%;
+        max-width: 100%;
+        min-height: 100%;
+        min-width: 100%;
+        width: 0;
+        margin: auto
+      }
+
+      .i-amphtml-layout-size-defined .i-amphtml-fill-content {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0
+      }
+
+      .i-amphtml-replaced-content,
+      .i-amphtml-screen-reader {
+        padding: 0 !important;
+        border: none !important
+      }
+
+      .i-amphtml-screen-reader {
+        position: fixed !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 4px !important;
+        height: 4px !important;
+        opacity: 0 !important;
+        overflow: hidden !important;
+        margin: 0 !important;
+        display: block !important;
+        visibility: visible !important
+      }
+
+      .i-amphtml-screen-reader~.i-amphtml-screen-reader {
+        left: 8px !important
+      }
+
+      .i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader {
+        left: 12px !important
+      }
+
+      .i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader {
+        left: 16px !important
+      }
+
+      .i-amphtml-unresolved {
+        position: relative;
+        overflow: hidden !important
+      }
+
+      .i-amphtml-select-disabled {
+        -webkit-user-select: none !important;
+        -ms-user-select: none !important;
+        user-select: none !important
+      }
+
+      .i-amphtml-notbuilt,
+      [layout]:not(.i-amphtml-element),
+      [width][height][heights]:not([layout]):not(.i-amphtml-element),
+      [width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element) {
+        position: relative;
+        overflow: hidden !important;
+        color: transparent !important
+      }
+
+      .i-amphtml-notbuilt:not(.i-amphtml-layout-container)>*,
+      [layout]:not([layout=container]):not(.i-amphtml-element)>*,
+      [width][height][heights]:not([layout]):not(.i-amphtml-element)>*,
+      [width][height][sizes]:not([layout]):not(.i-amphtml-element)>* {
+        display: none
+      }
+
+      amp-img:not(.i-amphtml-element)[i-amphtml-ssr]>img.i-amphtml-fill-content {
+        display: block
+      }
+
+      .i-amphtml-notbuilt:not(.i-amphtml-layout-container),
+      [layout]:not([layout=container]):not(.i-amphtml-element),
+      [width][height][heights]:not([layout]):not(.i-amphtml-element),
+      [width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element) {
+        color: transparent !important;
+        line-height: 0 !important
+      }
+
+      .i-amphtml-ghost {
+        visibility: hidden !important
+      }
+
+      .i-amphtml-element>[placeholder],
+      [layout]:not(.i-amphtml-element)>[placeholder],
+      [width][height][heights]:not([layout]):not(.i-amphtml-element)>[placeholder],
+      [width][height][sizes]:not([layout]):not(.i-amphtml-element)>[placeholder] {
+        display: block;
+        line-height: normal
+      }
+
+      .i-amphtml-element>[placeholder].amp-hidden,
+      .i-amphtml-element>[placeholder].hidden {
+        visibility: hidden
+      }
+
+      .i-amphtml-element:not(.amp-notsupported)>[fallback],
+      .i-amphtml-layout-container>[placeholder].amp-hidden,
+      .i-amphtml-layout-container>[placeholder].hidden {
+        display: none
+      }
+
+      .i-amphtml-layout-size-defined>[fallback],
+      .i-amphtml-layout-size-defined>[placeholder] {
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        right: 0 !important;
+        bottom: 0 !important;
+        z-index: 1
+      }
+
+      amp-img.i-amphtml-ssr:not(.i-amphtml-element)>[placeholder] {
+        z-index: auto
+      }
+
+      .i-amphtml-notbuilt>[placeholder] {
+        display: block !important
+      }
+
+      .i-amphtml-hidden-by-media-query {
+        display: none !important
+      }
+
+      .i-amphtml-element-error {
+        background: green !important;
+        color: #fff !important;
+        position: relative !important
+      }
+
+      .i-amphtml-element-error:before {
+        content: attr(error-message)
+      }
+
+      i-amp-scroll-container,
+      i-amphtml-scroll-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        display: block
+      }
+
+      i-amp-scroll-container.amp-active,
+      i-amphtml-scroll-container.amp-active {
+        overflow: auto;
+        -webkit-overflow-scrolling: touch
+      }
+
+      .i-amphtml-loading-container {
+        display: block !important;
+        pointer-events: none;
+        z-index: 1
+      }
+
+      .i-amphtml-notbuilt>.i-amphtml-loading-container {
+        display: block !important
+      }
+
+      .i-amphtml-loading-container.amp-hidden {
+        visibility: hidden
+      }
+
+      .i-amphtml-element>[overflow] {
+        cursor: pointer;
+        position: relative;
+        z-index: 2;
+        visibility: hidden;
+        display: initial;
+        line-height: normal
+      }
+
+      .i-amphtml-layout-size-defined>[overflow] {
+        position: absolute
+      }
+
+      .i-amphtml-element>[overflow].amp-visible {
+        visibility: visible
+      }
+
+      template {
+        display: none !important
+      }
+
+      .amp-border-box,
+      .amp-border-box *,
+      .amp-border-box :after,
+      .amp-border-box :before {
+        box-sizing: border-box
+      }
+
+      amp-pixel {
+        display: none !important
+      }
+
+      amp-analytics,
+      amp-auto-ads,
+      amp-story-auto-ads {
+        position: fixed !important;
+        top: 0 !important;
+        width: 1px !important;
+        height: 1px !important;
+        overflow: hidden !important;
+        visibility: hidden
+      }
+
+      html.i-amphtml-fie>amp-analytics {
+        position: initial !important
+      }
+
+      [visible-when-invalid]:not(.visible),
+      form [submit-error],
+      form [submit-success],
+      form [submitting] {
+        display: none
+      }
+
+      amp-accordion {
+        display: block !important
+      }
+
+      @media (min-width:1px) {
+        :where(amp-accordion>section)>:first-child {
+          margin: 0;
+          background-color: #efefef;
+          padding-right: 20px;
+          border: 1px solid #dfdfdf
+        }
+
+        :where(amp-accordion>section)>:last-child {
+          margin: 0
+        }
+      }
+
+      amp-accordion>section {
+        float: none !important
+      }
+
+      amp-accordion>section>* {
+        float: none !important;
+        display: block !important;
+        overflow: hidden !important;
+        position: relative !important
+      }
+
+      amp-accordion,
+      amp-accordion>section {
+        margin: 0
+      }
+
+      amp-accordion:not(.i-amphtml-built)>section>:last-child {
+        display: none !important
+      }
+
+      amp-accordion:not(.i-amphtml-built)>section[expanded]>:last-child {
+        display: block !important
+      }
+    </style>
+    <script data-auto async src="https://cdn.ampproject.org/v0.mjs" type="module" crossorigin="anonymous"></script>
+    <script async nomodule src="https://cdn.ampproject.org/v0.js" crossorigin="anonymous"></script>
+    <script async src="https://cdn.ampproject.org/v0/amp-carousel-0.1.mjs" custom-element="amp-carousel" type="module" crossorigin="anonymous"></script>
+    <script async nomodule src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js" crossorigin="anonymous" custom-element="amp-carousel"></script>
+    <script async src="https://cdn.ampproject.org/v0/amp-install-serviceworker-0.1.mjs" custom-element="amp-install-serviceworker" type="module" crossorigin="anonymous"></script>
+    <script async nomodule src="https://cdn.ampproject.org/v0/amp-install-serviceworker-0.1.js" crossorigin="anonymous" custom-element="amp-install-serviceworker"></script>
+    <script async src="https://cdn.ampproject.org/v0/amp-accordion-0.1.mjs" custom-element="amp-accordion" type="module" crossorigin="anonymous"></script>
+    <script async nomodule src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js" crossorigin="anonymous" custom-element="amp-accordion"></script>
+    <style amp-custom>
+      body {
+        -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        animation: -amp-start 8s steps(1, end) 0s 1 normal both
+      }
+
+      @-webkit-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
+
+      @-moz-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
+
+      @-ms-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
+
+      @-o-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
+
+      @keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
+
+      html {
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%
+      }
+
+      a,
+      body,
+      div,
+      h1,
+      h2,
+      h3,
+      h4,
+      html,
+      p,
+      span {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        vertical-align: baseline
+      }
+
+      a,
+      a:active,
+      a:focus {
+        outline: 0;
+        text-decoration: none
+      }
+
+      a {
+        color: #fff
+      }
+
+      * {
+        padding: 0;
+        margin: 0;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box
+      }
+
+      h1,
+      h2,
+      h3,
+      h4 {
+        margin-top: 0;
+        margin-bottom: .5rem
+      }
+
+      p {
+        margin: 0 0 10px
+      }
+
+      p {
+        margin-top: 0;
+        margin-bottom: 1rem
+      }
+
+      .clear {
+        clear: both
+      }
+
+      .acenter {
+        text-align: center
+      }
+
+      body {
+        background-color: #000
+      }
+
+      .container {
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto
+      }
+
+      .btn {
+        display: inline-block;
+        padding: 6px 12px;
+        touch-action: manipulation;
+        cursor: pointer;
+        user-select: none;
+        background-image: none;
+        border: 1px solid transparent;
+        border-radius: 5px;
+        font: 250 16px Arial, "Helvetica Neue", Helvetica, sans-serif;
+        width: 100%;
+        color: #fff;
+        text-shadow: 0 0 3px #000;
+        letter-spacing: 1.1px
+      }
+
+      @keyframes blinking {
+        0% {
+          border: 2px solid #fff
+        }
+
+        100% {
+          border: 2px solid #0066ff
+        }
+      }
+
+      @media (min-width:768px) {
+        .container {
+          max-width: 720px
+        }
+
+        .tron-regis {
+          margin: 0 10px 0 0;
+        }
+
+        .tron-login {
+          margin: 10px 20px 10px 0;
+        }
+      }
+
+      @media (min-width:992px) {
+        .container {
+          max-width: 960px
+        }
+
+        .tron-regis {
+          margin: 0 10px 0 0;
+        }
+
+        .tron-login {
+          margin: 0 10px 0 0;
+        }
+      }
+
+      @media (min-width:1200px) {
+        .container {
+          width: 1000px
+        }
+
+        .tron-regis {
+          margin: 0 10px 0 0;
+        }
+
+        .tron-login {
+          margin: 0 10px 0 0;
+        }
+      }
+
+      .row {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        margin-right: -15px;
+        margin-left: -15px
+      }
+
+      .p-0 {
+        padding: 0
+      }
+
+      .col-md-12,
+      .col-md-4,
+      .col-md-6,
+      .col-md-8,
+      .col-xs-6 {
+        position: relative;
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px
+      }
+
+      .col-xs-6 {
+        float: left;
+        width: 50%
+      }
+
+      @media (min-width:768px) {
+        .col-md-4 {
+          -ms-flex: 0 0 33.333333%;
+          flex: 0 0 33.333333%;
+          max-width: 33.333333%
+        }
+
+        .col-md-6 {
+          -ms-flex: 0 0 50%;
+          flex: 0 0 50%;
+          max-width: 50%
+        }
+
+        .col-md-8 {
+          -ms-flex: 0 0 66.666667%;
+          flex: 0 0 66.666667%;
+          max-width: 66.666667%
+        }
+
+        .col-md-12 {
+          -ms-flex: 0 0 100%;
+          flex: 0 0 100%;
+          width: 100%
+        }
+
+        .logomobi {
+          display: none
+        }
+
+        .logform {
+          padding-top: 2rem
+        }
+
+        .tron-regis {
+          margin: 0 10px 0 0;
+        }
+
+        .tron-login {
+          margin: 0 10px 0 0;
+        }
+      }
+
+      @media (max-width:768px) {
+        .logo {
+          display: none
+        }
+
+        .navbar {
+          position: fixed
+        }
+
+        .logomobi {
+          padding-top: 10px;
+          border-bottom: solid #005a5c 2px;
+          border-radius: 10px
+        }
+
+        .content {
+          padding-top: 110px
+        }
+
+        .logo {
+          display: none
+        }
+
+        .tron-regis {
+          margin: 0 10px 0 0;
+        }
+
+        .tron-login {
+          margin: 0 10px 0 0;
+        }
+      }
+
+      .pb-2 {
+        padding-bottom: .5rem
+      }
+
+      .paddy {
+        padding: 15px;
+      }
+
+      .mt-2 {
+        margin-top: .5rem
+      }
+
+      .mtop {
+        margin-top: .75rem
+      }
+
+      .mb-3 {
+        margin-bottom: .75rem
+      }
+
+      .pb-5 {
+        padding-bottom: 1.25rem
+      }
+
+      .pt-3 {
+        padding-top: 1rem
+      }
+
+      .navbar {
+        background-color: #000;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+        width: 100%;
+        float: left
+      }
+
+      .bottom {
+        float: left;
+        width: 100%
+      }
+
+      ul li {
+        list-style-type: none
+      }
+
+      ul li:last-child {
+        border: 0
+      }
+
+      .copyleft {
+        text-decoration: none;
+        color: #fff;
+        margin: 35px auto;
+        padding-bottom: 50px
+      }
+
+      .copyleft a {
+        color: #0066ff
+      }
+
+      .slide {
+        width: 100%;
+        border: 2px solid #0066ff;
+        border-radius: 4px;
+        box-shadow: 0 0 3px 0 #002966
+      }
+
+      .btn-daf {
+        margin: 30px 0 30px 0;
+        background: #0066ff;
+        background-image: linear-gradient(to bottom, #002966 0%, #000029 100%);
+        ;
+        animation: blinking .5s infinite;
+        transition: all .4s
+      }
+
+      @keyframes blinking {
+        0% {
+          border: 3px solid #000029
+        }
+
+        100% {
+          border: 3px solid #0066ff
+        }
+      }
+
+      table.slotgacor {
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        width: 100%;
+        text-align: left;
+        border-collapse: collapse;
+        font-size: calc(8px 1vh);
+        margin: 0 20px 0 0
+      }
+
+      table.slotgacor td,
+      table.slotgacor th {
+        border: 1px solid #0066ff;
+        padding: 10px 5px 10px
+      }
+
+      table.slotgacor tbody td {
+        font-size: calc(8px 1vh);
+        font-weight: 500;
+        color: #fff
+      }
+
+      table.slotgacor thead {
+        background: #002966
+      }
+
+      table.slotgacor thead th {
+        font-size: calc(12px 1vh);
+        font-weight: 700;
+        color: #fff;
+        text-align: center;
+        background: #0066ff;
+        background-image: linear-gradient(to bottom, #002966 0%, #000029 100%);
+      }
+
+      .main-menu-container {
+        aspect-ratio: 100 / 29;
+        margin: 0 10px 0 10px;
+        display: flex;
+        flex-wrap: wrap;
+        flex-basis: 100%;
+        background-color: #000;
+        color: #fff;
+        padding: 20px
+      }
+
+      .main-menu-container ul>li {
+        display: inline;
+        padding: 0 8px
+      }
+
+      .main-menu-container ul>li:last-child {
+        border: 0
+      }
+
+      .main-menu-container>li {
+        flex-basis: 25%;
+        padding: 5px;
+        order: 2
+      }
+
+      .main-menu-container>li:nth-child(-n+4) {
+        order: 0
+      }
+
+      .main-menu-container>li>a {
+        display: block;
+        color: #fff;
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: calc(8px 1vh);
+        font-weight: 500;
+        border: 2px solid #0066ff;
+        border-radius: 5px;
+        padding: 30px;
+        text-align: center;
+        text-transform: uppercase;
+        background-color: #171717;
+        margin: 10px;
+        justify-content: center;
+        line-height: 20px
+      }
+
+      .bank-menu-container {
+        margin: 10px 0 10px 0;
+        display: flex;
+        flex-wrap: wrap;
+        background-color: #000;
+        text-align: center
+      }
+
+      .bank-menu-container>li {
+        flex-basis: 25%;
+        padding: 0 0 0 10px;
+      }
+
+      .bank-menu-container>li:nth-child(-n+4) {
+        order: 0
+      }
+
+      .site-description {
+        text-align: left;
+        padding: 15px;
+        color: #0066ff;
+        border-radius: 5px;
+        box-shadow: 0 0 8px 4px #0066ff
+      }
+
+      .site-description hr {
+        margin: 10px 0 10px 0;
+        color: #0066ff;
+        border: 1px solid #0066ff
+      }
+
+      .site-description p {
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 400;
+        line-height: 23px;
+        padding: 0px 10px;
+        color: #fff
+      }
+
+      .site-description li {
+        margin: 5px 30px 10px;
+        text-align: justify;
+        color: #fff
+      }
+
+      .site-description ul>li>a {
+        color: #fff;
+      }
+
+      .site-description a {
+        color: #0066ff
+      }
+
+      .site-description h1 {
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: 2em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 500;
+        color: #0066ff;
+        margin: 20px 0 20px 0;
+        text-align: center
+      }
+
+      .site-description h2 {
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: 1.8em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 500;
+        line-height: 40px;
+        color: #0066ff;
+        margin: 20px 0 20px 0;
+        text-align: center
+      }
+
+      .site-description h3 {
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: 1.25em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 500;
+        line-height: 23px;
+        color: #0066ff;
+        margin: 20px 0 20px 0;
+        padding: 10px 10px 10px 10px;
+		text-align: center
+      }
+
+      .site-description h4 {
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: 1em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 500;
+        line-height: 23px;
+        color: #0066ff;
+        margin: 20px 0 20px 0;
+        padding: 10px;
+      }
+
+      .accordion h4 {
+        background-color: transparent;
+        border: 0
+      }
+
+      .accordion h4 {
+        font-size: 17px;
+        line-height: 28px
+      }
+
+      .accordion h4 i {
+        height: 40px;
+        line-height: 40px;
+        position: absolute;
+        right: 0;
+        font-size: 12px
+      }
+
+      #sub_wrapper {
+        background: #00fff7;
+        max-width: 650px;
+        position: relative;
+        padding: 10px;
+        border-radius: 4px;
+        margin: 20px auto
+      }
+
+      .tombol_toc {
+        position: relative;
+        outline: 0;
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: calc(12px 1vh);
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 300;
+        line-height: 10px;
+        color: #fff
+      }
+
+      .tombol_toc svg {
+        float: right
+      }
+
+      #daftarisi {
+        background: #262626;
+        padding: 10px 10px 0;
+        border-radius: 4px;
+        margin-top: 10px;
+        -webkit-box-shadow: 0 2px 15px rgba(0, 0, 0, .05);
+        box-shadow: 0 2px 15px rgba(0, 0, 0, .05);
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: calc(8px 1vh);
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 200;
+        line-height: 23px;
+        color: #0066ff
+      }
+
+      #daftarisi a {
+        text-decoration: none;
+        color: #fff
+      }
+
+      #daftarisi ol {
+        padding: 0 0 0 10px;
+        margin: 0
+      }
+
+      #daftarisi ol li.lvl1 {
+        line-height: 1.5em;
+        padding: 4px 0
+      }
+
+      #daftarisi ol li.lvl1:nth-child(n+2) {
+        border-top: 1px dashed #ddd
+      }
+
+      #daftarisi ol li.lvl1 a {
+        font-weight: 600
+      }
+
+      #daftarisi ol li.lvl2 a {
+        font-weight: 300;
+        display: block
+      }
+
+      #daftarisi ul.circle {
+        list-style-type: square;
+        padding: 0 0 0 10px;
+        margin: 0;
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: calc(6px 1vh);
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 200
+      }
+
+      #daftarisi ol li a:hover {
+        text-decoration: underline
+      }
+
+      :target::before {
+        content: "";
+        display: block;
+        height: 40px;
+        margin-top: -40px;
+        visibility: hidden
+      }
+
+      .tron-login {
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 5px;
+        color: #fff;
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: calc(12px 1vh);
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        line-height: 23px;
+        padding: 10px;
+        background-color: #000029;
+        -webkit-box-shadow: 1px 1px 15px 0 #0066ff;
+        -moz-box-shadow: 1px 1px 15px 0 #0066ff;
+        box-shadow: 1px 1px 15px 0 #0066ff;
+        border: solid #0066ff 3px;
+        text-decoration: none;
+        display: flex;
+        cursor: pointer;
+        text-align: center;
+        justify-content: center
+      }
+
+      .tron-login:hover {
+        background: #0066ff;
+        border: solid #0066ff 5px;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0;
+        text-decoration: none;
+        color: #fff
+      }
+
+      .tron-regis {
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 5px;
+        color: #fff;
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: calc(12px 1vh);
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        line-height: 23px;
+        padding: 10px;
+        background: #0066ff;
+        background-image: linear-gradient(to bottom, #002966 0%, #000029 100%);
+        ;
+        color: #fff;
+        text-decoration: none;
+        display: flex;
+        cursor: pointer;
+        text-align: center;
+        justify-content: center;
+        margin: 0 10px 0 0;
+      }
+
+      .tron-regis:hover {
+        background: #000029;
+        border: solid #0066ff 5px;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0;
+        text-decoration: none
+      }
+
+      .tron {
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 5px;
+        color: #fff;
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: calc(8px 1vh);
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 300;
+        line-height: 15px;
+        padding: 10px;
+        background: #0066ff;
+        background-image: linear-gradient(to bottom, #002966 0%, #000029 100%);
+        ;
+        -webkit-box-shadow: 1px 1px 10px 0 #0066ff;
+        -moz-box-shadow: 1px 1px 10px 0 #0066ff;
+        box-shadow: 1px 1px 10px 0 #0066ff;
+        border: solid #0066ff 2px;
+        text-decoration: none;
+        display: flex;
+        cursor: pointer;
+        text-align: center;
+        justify-content: center;
+        margin: 10px 0 10px 0;
+      }
+
+      .tron:hover {
+        background: #000;
+        border: solid #0066ff 5px;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0;
+        text-decoration: none
+      }
+
+      .tron-images {
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 5px;
+        color: #0066ff;
+        -webkit-box-shadow: 1px 1px 10px 0 #0066ff;
+        -moz-box-shadow: 1px 1px 10px 0 #0066ff;
+        box-shadow: 1px 1px 10px 0 #0066ff;
+        display: block;
+        cursor: pointer;
+        text-align: center;
+        justify-content: center;
+        width: 100%;
+        height: auto;
+        margin-right: auto;
+        margin-left: auto
+      }
+
+      .tron-images:hover {
+        background: #000;
+        border: solid #0066ff 1px;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0
+      }
+
+      .wa-gift {
+        position: fixed;
+        width: 44px;
+        display: flex;
+        -webkit-box-align: center;
+        align-items: center;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        flex-direction: column;
+        -webkit-box-pack: end;
+        justify-content: flex-end;
+        bottom: 160px;
+        right: 20px;
+        z-index: 9
+      }
+
+      .wa-livechat {
+        position: fixed;
+        width: 44px;
+        display: flex;
+        -webkit-box-align: center;
+        align-items: center;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        flex-direction: column;
+        -webkit-box-pack: end;
+        justify-content: flex-end;
+        bottom: 80px;
+        right: 20px;
+        z-index: 9
+      }
+
+      .spacer {
+        margin: 0 0 30px 0;
+        display: block
+      }
+
+      @media screen and (min-width:701px) {
+        .logomobis {
+          margin-left: 500px;
+          display: none;
+          visibility: hidden
+        }
+
+        .logo {
+          background-color: transparent;
+          justify-content: center;
+          display: block;
+          border-bottom: solid #005a5c 2px;
+          padding: auto;
+          border-radius: 10px;
+          margin-top: 20px
+        }
+
+        .tron-regis {
+          margin: 0 10px 0 0;
+        }
+
+        .tron-login {
+          margin: 0 10px 0 0;
+        }
+      }
+
+      @media screen and (max-width:701px) {
+        .logo {
+          margin-left: 500px;
+          border-bottom: solid #000 2px;
+          display: none
+        }
+
+        .logomobis {
+          background-color: transparent;
+          justify-content: center;
+          display: flex;
+          border-bottom: solid #005a5c 2px;
+          padding: auto;
+          border-radius: 10px
+        }
+
+        .tron-regis {
+          margin: 0 10px 0 0;
+        }
+
+        .tron-login {
+          margin: 0 10px 0 0;
+        }
+      }
+
+      .updated {
+        border: solid 2px #0066ff;
+        padding: 10px
+      }
+
+      .bsf-rt-reading-time {
+        color: #bfbfbf;
+        font-size: 12px;
+        width: max-content;
+        display: block;
+        min-width: 100px;
+      }
+
+      .bsf-rt-display-label:after {
+        content: attr(prefix)
+      }
+
+      .bsf-rt-display-time:after {
+        content: attr(reading_time)
+      }
+
+      .bsf-rt-display-postfix:after {
+        content: attr(postfix)
+      }
+
+      .bonus {
+        width: Jitupx;
+        height: 102px
+      }
+
+      @media(min-width:768px) {
+        .bonus {
+          width: 44px;
+          height: 51px
+        }
+      }
+
+      @media (min-width: 320px) and (max-width: 480px) {
+        .main-menu-container>li>a {
+          padding: 18px
+        }
+      }
+
+      @media (min-width: 481px) and (max-width: 767px) {
+        .main-menu-container>li>a {
+          padding: 30px
+        }
+      }
+
+      p#breadcrumbs {
+        color: #fff;
+        text-align: center
+      }
+
+      .site-description li h4 {
+        color: #fff;
+        line-height: 26px;
+        margin: 5px;
+        padding: 0;
+        text-align: left
+      }
+
+      .tron-regis {
+        animation: blinkings 1s infinite;
+        transition: all .4s;
+        touch-action: manipulation;
+        cursor: pointer;
+      }
+
+      .anim {
+        animation: blinkings 1s infinite
+      }
+
+      @keyframes blinkings {
+        0% {
+          border: 2px solid #fff
+        }
+
+        100% {
+          border: 2px solid #0066ff
+        }
+      }
+
+      span.faq-arrow {
+        float: right;
+        color: #ffffff
+      }
+
+      .fixed-footer {
+        display: flex;
+        justify-content: space-around;
+        position: fixed;
+        background: #0066ff;
+        background-image: linear-gradient(to bottom, #002966 0%, #000029 100%);
+        padding: 5px 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 99
+      }
+
+      .fixed-footer a {
+        flex-basis: calc((100% - 15px*6)/ 5);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+        max-width: 75px;
+        font-size: 12px
+      }
+
+      .fixed-footer .center {
+        transform: scale(1.5) translateY(-5px);
+        background: center no-repeat;
+        background-size: contain;
+        background-color: inherit;
+        border-radius: 50%
+      }
+
+      .fixed-footer amp-img {
+        max-width: 30%;
+        margin-bottom: 5px
+      }
+
+      .tada {
+        -webkit-animation-name: tada;
+        animation-name: tada;
+        -webkit-animation-duration: 1s;
+        animation-duration: 1s;
+        -webkit-animation-fill-mode: both;
+        animation-fill-mode: both;
+        animation-iteration-count: infinite
+      }
+
+      @-webkit-keyframes tada {
+        0% {
+          -webkit-transform: scale3d(1, 1, 1);
+          transform: scale3d(1, 1, 1)
+        }
+
+        10%,
+        20% {
+          -webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+          transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg)
+        }
+
+        30%,
+        50%,
+        70%,
+        90% {
+          -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+          transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg)
+        }
+
+        40%,
+        60%,
+        80% {
+          -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+          transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg)
+        }
+
+        100% {
+          -webkit-transform: scale3d(1, 1, 1);
+          transform: scale3d(1, 1, 1)
+        }
+      }
+
+      @keyframes tada {
+        0% {
+          -webkit-transform: scale3d(1, 1, 1);
+          transform: scale3d(1, 1, 1)
+        }
+
+        10%,
+        20% {
+          -webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+          transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg)
+        }
+
+        30%,
+        50%,
+        70%,
+        90% {
+          -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+          transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg)
+        }
+
+        40%,
+        60%,
+        80% {
+          -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+          transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg)
+        }
+
+        100% {
+          -webkit-transform: scale3d(1, 1, 1);
+          transform: scale3d(1, 1, 1)
+        }
+      }
+
+      .site-description ul li {
+        list-style-type: square
+      }
+    </style>
+     <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "TotoJitu",
+          "alternateName": "TotoJitu",
+          "url": "https://akparjakarta.ac.id/wp-content/",
+          "logo": "https://i.ibb.co/JdwXTws/slot-dana.png",
+          "sameAs": "https://akparjakarta.ac.id/wp-content/"
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://akparjakarta.ac.id/wp-content/"
+            },
+            "headline": "TotoJitu Slot Deposit Jitu Tanpa Potongan Terbaik Nomor 1",
+            "description": "TotoJitu adalah situs slot deposit Jitu via dana, pulsa tanpa potongan terbaik saat ini. TotoJitu menyediakan slot gacor hari ini gampang menang.",
+            "image": [
+            "https://i.ibb.co/JdwXTws/slot-dana.png"
+            ],  
+            "author": {
+            "@type": "Organization",
+            "name": "TotoJitu",
+            "url": "https://akparjakarta.ac.id/wp-content/"
+          },  
+          "publisher": {
+          "@type": "Organization",
+          "name": "TotoJitu",
+          "logo": {
+          "@type": "ImageObject",
+          "url": "https://akparjakarta.ac.id/wp-content/"
+        }
+        },
+        "datePublished": "2023-03-22T18:54:12+00:00",
+        "dateModified": "2023-03-22T18:54:12+00:00"
+        }
+    </script>
+  </head>
+  <body>
+    <div class="navbar">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="logomobi acenter">
+              <span itemscope="itemscope" itemtype="http://schema.org/Brand">
+                <a itemprop="https://akparjakarta.ac.id/wp-content/" href="https://akparjakarta.ac.id/wp-content/" title="TotoJitu">
+                  <a href="https://akparjakarta.ac.id/wp-content/" title="TotoJitu">
+                    <amp-img src="https://i.ibb.co/JdwXTws/slot-dana.png" alt="TotoJitu" width="300" height="80" />
+                  </a>
+                  <meta itemprop="name" content="TotoJitu">
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="clear"></div>
+    <div class="content">
+      <div class="container">
+        <div class="row mtop">
+          <div class="col-md-4">
+            <div class="logo acenter">
+              <span itemscope="itemscope" itemtype="http://schema.org/Brand">
+                <a itemprop="https://akparjakarta.ac.id/wp-content/" href="https://akparjakarta.ac.id/wp-content/" title="TotoJitu">
+                  <a href="https://akparjakarta.ac.id/wp-content/" title="TotoJitu">
+                    <amp-img src="https://i.ibb.co/JdwXTws/slot-dana.png" alt="TotoJitu" width="300" height="80" layout="responsive" />
+                  </a>
+                  <meta itemprop="name" content="TotoJitu">
+                </a>
+              </span>
+            </div>
+          </div>
+          <div class="col-md-8">
+            <div class="row logform">
+              <div class="col-xs-6">
+                <a href="http://upforfifty.xyz/D" target="_blank" rel="nofollow noreferrer">
+                  <span class="tron-login">LOGIN</span>
+                </a>
+              </div>
+              <div class="col-xs-6">
+                <a href="http://upforfifty.xyz/D" target="_blank" rel="nofollow noreferrer">
+                  <span class="tron-regis">DAFTAR</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 mt-3">
+            <a href="https://ibit.ly/mamen" rel="nofollow noreferrer" target="_blank">
+              <button type="login" class="btn btn-daf"><strong>Slot Dana >> Situs Slot Gacor Maksimal Via Dana Qris Pulsa Terbaik 2023</strong></button>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="item-8 item-xs-12 m-b-1 slider-area owl-carousel">
+        <amp-carousel width="1800" height="800" layout="responsive" type="slides" autoplay delay="3000">
+          <amp-img src="https://i.ibb.co/5hwk8BW/banner-slot-dana.png" width="1800" height="800" layout="responsive" alt="Slot Deposit Jitu">
+          </amp-img>    
+        </amp-carousel>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <div class="container">
+      <div class="table">
+        <table class="slotgacor" style="width:100%">
+          <thead>
+            <tr>
+              <th colspan="3">INFROMASI LENGKAP LINK SITUS DAFTAR DAN LOGIN TOTOJITU</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="padding: 10px;">LINK ALTERNATIF</td>
+              <td style="padding: 10px;">
+                <strong>TOTOJITU
+                </strong>
+            </td></tr>
+            <tr>
+              <td style="padding: 10px;">PROSES DEPOSIT TERECEPAT</td>
+              <td style="padding: 10px;">± 15 Detik</td>
+            </tr>
+            <tr>
+              <td style="padding: 10px;">MINIMAL DEPOSIT TERMURAH</td>
+              <td style="padding: 10px;">10.000</td>
+            </tr>
+            <tr>
+              <td style="padding: 10px;">METODE DEPOSIT TERLENGKAP</td>
+              <td style="padding: 10px;">VIA SEMUA BANK, E-WALLLET & PULSA</td>
+            </tr>
+            <tr>
+              <td style="padding: 10px;">RATING SITUS TERPERCAYA</td>
+              <td style="padding: 10px;">⭐️⭐️⭐️⭐️⭐️</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    </div>
+    <br>
+    <div class="bottom bg-dark">
+      <div class="container">
+        <div class="row mb-3" style="background-color: #000;">
+          <div class="col-md-12 pb-5">
+            <div class="site-description">
+                <h1 style="text-align: center;">Dana Slot &gt;&gt; Situs Slot Gacor Maksimal Via Dana Qris Pulsa Terbaik 2023</h1>
+<p style="text-align: justify;">Bermain game slot bisa membuat Anda menjadi taipan instan dengan cara yang mudah dan cepat, apalagi jika Anda bermain di website yang tepat seperti <a href="https://akparjakarta.ac.id/wp-content/">Slot dana</a>. Disini Anda bisa mendapatkan berbagai keuntungan dan hadiah yang bisa didapatkan dari ratusan permainan yang terdapat di situs Slo. Tersedia berbagai pilihan permainan yang dapat memberikan keuntungan besar bagi seluruh pelanggan yang telah mendaftar di website kami. Jika anda sedang mencari website bermain slot pulsa yang tepat dan terpercaya, situs kami bisa menjadi pilihan karena kami merupakan website slot terpercaya yang telah mendapatkan lisensi dan sertifikat resmi dari agensi iGaming terbesar di Filipina yaitu PAGCOR. Dengan situs ini, Anda dapat mengisi waktu luang sekaligus mendapatkan keuntungan dengan cepat dan mudah.</p>
+<p style="text-align: justify;">Kami bilang ini perkara mudah karena hanya dengan modal Rp 10.000 saja, Anda sudah bisa menghasilkan jutaan dengan memainkan game judi online seperti slot di website ini dan menghasilkan keuntungan hingga ratusan ribu apalagi jutaan. Banyak dari pelanggan kami yang merasakan sendiri keuntungan tersebut karena pelanggan yang telah bergabung di situs Slot dana dan benar-benar aktif bermain dan bersenang-senang dengan judi <a href="https://akparjakarta.ac.id/wp-content/">slot dana terpercaya</a> di Indonesia.</p>
+<p style="text-align: justify;">Di era sekarang ini, mencari uang sebenarnya tidaklah sulit dan kami sangat mengikuti teknologi sehingga bisa tampil membantu mendampingi para pelanggan dan penggemar permainan slot. Sebelumnya slot hanyalah permainan mesin biasa yang dapat dimainkan secara offline di tempat hiburan seperti kasino dan juga akomodasi yang menyediakan hiburan kasino.</p>
+<p style="text-align: justify;">Namun kini hanya bermodalkan HP dan PC saja anda sudah bisa menghasilkan uang jutaan dari bermain slot pulsa. Maka dari itu kini anda bisa bergabung dengan agen kami dan juga mendaftarkan akun disini untuk merasakan sendiri keuntungan dari permainan <a href="https://akparjakarta.ac.id/wp-content/">slot pulsa Gacor</a> yang menguntungkan.</p>
+<h2 style="text-align: center;">Mainkan Situs Agen Judi Pulsa dan Judi Slot Terpercaya di Slot dana</h2>
+<p style="text-align: justify;"><a href="https://akparjakarta.ac.id/wp-content/">Agen judi pulsa</a> manapun datang untuk pelanggannya sehingga Anda tidak perlu bingung mencari website yang tepat. Namun tidak semua website memberikan keuntungan yang sama, sehingga Anda harus lebih pintar dan detail dalam memilih situs yang bisa membuat Anda untung setiap hari dalam jumlah besar, bukan malah menambah kerugian dalam jumlah besar.</p>
+<p style="text-align: justify;">Untungnya di agen kami banyak sekali keuntungan dan kemudahan yang ditawarkan kepada pelanggan sehingga hal inilah yang membuat pelanggan sangat betah bermain di agen kami. Pastikan Anda mendapatkan website terbaik untuk bermain slot terpercaya agar tidak membuat Anda rugi. Dan kini Anda sudah berada di website yang tepat sehingga tidak perlu mencari website lain untuk bermain agen <a href="https://akparjakarta.ac.id/wp-content/">judi pulsa terpercaya</a>.</p>
+<p style="text-align: justify;">Kami menyediakan berbagai pilihan permainan dengan tema yang asyik dan seru untuk dimainkan sehingga pelanggan tidak akan merasa jenuh dan bosan. Anda juga bisa memainkan Dana Slots setiap hari tanpa harus bingung memilih permainan yang tepat untuk Anda. Berbagai tema hadir untuk menambah keuntungan besar secara instan dengan penawaran rate RTP yang menggiurkan.</p>
+<p style="text-align: justify;">Selain memiliki ratusan permainan yang menguntungkan, kami termasuk yang paling diinginkan dan dibutuhkan oleh pelanggan yang memantau kemudahan pembayaran pada waktu bermain. Kami selalu menambahkan kemudahan dalam metode pembayaran bagi pelanggan, seperti menggunakan transfer bank, metode pembayaran dengan dompet digital, dan deposit pulsa tanpa potongan.</p>
+<p style="text-align: justify;">Kenyamanan dalam melakukan pembayaran sangatlah penting bagi pelanggan, oleh karena itu fasilitas ini terus kami tambahkan agar pelanggan sangat suka dan nyaman bermain disini.</p>
+<h3 style="text-align: center;">Beragam Pilihan Pembayaran Mudah</h3>
+<p style="text-align: justify;">Siapapun bisa mendapatkan kesempatan memenangkan jutaan di RTP Slots, bahkan pemain baru pun tidak. Anda dapat menyetor dan menarik hadiah atau menarik RTP Slots beserta berbagai metode pembayaran RTP Slot yang masuk dan dapat melakukan RTP Slots dimana saja dan kapan saja. Hal ini selalu agar para pelanggan RTP Slot merasa nyaman karena semua pelanggan dapat menggunakan akses apapun untuk bertransaksi ketika bermain di agen judi<a href="https://akparjakarta.ac.id/wp-content/"> RTP Slot pulsa</a>.</p>
+<p style="text-align: justify;">Kami menyediakan pembayaran RTP Live dengan bank lokal terbesar, RTP Live dan ternama di Indonesia seperti bank BCA, BNI, Mandiri BRI, CIMB Niaga, Bank RTP Live Permata dan lain-lain. Selain bank, kami juga menyediakan opsi pembayaran Live RTP menggunakan uang digital atau e-wallet dengan menggunakan DANA, OVO, Gopay, LinkAja, dan Sakuku. Selain itu RTP Live Anda juga dapat melakukan deposit RTP Live dengan menggunakan pembayaran melalui pulsa tanpa harus dikenakan deposit pulsa RTP Live tanpa potongan.</p>
+<p style="text-align: justify;">Semua pembayaran ini dapat diakses kapan saja selama 24 jam selama bank dan dompet digital tidak mengalami gangguan sistem atau offline, oleh karena itu Anda dapat melakukan pembayaran bersama-sama menggunakan pulsa. Kami selalu memberikan kemudahan dan fungsi tambahan untuk pelanggan tercinta yang kami hormati agar semua pelanggan merasa nyaman bermain disini.</p>
+<h3 style="text-align: center;">Keuntungan Tambahan dengan Bonus Harian</h3>
+<p style="text-align: justify;"><a href="https://akparjakarta.ac.id/wp-content/">Slot online</a> merupakan permainan yang dapat memberikan keuntungan besar bagi siapa saja dengan permainannya. Tentu saja hal ini terlalu menguntungkan, namun Anda bisa mendapatkan keuntungan dari mana saja, tidak hanya mengandalkan permainan dan permainan yang kami tawarkan. Pelanggan dapat memperoleh keuntungan tambahan tambahan dari berbagai bonus yang kami berikan yang sangat menguntungkan.</p>
+<p style="text-align: justify;">Bonus tambahan akan meningkatkan jumlah keuntungan Anda sehingga bonus adalah hal yang paling dibutuhkan pelanggan. Anda bisa mendapatkan bonus setiap hari jika bergabung dengan website ini sehingga sama sekali tidak ada ruginya jika Anda menjadi member kami.</p>
+<p style="text-align: justify;">Berbicara mengenai keuntungan sebenarnya tidak akan ada habisnya, bahkan datangnya promo dan bonus bisa membuat keuntungan anda berlipat ganda. Tak heran jika website kami dikatakan sebagai website terbaik bagi pelanggan karena menawarkan banyak sekali promo dan bonus tambahan karena kami memahami bahwa bermain slot online tidak selalu selalu memberikan kemenangan tambahan setiap saat. Kami juga memahami bahwa banyak orang yang mencari keuntungan dari permainan ini.</p>
+<p style="text-align: justify;">Beberapa bonus tambahan dibawah ini sangat kami rekomendasikan dan bisa anda dapatkan dengan mudah, diantaranya hanya membutuhkan modal yang sedikit, apalagi ada yang tidak memerlukan modal sama sekali untuk bisa mendapatkan bonus bermain <a href="https://akparjakarta.ac.id/wp-content/">slot pulsa tanpa potongan</a>.</p>
+<h3 style="text-align: center;">Bonus Anggota Baru</h3>
+<p style="text-align: justify;">Sesuai dengan namanya, <a href="https://akparjakarta.ac.id/wp-content/">bonus new member</a> merupakan bonus yang diberikan kepada member baru. Cara mendapatkannya sangat mudah, cukup menjadi member kami dan daftarkan akun anda di website kami. Siapapun yang bisa mendapatkan bonus ini selama belum pernah mendaftarkan akunnya di sini sebelumnya. Bonus hingga 20% bisa didapatkan hanya dengan modal 100 ribu saat pertama kali mendaftar.</p>
+<p style="text-align: justify;">Dengan mendaftar akun dan mendapatkan bonus 20% dijamin anda akan senang karena bonus ini merupakan keuntungan pertama yang bisa anda dapatkan disini. Tentunya masih banyak keuntungan lain yang bisa Anda dapatkan dengan menikmati bonus-bonus lain yang kami berikan.</p>
+<h3 style="text-align: center;">Bonus Referensi</h3>
+<p style="text-align: justify;">Yang kedua dan juga sangat mudah untuk didapatkan adalah bonus tambahan referral yang merupakan salah satu bonus tambahan yang bisa didapatkan tanpa perlu mengeluarkan modal sama sekali. Ya plus abaca itu benar, Anda hanya perlu membuat akun, mengklaim bonus anggota baru, dan masuk juga ke halaman promosi dan Anda akan menemukan bonus referensi.</p>
+<p style="text-align: justify;">Untuk dapat memanfaatkan bonus ini, Anda harus membagikan kode referral atau ID referral Anda kepada saudara dan teman yang Anda ajak bergabung di website ini.</p>
+<p style="text-align: justify;">Kemudian dengan menambahkan ID referral anda kepada teman dan sahabat yang juga ingin bersenang-senang dalam permainan slot, mereka dapat mendaftarkan akun menggunakan kode referral yang anda berikan dan keuntungan yang didapat akan diserahkan kepada anda selama bermain judi <a href="https://akparjakarta.ac.id/wp-content/">slot deposit dana</a> ini.</p>
+<p style="text-align: justify;">Anda tidak memerlukan modal untuk mendapatkan bonus referral ini bukan? Anda hanya perlu mengundang sebanyak mungkin orang yang menyukai slot utama dan ingin mendapat untung serta mendapatkan uang praktis untuk bergabung dan menjadi pelanggan di sini. Semakin banyak orang yang Anda bawa, semakin banyak keuntungan yang Anda peroleh.</p>
+<h3 style="text-align: center;">Bonus Putaran Gratis</h3>
+<p style="text-align: justify;">Bonus berikutnya yang sangat dinantikan oleh hampir semua pemain dan pecinta slot online adalah bonus free spin, dimana <a href="https://akparjakarta.ac.id/wp-content/">slot dana qris</a> menjadi fitur yang paling disukai pelanggan. Free spin merupakan salah satu fitur yang terdapat pada permainan slot online Gacor dan fitur ini sangat dinantikan oleh para pelanggan ketika sedang bermain.</p>
+<p style="text-align: justify;">Hal ini dikarenakan free spin dapat mendukung pelanggan untuk dapat memainkan mesin slot online tanpa harus mengeluarkan modal atau menggunakan uang sungguhan untuk terus memutar roda slot. Fitur ini sangat menguntungkan dengan rangkaian jackpot yang menghasilkan keuntungan besar di website Slo.</p>
+<h3 style="text-align: center;">Bonus Setoran</h3>
+<p style="text-align: justify;">Kehadiran bonus menjadi hal yang paling menguntungkan bagi siapapun khususnya pelanggan yang mencari uang instan di website judi ini. <a href="https://akparjakarta.ac.id/wp-content/">Slot dana 5k</a> masih banyak sekali promo dan bonus yang kami berikan dan bisa didapatkan setiap harinya, tidak benar salah satunya adalah bonus deposit. Di sini pelanggan cukup mendaftar dan melakukan deposit seperti biasa.</p>
+<p style="text-align: justify;">Deposit dilakukan agar anda dapat membuka permainan dan bertaruh dengan modal anda, namun selain itu melakukan deposit juga dapat membuat anda mendapatkan bonus-bonus yang menguntungkan. Bahkan bonus ini bisa Anda raih dengan mudah setiap harinya. Dalam satu hari, Anda hanya perlu melakukan top up saldo atau melakukan deposit sebanyak 4 kali saja maka bonus ini sudah bisa Anda dapatkan. Klaim saja bonus ini langsung dari customer service kami yang tersedia 24 jam sehari tanpa lelah.</p>
+<h3 style="text-align: center;">Fitur Chat di Slot dana dengan Customer Service 24 Jam</h3>
+<p style="text-align: justify;">Pelayanan terbaik bukanlah salah satu aspek penting mengapa Anda harus bermain di website ini. Bayangkan jika Anda sudah menemukan website bagus dengan berbagai pilihan permainan dan banyak keuntungan yang diberikan, namun ketika Anda ingin mendapatkan bonus atau ingin menyelesaikan masalah Anda, ternyata tidak ada layanan pelanggan yang dapat membantu Anda?</p>
+<p style="text-align: justify;">Tentu saja hal itu akan sangat memalukan padahal website tersebut merupakan tempat bermain slot online gacor mudah menang dan tempat bermain <a href="https://akparjakarta.ac.id/wp-content/">slot dana 10 k</a> yang paling banyak dicari dan dibutuhkan ratusan pelanggan. Website judi slot online terbaik adalah yang mempunyai pelayanan mutual terbaik.</p>
+<p style="text-align: justify;">Oleh karena itu kami sebagai agen slot online terbaik pasti akan memberikan tambahan dan menghadirkan layanan pelanggan yang sangat berkualitas dan siap membantu pelanggan kapan saja. Sekecil apa pun masalah Anda, dapat diselesaikan dengan cepat dan cepat dengan layanan pelanggan kami. Anda bisa mendapatkan fitur chat dengan customer service kami pada icon yang muncul secara otomatis di kanan bawah halaman situs.</p>
+<p style="text-align: justify;">Layanan pelanggan kami ada tanpa henti untuk memberikan layanan mereka kapan pun Anda membutuhkannya. Anda juga dapat mengklaim bonus di fasilitas pelanggan dan juga menarik hadiah atas kemenangan Anda yang telah memainkan permainan judi online gacor di situs ini.</p> 
+                        </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+     </div>
+      <div class="container">
+        <div class="copyleft acenter pb-2">
+          <span>&copy; 2023. Slot Dana >> Situs Slot Gacor Maksimal Via Dana Qris Pulsa Terbaik 2023</span>
+        </div>
+      </div>
+  </body>
+
+</html>
