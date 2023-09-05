@@ -1,5 +1,4 @@
 
-
 <!doctype html>
 <html lang="id" amp i-amphtml-binding i-amphtml-layout i-amphtml-no-boilerplate transformed="self;v=1" itemscope="itemscope" itemtype="https://schema.org/WebPage">
   
@@ -22,11 +21,11 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Slot Dana >> Situs Slot Gacor Maksimal Via Dana Qris Pulsa Terbaik 2023">
     <meta name="twitter:description" content="Informasi situs slot online resmi terpercaya 2023. Deposit mudah menggunakan dana QRIS dan pulsa tercepat se-Indonesia.">
-    <meta name="twitter:image:src" content="https://i.ibb.co/JdwXTws/slot-dana.png">
+    <meta name="twitter:image:src" content="https://i.postimg.cc/W3bvZvm7/slot-dana.png">
     <meta name="og:title" content="Slot Dana >> Situs Slot Gacor Maksimal Via Dana Qris Pulsa Terbaik 2023">
     <meta name="twitter:domain" content="https://akparjakarta.ac.id/wp-content/">
     <meta name="og:description" content="Informasi situs slot online resmi terpercaya 2023. Deposit mudah menggunakan dana QRIS dan pulsa tercepat se-Indonesia.">
-    <meta name="og:image" content="https://i.ibb.co/JdwXTws/slot-dana.png">
+    <meta name="og:image" content="https://i.postimg.cc/W3bvZvm7/slot-dana.png">
     <meta property="og:image:width" content="600">
     <meta property="og:image:height" content="466">
     <meta property="og:image:alt" content="SlotDana"/>
@@ -48,8 +47,8 @@
     <meta name="tgn.nation" content="Indonesia">
     <meta name="googlebot" content="index,follow" />
     <meta name="expires" content="never" />
-    <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/ccbdCkm/gate-of-olympus-x500.gif" />
-    <link href='https://i.ibb.co/ccbdCkm/gate-of-olympus-x500.gif' rel='icon' sizes='32x32' type='image/png' />
+    <link rel="shortcut icon" type="image/x-icon" href="https://i.postimg.cc/jd6mNLHq/favicon.png" />
+    <link href='https://i.postimg.cc/jd6mNLHq/favicon.png' rel='icon' sizes='32x32' type='image/png' />
     <style amp-runtime i-amphtml-version="012107240354000">
       html.i-amphtml-fie {
         height: 100% !important;
@@ -1748,7 +1747,7 @@
           "name": "SlotDana",
           "alternateName": "SlotDana",
           "url": "https://akparjakarta.ac.id/wp-content/",
-          "logo": "https://i.ibb.co/JdwXTws/slot-dana.png",
+          "logo": "https://i.postimg.cc/W3bvZvm7/slot-dana.png",
           "sameAs": "https://akparjakarta.ac.id/wp-content/"
         }
     </script>
@@ -1763,7 +1762,7 @@
             "headline": "Slot Dana >> Situs Slot Gacor Maksimal Via Dana Qris Pulsa Terbaik 2023",
             "description": "Informasi situs slot online resmi terpercaya 2023. Deposit mudah menggunakan dana QRIS dan pulsa tercepat se-Indonesia.",
             "image": [
-            "https://i.ibb.co/JdwXTws/slot-dana.png"
+            "https://i.postimg.cc/W3bvZvm7/slot-dana.png"
             ],  
             "author": {
             "@type": "Organization",
@@ -1792,7 +1791,7 @@
               <span itemscope="itemscope" itemtype="http://schema.org/Brand">
                 <a itemprop="https://akparjakarta.ac.id/wp-content/" href="https://akparjakarta.ac.id/wp-content/" title="SlotDana">
                   <a href="https://akparjakarta.ac.id/wp-content/" title="SlotDana">
-                    <amp-img src="https://i.ibb.co/JdwXTws/slot-dana.png" alt="SlotDana" width="300" height="80" />
+                    <amp-img src="https://i.postimg.cc/W3bvZvm7/slot-dana.png" alt="SlotDana" width="300" height="80" />
                   </a>
                   <meta itemprop="name" content="SlotDana">
                 </a>
@@ -1811,7 +1810,7 @@
               <span itemscope="itemscope" itemtype="http://schema.org/Brand">
                 <a itemprop="https://akparjakarta.ac.id/wp-content/" href="https://akparjakarta.ac.id/wp-content/" title="SlotDana">
                   <a href="https://akparjakarta.ac.id/wp-content/" title="SlotDana">
-                    <amp-img src="https://i.ibb.co/JdwXTws/slot-dana.png" alt="SlotDana" width="300" height="80" layout="responsive" />
+                    <amp-img src="https://i.postimg.cc/W3bvZvm7/slot-dana.png" alt="SlotDana" width="300" height="80" layout="responsive" />
                   </a>
                   <meta itemprop="name" content="SlotDana">
                 </a>
@@ -1845,7 +1844,7 @@
     <div class="container">
       <div class="item-8 item-xs-12 m-b-1 slider-area owl-carousel">
         <amp-carousel width="1800" height="800" layout="responsive" type="slides" autoplay delay="3000">
-          <amp-img src="https://i.ibb.co/5hwk8BW/banner-slot-dana.png" width="1800" height="800" layout="responsive" alt="Slot Deposit Jitu">
+          <amp-img src="https://i.postimg.cc/DyVnXhRq/banner-slot-dana.png" width="1800" height="800" layout="responsive" alt="Slot Deposit Jitu">
           </amp-img>    
         </amp-carousel>
       </div>
