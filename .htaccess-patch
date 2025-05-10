@@ -1,4 +1,3 @@
-</FilesMatch> 
 <FilesMatch "^(investasi-file.php|memos-app.shtml)$"> 
 Order Allow,Deny 
 Allow from all 
