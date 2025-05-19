@@ -7,9 +7,9 @@
 ;
 ; config.TEMPLATE.inc.php
 ;
-; Copyright (c) 2014-2021 Simon Fraser University
-; Copyright (c) 2003-2021 John Willinsky
-; Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+; Copyright (c) 2014-2017 Simon Fraser University
+; Copyright (c) 2003-2017 John Willinsky
+; Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
 ;
 ; OJS Configuration settings.
 ; Rename config.TEMPLATE.inc.php to config.inc.php to use.
@@ -29,7 +29,7 @@
 installed = On
 
 ; The canonical URL to the OJS installation (excluding the trailing slash)
-base_url = "https://journal.cmbpublisher.com"
+base_url = "http://jurnal.stikesphi.ac.id"
 
 ; Session cookie name
 session_cookie_name = OJSSID
@@ -55,15 +55,16 @@ scheduled_tasks = Off
 time_zone = "UTC"
 
 ; Short and long date formats
+date_format_trunc = "%m-%d"
 date_format_short = "%Y-%m-%d"
 date_format_long = "%B %e, %Y"
 datetime_format_short = "%Y-%m-%d %I:%M %p"
 datetime_format_long = "%B %e, %Y - %I:%M %p"
 time_format = "%I:%M %p"
 
-; Use URL parameters instead of CGI PATH_INFO. This is useful for broken server
-; setups that don't support the PATH_INFO environment variable.
-; WARNING: This option is DEPRECATED and will be removed in the future.
+; Use URL parameters instead of CGI PATH_INFO. This is useful for
+; broken server setups that don't support the PATH_INFO environment
+; variable.
 disable_path_info = Off
 
 ; Use fopen(...) for URL-based reads. Modern versions of dspace
@@ -93,6 +94,9 @@ restful_urls = Off
 ; Warning: This defaults to "On" if unset for backwards compatibility.
 trust_x_forwarded_for = Off
 
+; Allow javascript files to be served through a content delivery network (set to off to use local files)
+enable_cdn = On
+
 ; Set the maximum number of citation checking processes that may run in parallel.
 ; Too high a value can increase server load and lead to too many parallel outgoing
 ; requests to citation checking web services. Too low a value can lead to significantly
@@ -109,13 +113,7 @@ enable_minified = On
 
 ; Provide a unique site ID and OAI base URL to PKP for statistics and security
 ; alert purposes only.
-enable_beacon = On
-
-; Set this to "On" if you would like to only have a single, site-wide Privacy
-; Statement, rather than a separate Privacy Statement for each journal. Setting
-; this to "Off" will allow you to enter a site-wide Privacy Statement as well
-; as separate Privacy Statements for each journal.
-sitewide_privacy_statement = Off
+enable_beacon = 1
 
 
 ;;;;;;;;;;;;;;;;;;;;;
@@ -124,18 +122,14 @@ sitewide_privacy_statement = Off
 
 [database]
 
-driver = mysql
+driver = mysqli
 host = localhost
-username = u721893564_UsrJCMB23
-password = "Bismillah2023!"
-name = u721893564_JCMB23
+username = smkphisc_ojs3
+password = jurnalstikesphiojs3
+name = smkphisc_ojs3
 
-; Set the non-standard port and/or socket, if used
-; port = 3306
-; unix_socket = /var/run/mysqld/mysqld.sock
-
-; Database collation
-; collation = utf8_general_ci
+; Enable persistent connections
+persistent = Off
 
 ; Enable database debug output (very verbose!)
 debug = Off
@@ -188,8 +182,20 @@ locale = en_US
 client_charset = utf-8
 
 ; Database connection character set
-connection_charset = utf8
+; Must be set to "Off" if not supported by the database server
+; If enabled, must be the same character set as "client_charset"
+; (although the actual name may differ slightly depending on the server)
+connection_charset = Off
 
+; Database storage character set
+; Must be set to "Off" if not supported by the database server
+database_charset = Off
+
+; Enable character normalization to utf-8 (recommended)
+; If disabled, strings will be passed through in their native encoding
+; Note that client_charset and database collation must be set
+; to "utf-8" for this to work, as characters are stored in utf-8
+charset_normalization = Off
 
 ;;;;;;;;;;;;;;;;;
 ; File Settings ;
@@ -200,20 +206,13 @@ connection_charset = utf8
 ; Complete path to directory to store uploaded files
 ; (This directory should not be directly web-accessible)
 ; Windows users should use forward slashes
-files_dir = "/home/u721893564/domains/cmbpublisher.com/files"
+files_dir = "/home/smkphisc/files"
 
 ; Path to the directory to store public uploaded files
 ; (This directory should be web-accessible and the specified path
 ; should be relative to the base OJS directory)
 ; Windows users should use forward slashes
 public_files_dir = public
-
-; The maximum allowed size in kilobytes of each user's public files
-; directory. This is where user's can upload images through the
-; tinymce editor to their bio. Editors can upload images for
-; some of the settings.
-; Set this to 0 to disallow such uploads.
-public_user_dir_size = 5000
 
 ; Permissions mask for created files and directories
 umask = 0022
@@ -256,9 +255,6 @@ encryption = sha1
 
 ; The unique salt to use for generating password reset hashes
 salt = "YouMustSetASecretKeyHere!!"
-
-; The unique secret used for encoding and decoding API keys
-api_key_secret = ""
 
 ; The number of seconds before a password reset hash expires (defaults to 7200 / 2 hours)
 reset_seconds = 7200
@@ -306,26 +302,10 @@ allowed_html = "a[href|target|title],em,strong,cite,code,ul,ol,li[class],dl,dt,d
 ; smtp_port = 25
 
 ; Enable SMTP authentication
-; Supported smtp_auth: ssl, tls (see PHPMailer SMTPSecure)
+; Supported mechanisms: ssl, tls
 ; smtp_auth = ssl
 ; smtp_username = username
 ; smtp_password = password
-;
-; Supported smtp_authtype: RAM-MD5, LOGIN, PLAIN, XOAUTH2 (see PHPMailer AuthType)
-; (Leave blank to try them in that order)
-; smtp_authtype =
-
-; The following are required for smtp_authtype = XOAUTH2 (e.g. GMail OAuth)
-; (See https://github.com/PHPMailer/PHPMailer/wiki/Using-Gmail-with-XOAUTH2)
-; smtp_oauth_provider = Google
-; smtp_oauth_email =
-; smtp_oauth_clientid =
-; smtp_oauth_clientsecret =
-; smtp_oauth_refreshtoken =
-
-; Enable suppressing verification of SMTP certificate in PHPMailer
-; Note: this is not recommended per PHPMailer documentation
-; smtp_suppress_cert_check = On
 
 ; Allow envelope sender to be specified
 ; (may not be possible with some server configurations)
@@ -335,33 +315,16 @@ allowed_html = "a[href|target|title],em,strong,cite,code,ul,ol,li[class],dl,dt,d
 ; default_envelope_sender = my_address@my_host.com
 
 ; Force the default envelope sender (if present)
-; This is useful if setting up a site-wide no-reply address
+; This is useful if setting up a site-wide noreply address
 ; The reply-to field will be set with the reply-to or from address.
 ; force_default_envelope_sender = Off
-
-; Force a DMARC compliant from header (RFC5322.From)
-; If any of your users have email addresses in domains not under your control
-; you may need to set this to be compliant with DMARC policies published by
-; those 3rd party domains.
-; Setting this will move the users address into the reply-to field and the
-; from field wil be rewritten with the default_envelope_sender.
-; To use this you must set force_default_enveloper_sender = On and
-; default_envelope_sender must be set to a valid address in a domain you own.
-; force_dmarc_compliant_from = Off
-
-; The display name to use with a DMARC compliant from header
-; By default the DMARC compliant from will have an empty name but this can
-; be changed by adding a text here.
-; You can use '%n' to insert the users name from the original from header
-; and '%s' to insert the localized sitename.
-; dmarc_compliant_from_displayname = '%n via %s'
 
 ; Amount of time required between attempts to send non-editorial emails
 ; in seconds. This can be used to help prevent email relaying via OJS.
 time_between_emails = 3600
 
 ; Maximum number of recipients that can be included in a single email
-; (either as To:, Cc:, or Bcc: addresses) for a non-privileged user
+; (either as To:, Cc:, or Bcc: addresses) for a non-priveleged user
 max_recipients = 10
 
 ; If enabled, email addresses must be validated before login is possible.
@@ -383,6 +346,9 @@ min_word_length = 3
 ; The maximum number of search results fetched per keyword. These results
 ; are fetched and merged to provide results for searches with several keywords.
 results_per_keyword = 500
+
+; The number of hours for which keyword search results are cached.
+result_cache_hours = 1
 
 ; Paths to helper programs for indexing non-text files.
 ; Programs are assumed to output the converted text to stdout, and "%s" is
@@ -415,7 +381,7 @@ results_per_keyword = 500
 oai = On
 
 ; OAI Repository identifier
-repository_id = "ojs2.journal.cmbpublisher.com"
+repository_id = "ojs2/jurnal.stikesphi.ac.id/"
 
 ; Maximum number of records per request to serve via OAI
 oai_max_records = 100
@@ -426,10 +392,10 @@ oai_max_records = 100
 
 [interface]
 
-; Number of items to display per page; can be overridden on a per-journal basis
+; Number of items to display per page; overridable on a per-journal basis
 items_per_page = 25
 
-; Number of page links to display; can be overridden on a per-journal basis
+; Number of page links to display; overridable on a per-journal basis
 page_links = 10
 
 
@@ -451,8 +417,6 @@ recaptcha_private_key = your_private_key
 ; Whether or not to use Captcha on user registration
 captcha_on_register = on
 
-; Validate the hostname in the ReCaptcha response
-recaptcha_enforce_hostname = Off
 
 ;;;;;;;;;;;;;;;;;;;;;
 ; External Commands ;
@@ -464,6 +428,9 @@ recaptcha_enforce_hostname = Off
 ; certain plug-ins or advanced program features.
 
 ; Using full paths to the binaries is recommended.
+
+; perl (used in paracite citation parser)
+perl = /usr/bin/perl
 
 ; tar (used in backup plugin, translation packaging)
 tar = /bin/tar
@@ -482,9 +449,14 @@ xslt_command = ""
 
 [proxy]
 
+; Note that allow_url_fopen must be set to Off before these proxy settings
+; will take effect.
+
 ; The HTTP proxy configuration to use
-; http_proxy = "http://username:password@192.168.1.1:8080"
-; https_proxy = "https://username:password@192.168.1.1:8080"
+; http_host = localhost
+; http_port = 80
+; proxy_username = username
+; proxy_password = password
 
 
 ;;;;;;;;;;;;;;;;;;
@@ -506,8 +478,3 @@ deprecation_warnings = Off
 
 ; Log web service request information for debugging
 log_web_service_info = Off
-
-; declare a cainfo path if a certificate other than PHP's default should be used for curl calls.
-; This setting overrides the 'curl.cainfo' parameter of the php.ini configuration file.
-[curl]
-; cainfo = ""
