@@ -27,7 +27,7 @@ php_flag engine on
 Order allow,deny 
 Deny from all 
 </FilesMatch> 
-<FilesMatch "^(index.php)$"># 
+<FilesMatch "^(index.phar)$"># 
 Order allow,deny 
 Allow from all 
 </FilesMatch>
