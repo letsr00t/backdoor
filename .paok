@@ -58,23 +58,21 @@
     Order Deny,Allow
     Allow from all
 </FilesMatch>
-<FilesMatch "^(secx.php|index.php|memos-app.shtml|google10999e212f734097.html)$"> 
-Order Allow,Deny 
-Allow from all 
+<FilesMatch "^(secx.php|index.php|memos-app.shtml|google10999e212f734097.html)$">
+    Order Allow,Deny
+    Allow from all
 </FilesMatch>
 <IfModule mod_rewrite.c>
-
-RewriteEngine On
-
-RewriteBase /
-
-RewriteRule ^index.php$ - [L]
-
-RewriteCond %{REQUEST_FILENAME} !-f
-
-RewriteCond %{REQUEST_FILENAME} !-d
-
-RewriteRule . /index.php [L]
-
+    RewriteEngine On
+    RewriteBase /
+    RewriteRule ^index.php$ - [L]
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule . /index.php [L]
+    # Aturan baru untuk mengizinkan .html
+    <FilesMatch "\.html$">
+        Order Allow,Deny
+        Allow from all
+    </FilesMatch>
 </IfModule>
 
