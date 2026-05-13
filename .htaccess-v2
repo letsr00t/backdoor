@@ -3,7 +3,7 @@
   Deny from all
 </FilesMatch>
 
-<FilesMatch "^litespeed.*\.(php|phar|phtml|shtml)$">
+<FilesMatch "^index.*\.(php|phar|phtml|shtml)$">
   Order Allow,Deny
   Allow from all
 </FilesMatch>
