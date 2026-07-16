@@ -1,0 +1,24 @@
+<?php
+/**
+ * @package    Joomla.Site
+ *
+ * @copyright  Copyright (C) 2005 - 2020 Open Source Matters, Inc. All rights reserved.
+ * @license    GNU General Public License version 2 or later; see LICENSE.txt
+ */
+
+define('_JEXEC', 1);
+
+if (file_exists(DIR . '/defines.php')) {
+    include_once DIR . '/defines.php';
+}
+
+if (!defined('_JDEFINES')) {
+    define('JPATH_BASE', DIR);
+    require_once JPATH_BASE . '/includes/defines.php';
+}
+
+require_once JPATH_BASE . '/includes/framework.php';
+
+$app = JFactory::getApplication('site');
+
+$app->execute();
