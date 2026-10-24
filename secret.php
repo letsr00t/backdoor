@@ -203,7 +203,7 @@ if (is_logged_in()) {
     <div class="container">
       <img id="clickableImage" src="https://d.top4top.io/p_3836ovwvw1.jpg" width="500px" alt="SECURITY IS IMPORTANT">
       <div id="linkContainer"></div>
-      <p>~ SECTY - SECURITY IS IMPORTANT ~</p>
+      <p>~ RAWRRR - SECURITY IS IMPORTANT ~</p>
     </div>
   </body>
 </html>
